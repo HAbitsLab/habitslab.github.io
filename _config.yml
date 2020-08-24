@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: HABits Lab                       # Title in top navigation bar (navbar) and <head>
-description: Passibe sensing data analytics- Paving the way towards personalized medicine # Site description in <head>
+description: Passive sensing data analytics- Paving the way towards personalized medicine # Site description in <head>
 author: HABits Lab                # Used for copyright statement in footer
 # url: "https://habitslab.com"  # No slash at the end
 # baseurl: "/home"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
