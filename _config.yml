@@ -21,15 +21,24 @@ collections:
     output: true
     permalink: /:collection/:name
 
+# Director About Section
+about_title: Director of Lab - Nabil Alshurafa 
+director_profile_image: /assets/img/director.jpg
+director_overview: Ph. D, Director of HAbits Lab, Northwestern University, Preventive Medicine, Feinberg School of Medicine, Computer Science, McCormick School of Engineering
+director_content: | # this will include new lines to allow paragraphs
+  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+
+
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
-logo: /assets/img/habits-logo.png  # Logo in navbar, will be displayed with 30px height
+logo: /assets/img/logo.png  # Logo in navbar, will be displayed with 30px height
 colors:
   links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+  banner: "#4E2A84"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#836EAA"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
 # BUILD SETTINGS
@@ -61,4 +70,4 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
+      layout: "default"                 # Only required for website, implied for sites using a theme

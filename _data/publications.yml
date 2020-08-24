@@ -1,0 +1,33 @@
+# Publication to go on the publication page
+
+- title: Is More Always Better?- Discovering Incentivized mHealth Intervention Engagement Related to Health Behavior Trends
+  date: 2019
+  conference: 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing (ubicomp 2019).
+  src: http://ubicomp.org/ubicomp2019/
+  download: assets/papers/66.pdf
+  tag: health machinelearning
+  code: https://github.com/ttruty
+  video: https://youtube.com
+  audio: https://youtube.com
+  slides: https://youtube.com
+  
+- title: micro-Stress EMA- A Passive Sensing Framework for Detecting in-the-wild Stress in Pregnant Mothers
+  date: 2019
+  conference: 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing (ubicomp 2019).
+  src: http://ubicomp.org/ubicomp2019/
+  download: assets/papers/65.pdf
+  tag: health wearable machinelearning
+
+- title: To Mask or Not to Mask? Balancing Privacy with Visual Confirmation Utility in Activity-Oriented Wearable Cameras
+  date: 2019
+  conference: 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing (ubicomp 2019).
+  src: http://ubicomp.org/ubicomp2019/
+  download: assets/papers/64.pdf
+  tag: health wearable eating sensor machinelearning
+
+- title: I Can’t Be Myself- Effects ofWearable Cameras on the Capture of Authentic Behavior in the Wild
+  date: 2018
+  conference: 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (ubicomp 2018).
+  src: http://ubicomp.org/ubicomp2018/
+  download: assets/papers/63.pdf
+  tag: health wearable eating sensor

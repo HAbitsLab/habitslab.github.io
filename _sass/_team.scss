@@ -2,9 +2,28 @@
 
 .team-member {
   margin-bottom: $grid-gutter-width;
+  display: inline-grid;
+
+  // //grid-template-rows: 50px 50px 50px;
+  grid-template-columns: 100px 100px 100px;
+  grid-gap: 3px;
+  //justify-items: center;
+  //border: 3px dashed $gray-200;
+
+  .role{
+    font-size: small;
+  }
+
+  .description-text{
+    font-size: x-small;
+  }
+
+  .team-text{
+    display: inline-flex;
+    width: 500px;
+  }
 
   & > img {
-    height: 100px;
     width: 100px;
     border-radius: 100px;
     border: 3px solid $gray-200;
@@ -15,4 +34,22 @@
     width: 16px;
     margin-top: -3px;
   }
+}
+
+.director{
+
+  display: flex;
+  padding: 10px;
+
+  .dir-text{
+    display: inline-flex;
+    font-weight: bold;
+  }
+
+  & > img {
+    width: 200px;
+    border-radius: 200px;
+    border: 3px solid $gray-200;
+  }
+
 }
