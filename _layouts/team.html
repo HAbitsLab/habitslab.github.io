@@ -55,7 +55,7 @@ description: Template for team page
   {{content }}
 
   <h2>COLLABORATORS</h2>
-  {% for member in site.data.team %}
+  <!-- {% for member in site.data.team %}
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
@@ -67,11 +67,11 @@ description: Template for team page
           <small class="text-muted">| {{ member.role }}</small>
         </div>
         {% endif %}
-      </h5>
+      </h5> -->
       <!-- <div id="description-text"> -->
         <!-- {{ member.description | markdownify }} -->
       <!-- </div> -->
-    </div>
+    <!-- </div>
       <ul class="list-inline">
         {% if member.orcid %}
         <li class="list-inline-item">
@@ -99,10 +99,10 @@ description: Template for team page
       </ul>
     </div>
 </div>
-{% endfor %}
+{% endfor %} -->
 
   <h2>FORMER STUDENT</h2>
-  {% for member in site.data.team %}
+  <!-- {% for member in site.data.team %}
       <div class="media team-member">
         <img class="mr-3" src="{{ member.image | relative_url }}">
         <div class="media-body">
@@ -114,11 +114,11 @@ description: Template for team page
               <small class="text-muted">| {{ member.role }}</small>
             </div>
             {% endif %}
-          </h5>
+          </h5> -->
           <!-- <div id="description-text"> -->
             <!-- {{ member.description | markdownify }} -->
           <!-- </div> -->
-        </div>
+        <!-- </div>
           <ul class="list-inline">
             {% if member.orcid %}
             <li class="list-inline-item">
@@ -146,7 +146,7 @@ description: Template for team page
           </ul>
         </div>
     </div>
-    {% endfor %}
+    {% endfor %} -->
 </div>
 
 
