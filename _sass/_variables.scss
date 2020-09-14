@@ -1,64 +1,24 @@
-// Theme overrides for Bootstrap variables
-// 
-// Only include variables that are overriden
-// or variables (indicated with !default) that are referred by other variables.
-// For all Bootstrap variables, see https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
+/**
+ * Set up here the general appearance of the theme.
+ */
 
-// Color system
+$themeColor: map-get($theme, themeColor) !default;
+$primaryDark: map-get($theme, primaryDark) !default;
+$accentDark: map-get($theme, accentDark) !default;
+$lightGray: map-get($theme, lightGray) !default;
+$texts: map-get($theme, texts) !default;
 
-$theme-colors: (
-  "primary": $custom_link_color,
-  "secondary": $custom_banner_color,
-  "footer": $custom_footer_color
+// Breakpoints
+$breakpoints: (
+  sm: 37.5rem
 );
 
-// Options
-// Spacing
+// Margins
+$rowMargin: 10px;
+$itemMargin: 15px;
 
-$spacer: 1rem !default;
+// Sizes
+$itemMinWidth: 300px;
 
-// Body
-// Links
-// Paragraphs
-// Grid breakpoints
-// Grid containers
-// Grid columns
-// Components
-// Fonts
-
-$font-family-base: "Roboto", sans-serif;
-
-$headings-margin-bottom: $spacer;
-
-// Tables
-// Buttons + Forms
-// Buttons
-// Forms
-// Form validation
-// Z-index master list
-// Navs
-// Navbar
-// Dropdowns
-// Pagination
-// Jumbotron
-// Cards
-// Tooltips
-// Popovers
-// Toasts
-// Badges
-
-$badge-font-weight: normal;
-
-// Modals
-// Alerts
-// Progress bars
-// List group
-// Image thumbnails
-// Figures
-// Breadcrumbs
-// Carousel
-// Spinners
-// Close
-// Code
-// Utilities
-// Printing
+// Settings
+$maxItemsPerRow: 6;

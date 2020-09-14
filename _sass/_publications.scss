@@ -1,5 +1,17 @@
 // Publications
 
+.pubs {
+  @include mainFont(400);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  margin: auto;
+  width: 70%;
+  padding-top: rem(80px);
+
+  
+}
+
 .pubitem {
     margin: 2em 0;
     line-height: 1em;
@@ -39,7 +51,7 @@
           border: 1px solid black;
           }
           a:hover {
-          background-color: black;
+          background-color: #836EAA;
           color: white;
           
           }

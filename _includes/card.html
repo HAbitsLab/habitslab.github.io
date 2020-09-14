@@ -1,7 +1,7 @@
-<div class="card" data-categories="{% for category in post.categories %}{{ category | downcase | strip }}|{% endfor %}">
+<div class="card" data-categories="{% for category in post.tag %}{{ category | downcase | strip }}|{% endfor %}">
   <a href="{{ post.url | relative_url }}">
     {% if post.background %}
-      <img class="card-img-top" src="{{ post.background | relative_url }}">
+      <img class="card-img-top" src="{{ post.optimized_image | relative_url }}">
     {% else %}
       <div class="card-img-top bg-secondary"></div>
     {% endif %}

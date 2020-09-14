@@ -1,14 +1,12 @@
 <div class="container intro-container">
-    <h3>{{ site.about_title | default: "About Director" }}</h3>
-    <div class="row">
       {%- if site.director_profile_image -%}
-      <div class="media director">
+      <div class="director">
           <img class="mr-1"  src="{{ site.director_profile_image | relative_url }}">
+          <h3>{{ site.about_title | default: "About Director" }}</h3>
           {{ site.director_overview | strip | markdownify }}
         </div>
       {%- endif -%}
       <!-- <div class="director" style="flex:2;">
         {{ site.director_content | strip | markdownify }}
       </div> -->
-    </div>
-  </div>
+</div>
