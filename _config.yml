@@ -9,7 +9,7 @@ tags:
   - theme
   - netlify
 # email: ttruty@gmail.com
-disqus_username: disqus_username # OTHER COMMENT SITE
+disqus_username: habitslab # OTHER COMMENT SITE
 show_hero: true
 menu:
   - title: Home
