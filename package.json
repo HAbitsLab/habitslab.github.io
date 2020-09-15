@@ -3,10 +3,10 @@
   "version": "3.1.0",
   "description": "A Research Theme for Tech based health research.",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://github.com/habitslab/habitslab.github.io.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://github.com/habitslab/habitslab.github.io.git"
   },
   "keywords": [
     "jekyll",
@@ -18,7 +18,7 @@
   "author": "Tim Truty",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/habitslab/habits-labits-template/issues"
+    "url": "https://github.com/habitslab/habitslab.github.io/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
