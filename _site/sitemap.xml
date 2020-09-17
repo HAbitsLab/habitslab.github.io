@@ -211,6 +211,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/syncwise/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-09-17</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/vibroscale/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
