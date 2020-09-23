@@ -3,11 +3,11 @@ name: Habits Lab
 title: Habits Lab | Tech based health research.
 description: Passive sensing data analytics- Paving the way towards personalized medicine 
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - mhealth
+  - health
+  - technology
+  - machine learning
+  - research
 # email: ttruty@gmail.com
 disqus_username: habitslab # OTHER COMMENT SITE
 show_hero: true
