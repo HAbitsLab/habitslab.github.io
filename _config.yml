@@ -1,25 +1,31 @@
-# SITE SETTINGS
-title: HABits Lab                       # Title in top navigation bar (navbar) and <head>
-description: Passive sensing data analytics- Paving the way towards personalized medicine # Site description in <head>
-author: HABits Lab                # Used for copyright statement in footer
-# url: "https://habitslab.com"  # No slash at the end
-# baseurl: "/home"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
-                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
-                                        # A baseurl affects internal links, see http://website.com/home/about/#links
-
-# SOCIAL PROFILES
-email: habitslab.email@example.com         # Social icon in footer
-twitter_username: habitslab             # Social icon in footer
-github_username: HAbitsLab                 # Social icon in footer
-
-# ORCID
-#author:
-# orcid: 0000-0001-6681-7564
-# Publication page
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:name
+# Site Settings
+name: Habits Lab
+title: Habits Lab | Tech based health research.
+description: Passive sensing data analytics- Paving the way towards personalized medicine 
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+# email: ttruty@gmail.com
+disqus_username: habitslab # OTHER COMMENT SITE
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Team
+    url: /team   
+  - title: Projects
+    url: /projects
+  - title: Publications
+    url: /publications    
+  - title: Contact
+    url: /contact
+  # - title: Feed
+  #   url: /feed.xml
 
 # Director About Section
 about_title: Director of Lab - Nabil Alshurafa 
@@ -30,44 +36,87 @@ director_content: | # this will include new lines to allow paragraphs
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 
 
-# THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
-archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
-logo: /assets/img/logo.png  # Logo in navbar, will be displayed with 30px height
-colors:
-  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#4E2A84"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#836EAA"                     # Background color for footer: use color that contrasts well with white
-rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+# Social Media Settings
+# Remove the item if you don't need it
+# facebook_username: facebook_username
+# instagram_username: instagram_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
-# BUILD SETTINGS
+# SOCIAL PROFILES
+email: habitslabnu@gmail.com         # Social icon in footer
+twitter_username: habitslab             # Social icon in footer
+github_username: HAbitsLab                 # Social icon in footer
+
+posts_on_home: 3
+tweets_on_home: true  
+
+# Posts Settings
+show_time_bar: false
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-177947667-1"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+
+# Build settings
 markdown: kramdown
-plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-scholar
-  - jekyll-orcid
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - LICENSE
-  - package-lock.json
-  - package.json
-  - habits.gemspec
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: false
+use_logo: false
 
-# FRONTMATTER DEFAULTS
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"                 # Only required for website, implied for sites using a theme
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version: v0.0.1

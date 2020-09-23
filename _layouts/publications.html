@@ -4,52 +4,53 @@ title: Publications
 ---
 
 
+<div class="home pubs">
+  <h1 class="mt-4">Publications</h1>
+  {{ content }}
+  {% assign publications = site.data.publications | sort: "date" | reverse %}
+  {% for pub in site.data.publications %}
+  <div class="pubitem">
+    <div class="pubteaser">
+      <!-- <a href="{{pub.url}}">
+        <img src="/assets/pubs/images/{{ pub.slug }}_small.png" alt="{{pub.slug}} publication teaser"/>
+      </a> -->
+    </div>
+    <div class="pubtitle">
+      {{ pub.title }}
+    </div>
+    <!-- <div class="pubauthors">
+      {{ pub.authors }}
+    </div> -->
+    <div class="pubinfo">
+    {{ pub.conference }}, {{ pub.date}}
+    </div>
+    <div class="publinks">
+      {% if pub.download %}
+      <a href="{{ pub.download }}" target="_blank"><i class="fa fa-file-pdf-o"></i>PDF</a>&nbsp;&nbsp;
+      {% endif %}
 
-<h1 class="mt-4">Publications</h1>
-{{ content }}
-{% assign publications = site.data.publications | sort: "date" | reverse %}
-{% for pub in site.data.publications %}
-<div class="pubitem">
-  <div class="pubteaser">
-    <!-- <a href="{{pub.url}}">
-      <img src="/assets/pubs/images/{{ pub.slug }}_small.png" alt="{{pub.slug}} publication teaser"/>
-    </a> -->
+      {% if pub.src %}
+      <a href="{{pub.src}}" target="_blank"><i class="fa fa-link"></i>Venue</a>
+      {% endif %}
+
+      {% if pub.code %}
+      <a href="{{pub.code}}" target="_blank"><i class="fa fa-code"></i>Code</a>
+      {% endif %}
+
+      {% if pub.slides %}
+      <a href="{{pub.slides}}" target="_blank"><i class="fa fa-slideshare"></i>Slides</a>
+      {% endif %}
+
+      {% if pub.audio %}
+      <a href="{{pub.audio}}" target="_blank"><i class="fa fa-headphones"></i>Audio</a>
+      {% endif %}
+
+      {% if pub.video %}
+      <a href="{{pub.video}}" target="_blank"><i class="fa fa-video-camera"></i>Video</a>
+      {% endif %}
+
+      
+    </div>
   </div>
-  <div class="pubtitle">
-    {{ pub.title }}
-  </div>
-  <!-- <div class="pubauthors">
-    {{ pub.authors }}
-  </div> -->
-  <div class="pubinfo">
-  {{ pub.conference }}, {{ pub.date}}
-  </div>
-  <div class="publinks">
-    {% if pub.download %}
-    <a href="/assets/pubs/download/{ pub.download}" target="_blank"><i class="fa fa-file-pdf-o"></i>PDF</a>&nbsp;&nbsp;
-    {% endif %}
-
-    {% if pub.src %}
-    <a href="{{pub.src}}" target="_blank"><i class="fa fa-link"></i>Venue</a>
-    {% endif %}
-
-    {% if pub.code %}
-    <a href="{{pub.code}}" target="_blank"><i class="fa fa-code"></i>Code</a>
-    {% endif %}
-
-    {% if pub.slides %}
-    <a href="{{pub.slides}}" target="_blank"><i class="fa fa-slideshare"></i>Slides</a>
-    {% endif %}
-
-    {% if pub.audio %}
-    <a href="{{pub.audio}}" target="_blank"><i class="fa fa-headphones"></i>Audio</a>
-    {% endif %}
-
-    {% if pub.video %}
-    <a href="{{pub.video}}" target="_blank"><i class="fa fa-video-camera"></i>Video</a>
-    {% endif %}
-
-    
-  </div>
+  {% endfor %}
 </div>
-{% endfor %}

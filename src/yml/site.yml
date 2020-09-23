@@ -1,0 +1,21 @@
+name: Habits Lab
+title: Habits Lab | Tech based health research.
+description: Passive sensing data analytics- Paving the way towards personalized medicine 
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: ttruty@gmail.com
+disqus_username: disqus_username
