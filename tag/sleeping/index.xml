@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sleeping | HABits Lab</title>
+    <link>/tag/sleeping/</link>
+      <atom:link href="/tag/sleeping/index.xml" rel="self" type="application/rss+xml" />
+    <description>sleeping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4d308fce03ad9277f815ecc9f502b7a0_31004_512x512_fill_lanczos_center_2.png</url>
+      <title>sleeping</title>
+      <link>/tag/sleeping/</link>
+    </image>
+    
+    <item>
+      <title>BreathSens: A Continuous On-Bed Respiratory Monitoring System With Torso Localization Using an Unobtrusive Pressure Sensing Array</title>
+      <link>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Pressure Map Sequences for Recognition of On Bed Rehabilitation Exercises</title>
+      <link>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep Posture Analysis Using a Dense Pressure Sensitive Bedsheet</title>
+      <link>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inconspicuous On-bed Respiratory Rate Monitoring</title>
+      <link>/publication/inconspicuousonbedrespiratoryratemonitoring/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/inconspicuousonbedrespiratoryratemonitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-bed Monitoring for Range of Motion Exercises With a Pressure Sensitive Bedsheet</title>
+      <link>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dense Pressure Sensitive Bedsheet Design for Unobtrusive Sleep Posture Monitoring</title>
+      <link>/publication/adensepressuresensitivebedsheetdesignforunobtrusivesleepposturemonitoring/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/adensepressuresensitivebedsheetdesignforunobtrusivesleepposturemonitoring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

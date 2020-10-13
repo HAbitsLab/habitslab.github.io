@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health | HABits Lab</title>
+    <link>/tag/health/</link>
+      <atom:link href="/tag/health/index.xml" rel="self" type="application/rss+xml" />
+    <description>health</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4d308fce03ad9277f815ecc9f502b7a0_31004_512x512_fill_lanczos_center_2.png</url>
+      <title>health</title>
+      <link>/tag/health/</link>
+    </image>
+    
+    <item>
+      <title>Syncwise</title>
+      <link>/project/syncwise/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/syncwise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SyncWISE: Window Induced Shift Estimation for Synchronization ofVideo and Accelerometry from Wearable Sensors</title>
+      <link>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions</title>
+      <link>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is More Always Better?: Discovering Incentivized mHealth Intervention Engagement Related to Health Behavior Trends</title>
+      <link>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro-Stress EMA: A Passive Sensing Framework for Detecting in-the-wild Stress in Pregnant Mothers</title>
+      <link>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Mask or Not to Mask? Balancing Privacy with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Can’t Be Myself: Effects ofWearable Cameras on the Capture of Authentic Behavior in the Wild</title>
+      <link>/publication/icanatbemyselfeffectsofwearablecamerasonthecaptureofauthenticbehaviorinthewild/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icanatbemyselfeffectsofwearablecamerasonthecaptureofauthenticbehaviorinthewild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors</title>
+      <link>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WillSense: Will Participants Wear Passive Sensing Devices Long Enough To Study Eating Behavior?</title>
+      <link>/publication/willsensewillparticipantswearpassivesensingdeviceslongenoughtostudyeatingbehavior/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/willsensewillparticipantswearpassivesensingdeviceslongenoughtostudyeatingbehavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing Nigerian Food Items and Calorie Content with Hyperspectral Imaging</title>
+      <link>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Sense Overeating: Motif-based Machine Learning Framework to Detect Overeating Using Wrist-worn Sensing</title>
+      <link>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Steps Into the Brave New Transdiscipline of Mobile Health</title>
+      <link>/publication/firststepsintothebravenewtransdisciplineofmobilehealth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/firststepsintothebravenewtransdisciplineofmobilehealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using a Mixed-Effects Location Scale Model to Examine Factors That Influence Overeating Behaviors Among College Students</title>
+      <link>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Conceptual Models of Engagement in an mHealth Intervention Application</title>
+      <link>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Health Monitoring Outcome Success Prediction using First Month Intervention Data</title>
+      <link>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Coaching on Adherence in Remote Health Monitoring Systems</title>
+      <link>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Feature Extraction Framework for Predicting the Severity of Condition for Congestive Heart Failure Patients</title>
+      <link>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Smartwatch-Based Medication Adherence System</title>
+      <link>/publication/asmartwatchbasedmedicationadherencesystem/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/asmartwatchbasedmedicationadherencesystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Invasive Detection of Medication Adherence using a Digital Smart Necklace</title>
+      <link>/publication/noninvasivedetectionofmedicationadherenceusingadigitalsmartnecklace/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivedetectionofmedicationadherenceusingadigitalsmartnecklace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognition of Nutrition-Intake using Time-Frequency Decomposition in a Wearable Necklace using a Piezoelectric Sensor</title>
+      <link>/publication/recognitionofnutritionintakeusingtimefrequencydecompositioninawearablenecklaceusingapiezoelectricsensor/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/recognitionofnutritionintakeusingtimefrequencydecompositioninawearablenecklaceusingapiezoelectricsensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Predicting Adherence in Remote Health Monitoring Systems</title>
+      <link>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Dr. Google: Early Results of a Personalized Weight-Tracking Smartphone Application and Alert System for Patients with Ascites</title>
+      <link>/publication/beyonddrgoogleearlyresultsofapersonalizedweighttrackingsmartphoneapplicationandalertsystemforpatientswithascites/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/beyonddrgoogleearlyresultsofapersonalizedweighttrackingsmartphoneapplicationandalertsystemforpatientswithascites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Invasive Monitoring of Eating Behavior using Spectrogram Analysis in a Wearable Necklace</title>
+      <link>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrogram-Based Audio Classification of Nutrition Intake</title>
+      <link>/publication/spectrogrambasedaudioclassificationofnutritionintake/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/spectrogrambasedaudioclassificationofnutritionintake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Electronic Health Records to Predict Severity of Condition for Congestive Heart Failure Patients</title>
+      <link>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Health Monitoring: Predicting Outcome Success based on Contextual Features for Cardiovascular Disease</title>
+      <link>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anti-Cheating: Detecting Self-Inflicted and Impersonator Cheaters for Remote Health Monitoring Systems with Wearable Sensors</title>
+      <link>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Compliance in Remote Healthcare Systems Through Smartphone Battery Optimization</title>
+      <link>/publication/improvingcomplianceinremotehealthcaresystemsthroughsmartphonebatteryoptimization/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/improvingcomplianceinremotehealthcaresystemsthroughsmartphonebatteryoptimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battery Optimization in Smartphones for Remote Health Monitoring Systems to Enhance User Adherence</title>
+      <link>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing a Robust Activity Recognition Framework for Health and Exergaming Using Wearable Sensors</title>
+      <link>/publication/designingarobustactivityrecognitionframeworkforhealthandexergamingusingwearablesensors/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/designingarobustactivityrecognitionframeworkforhealthandexergamingusingwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WANDA: an End-to-end Remote Health Monitoring and Analytics System for Heart Failure Patients</title>
+      <link>/publication/wandaanendtoendremotehealthmonitoringandanalyticssystemforheartfailurepatients/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wandaanendtoendremotehealthmonitoringandanalyticssystemforheartfailurepatients/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

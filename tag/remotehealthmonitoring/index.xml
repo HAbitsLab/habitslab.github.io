@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remotehealthmonitoring | HABits Lab</title>
+    <link>/tag/remotehealthmonitoring/</link>
+      <atom:link href="/tag/remotehealthmonitoring/index.xml" rel="self" type="application/rss+xml" />
+    <description>remotehealthmonitoring</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4d308fce03ad9277f815ecc9f502b7a0_31004_512x512_fill_lanczos_center_2.png</url>
+      <title>remotehealthmonitoring</title>
+      <link>/tag/remotehealthmonitoring/</link>
+    </image>
+    
+    <item>
+      <title>Remote Health Monitoring Outcome Success Prediction using First Month Intervention Data</title>
+      <link>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Coaching on Adherence in Remote Health Monitoring Systems</title>
+      <link>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Predicting Adherence in Remote Health Monitoring Systems</title>
+      <link>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Model Analytics for Adverse Event Prediction in Remote Health Monitoring Systems</title>
+      <link>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Health Monitoring: Predicting Outcome Success based on Contextual Features for Cardiovascular Disease</title>
+      <link>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anti-Cheating: Detecting Self-Inflicted and Impersonator Cheaters for Remote Health Monitoring Systems with Wearable Sensors</title>
+      <link>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battery Optimization in Smartphones for Remote Health Monitoring Systems to Enhance User Adherence</title>
+      <link>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-invasive nutrition monitor</title>
+      <link>/publication/noninvasivenutritionmonitor/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivenutritionmonitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Patient Monitoring: What Impact Can Data Analytics Have on Cost?</title>
+      <link>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machinelearning | HABits Lab</title>
+    <link>/tag/machinelearning/</link>
+      <atom:link href="/tag/machinelearning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machinelearning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4d308fce03ad9277f815ecc9f502b7a0_31004_512x512_fill_lanczos_center_2.png</url>
+      <title>machinelearning</title>
+      <link>/tag/machinelearning/</link>
+    </image>
+    
+    <item>
+      <title>Syncwise</title>
+      <link>/project/syncwise/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/syncwise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SyncWISE: Window Induced Shift Estimation for Synchronization ofVideo and Accelerometry from Wearable Sensors</title>
+      <link>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions</title>
+      <link>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is More Always Better?: Discovering Incentivized mHealth Intervention Engagement Related to Health Behavior Trends</title>
+      <link>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro-Stress EMA: A Passive Sensing Framework for Detecting in-the-wild Stress in Pregnant Mothers</title>
+      <link>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Mask or Not to Mask? Balancing Privacy with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors</title>
+      <link>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing Nigerian Food Items and Calorie Content with Hyperspectral Imaging</title>
+      <link>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Generalized Eating Detection Machine Learning Models Fail in the Field</title>
+      <link>/publication/whengeneralizedeatingdetectionmachinelearningmodelsfailinthefield/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/whengeneralizedeatingdetectionmachinelearningmodelsfailinthefield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Sense Overeating: Motif-based Machine Learning Framework to Detect Overeating Using Wrist-worn Sensing</title>
+      <link>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwallowNet: Recurrent Neural Network Detects and Characterizes Eating Patterns</title>
+      <link>/publication/swallownetrecurrentneuralnetworkdetectsandcharacterizeseatingpatterns/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/swallownetrecurrentneuralnetworkdetectsandcharacterizeseatingpatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UStress: Understanding College Student Subjective Stress Using Wrist-Based Passive Sensing</title>
+      <link>/publication/ustressunderstandingcollegestudentsubjectivestressusingwristbasedpassivesensing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ustressunderstandingcollegestudentsubjectivestressusingwristbasedpassivesensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food Watch: Detecting and Characterizing Eating Episodes through Feeding Gestures</title>
+      <link>/publication/foodwatchdetectingandcharacterizingeatingepisodesthroughfeedinggestures/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/foodwatchdetectingandcharacterizingeatingepisodesthroughfeedinggestures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartNecklace: Designing a Wearable Multi-sensor System for Smart Eating Detection</title>
+      <link>/publication/smartnecklacedesigningawearablemultisensorsystemforsmarteatingdetection/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/smartnecklacedesigningawearablemultisensorsystemforsmarteatingdetection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using a Mixed-Effects Location Scale Model to Examine Factors That Influence Overeating Behaviors Among College Students</title>
+      <link>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Conceptual Models of Engagement in an mHealth Intervention Application</title>
+      <link>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Algorithms Applied to Detect Feeding Gestures</title>
+      <link>/publication/machinelearningalgorithmsappliedtodetectfeedinggestures/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/machinelearningalgorithmsappliedtodetectfeedinggestures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forests Detects Eating in a Neck-worn Sensor: Results from a Simulated Real-Life Eating Setting</title>
+      <link>/publication/randomforestsdetectseatinginaneckwornsensorresultsfromasimulatedreallifeeatingsetting/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/randomforestsdetectseatinginaneckwornsensorresultsfromasimulatedreallifeeatingsetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Iterative Dimensionality-Scaling System for Real-Time Health Monitoring Applications</title>
+      <link>/publication/aniterativedimensionalityscalingsystemforrealtimehealthmonitoringapplications/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/aniterativedimensionalityscalingsystemforrealtimehealthmonitoringapplications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Computation Offloading for Low-Power Wearable Health Monitoring Systems</title>
+      <link>/publication/dynamiccomputationoffloadingforlowpowerwearablehealthmonitoringsystems/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dynamiccomputationoffloadingforlowpowerwearablehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Segmentation of Time-Series Audio Signals using Support Vector Machines</title>
+      <link>/publication/probabilisticsegmentationoftimeseriesaudiosignalsusingsupportvectormachines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/probabilisticsegmentationoftimeseriesaudiosignalsusingsupportvectormachines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Feature Extraction Framework for Predicting the Severity of Condition for Congestive Heart Failure Patients</title>
+      <link>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Optimization for Wearable Devices</title>
+      <link>/publication/poweroptimizationforwearabledevices/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/poweroptimizationforwearabledevices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Model Analytics for Adverse Event Prediction in Remote Health Monitoring Systems</title>
+      <link>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrogram-Based Audio Classification of Nutrition Intake</title>
+      <link>/publication/spectrogrambasedaudioclassificationofnutritionintake/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/spectrogrambasedaudioclassificationofnutritionintake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support Vector Regression for METs of Exergaming Actions</title>
+      <link>/publication/supportvectorregressionformetsofexergamingactions/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/supportvectorregressionformetsofexergamingactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Electronic Health Records to Predict Severity of Condition for Congestive Heart Failure Patients</title>
+      <link>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Health Monitoring: Predicting Outcome Success based on Contextual Features for Cardiovascular Disease</title>
+      <link>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BreathSens: A Continuous On-Bed Respiratory Monitoring System With Torso Localization Using an Unobtrusive Pressure Sensing Array</title>
+      <link>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wearable Nutrition Monitoring System</title>
+      <link>/publication/awearablenutritionmonitoringsystem/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/awearablenutritionmonitoringsystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the Single Best Axis for Exercise Repetition Recognition and Counting on SmartWatches</title>
+      <link>/publication/determiningthesinglebestaxisforexerciserepetitionrecognitionandcountingonsmartwatches/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/determiningthesinglebestaxisforexerciserepetitionrecognitionandcountingonsmartwatches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-invasive nutrition monitor</title>
+      <link>/publication/noninvasivenutritionmonitor/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivenutritionmonitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staying Connected: a CVD Risk Intervention for Young Black Women</title>
+      <link>/publication/stayingconnectedacvdriskinterventionforyoungblackwomen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/stayingconnectedacvdriskinterventionforyoungblackwomen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Pressure Map Sequences for Recognition of On Bed Rehabilitation Exercises</title>
+      <link>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Patient Monitoring: What Impact Can Data Analytics Have on Cost?</title>
+      <link>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MET Calculations From on-body Accelerometers for Exergaming Movements</title>
+      <link>/publication/metcalculationsfromonbodyaccelerometersforexergamingmovements/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/metcalculationsfromonbodyaccelerometersforexergamingmovements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Human Intensity-varying Activity Recognition Using Stochastic Approximation in Wearable Sensors</title>
+      <link>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

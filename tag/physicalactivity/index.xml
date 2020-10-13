@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>physicalactivity | HABits Lab</title>
+    <link>/tag/physicalactivity/</link>
+      <atom:link href="/tag/physicalactivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>physicalactivity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4d308fce03ad9277f815ecc9f502b7a0_31004_512x512_fill_lanczos_center_2.png</url>
+      <title>physicalactivity</title>
+      <link>/tag/physicalactivity/</link>
+    </image>
+    
+    <item>
+      <title>A Survey of Electronic Methods for Non-Invasive Detection of Eating Behavior</title>
+      <link>/publication/asurveyofelectronicmethodsfornoninvasivedetectionofeatingbehavior/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/asurveyofelectronicmethodsfornoninvasivedetectionofeatingbehavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Based Detection and Evaluation of Eating Behavior using the Smartwatch Platform</title>
+      <link>/publication/audiobaseddetectionandevaluationofeatingbehaviorusingthesmartwatchplatform/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/audiobaseddetectionandevaluationofeatingbehaviorusingthesmartwatchplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Invasive Monitoring of Eating Behavior using Spectrogram Analysis in a Wearable Necklace</title>
+      <link>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anti-Cheating: Detecting Self-Inflicted and Impersonator Cheaters for Remote Health Monitoring Systems with Wearable Sensors</title>
+      <link>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep Posture Analysis Using a Dense Pressure Sensitive Bedsheet</title>
+      <link>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-bed Monitoring for Range of Motion Exercises With a Pressure Sensitive Bedsheet</title>
+      <link>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Human Intensity-varying Activity Recognition Using Stochastic Approximation in Wearable Sensors</title>
+      <link>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

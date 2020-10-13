@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | HABits Lab</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4d308fce03ad9277f815ecc9f502b7a0_31004_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>SyncWISE: Window Induced Shift Estimation for Synchronization ofVideo and Accelerometry from Wearable Sensors</title>
+      <link>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions</title>
+      <link>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is More Always Better?: Discovering Incentivized mHealth Intervention Engagement Related to Health Behavior Trends</title>
+      <link>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro-Stress EMA: A Passive Sensing Framework for Detecting in-the-wild Stress in Pregnant Mothers</title>
+      <link>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Mask or Not to Mask? Balancing Privacy with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Can’t Be Myself: Effects ofWearable Cameras on the Capture of Authentic Behavior in the Wild</title>
+      <link>/publication/icanatbemyselfeffectsofwearablecamerasonthecaptureofauthenticbehaviorinthewild/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icanatbemyselfeffectsofwearablecamerasonthecaptureofauthenticbehaviorinthewild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Caloric Intake in Bedridden Hospital Patients with Audio and Neck-worn Sensors</title>
+      <link>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WillSense: Will Participants Wear Passive Sensing Devices Long Enough To Study Eating Behavior?</title>
+      <link>/publication/willsensewillparticipantswearpassivesensingdeviceslongenoughtostudyeatingbehavior/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/willsensewillparticipantswearpassivesensingdeviceslongenoughtostudyeatingbehavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing Nigerian Food Items and Calorie Content with Hyperspectral Imaging</title>
+      <link>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Generalized Eating Detection Machine Learning Models Fail in the Field</title>
+      <link>/publication/whengeneralizedeatingdetectionmachinelearningmodelsfailinthefield/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/whengeneralizedeatingdetectionmachinelearningmodelsfailinthefield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Sense Overeating: Motif-based Machine Learning Framework to Detect Overeating Using Wrist-worn Sensing</title>
+      <link>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WillSense: Adherence Barriers for Passive Sensing Systems that Track Eating Behavior</title>
+      <link>/publication/willsenseadherencebarriersforpassivesensingsystemsthattrackeatingbehavior/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/willsenseadherencebarriersforpassivesensingsystemsthattrackeatingbehavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Steps Into the Brave New Transdiscipline of Mobile Health</title>
+      <link>/publication/firststepsintothebravenewtransdisciplineofmobilehealth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/firststepsintothebravenewtransdisciplineofmobilehealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Barriers and Facilitators to Wearable Adherence in Fine-Grained Eating Detection</title>
+      <link>/publication/investigatingbarriersandfacilitatorstowearableadherenceinfinegrainedeatingdetection/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/investigatingbarriersandfacilitatorstowearableadherenceinfinegrainedeatingdetection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SwallowNet: Recurrent Neural Network Detects and Characterizes Eating Patterns</title>
+      <link>/publication/swallownetrecurrentneuralnetworkdetectsandcharacterizeseatingpatterns/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/swallownetrecurrentneuralnetworkdetectsandcharacterizeseatingpatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UStress: Understanding College Student Subjective Stress Using Wrist-Based Passive Sensing</title>
+      <link>/publication/ustressunderstandingcollegestudentsubjectivestressusingwristbasedpassivesensing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ustressunderstandingcollegestudentsubjectivestressusingwristbasedpassivesensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food Watch: Detecting and Characterizing Eating Episodes through Feeding Gestures</title>
+      <link>/publication/foodwatchdetectingandcharacterizingeatingepisodesthroughfeedinggestures/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/foodwatchdetectingandcharacterizingeatingepisodesthroughfeedinggestures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartNecklace: Designing a Wearable Multi-sensor System for Smart Eating Detection</title>
+      <link>/publication/smartnecklacedesigningawearablemultisensorsystemforsmarteatingdetection/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/smartnecklacedesigningawearablemultisensorsystemforsmarteatingdetection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using a Mixed-Effects Location Scale Model to Examine Factors That Influence Overeating Behaviors Among College Students</title>
+      <link>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Conceptual Models of Engagement in an mHealth Intervention Application</title>
+      <link>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Algorithms Applied to Detect Feeding Gestures</title>
+      <link>/publication/machinelearningalgorithmsappliedtodetectfeedinggestures/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/machinelearningalgorithmsappliedtodetectfeedinggestures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forests Detects Eating in a Neck-worn Sensor: Results from a Simulated Real-Life Eating Setting</title>
+      <link>/publication/randomforestsdetectseatinginaneckwornsensorresultsfromasimulatedreallifeeatingsetting/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/randomforestsdetectseatinginaneckwornsensorresultsfromasimulatedreallifeeatingsetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Iterative Dimensionality-Scaling System for Real-Time Health Monitoring Applications</title>
+      <link>/publication/aniterativedimensionalityscalingsystemforrealtimehealthmonitoringapplications/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/aniterativedimensionalityscalingsystemforrealtimehealthmonitoringapplications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wearable Sensor System for Medication Adherence Prediction</title>
+      <link>/publication/awearablesensorsystemformedicationadherenceprediction/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/awearablesensorsystemformedicationadherenceprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparison of Piezoelectric-based Inertial Sensing and Audio-based Detection of Swallows</title>
+      <link>/publication/acomparisonofpiezoelectricbasedinertialsensingandaudiobaseddetectionofswallows/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/acomparisonofpiezoelectricbasedinertialsensingandaudiobaseddetectionofswallows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Electronic Methods for Non-Invasive Detection of Eating Behavior</title>
+      <link>/publication/asurveyofelectronicmethodsfornoninvasivedetectionofeatingbehavior/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/asurveyofelectronicmethodsfornoninvasivedetectionofeatingbehavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Computation Offloading for Low-Power Wearable Health Monitoring Systems</title>
+      <link>/publication/dynamiccomputationoffloadingforlowpowerwearablehealthmonitoringsystems/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dynamiccomputationoffloadingforlowpowerwearablehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Segmentation of Time-Series Audio Signals using Support Vector Machines</title>
+      <link>/publication/probabilisticsegmentationoftimeseriesaudiosignalsusingsupportvectormachines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/probabilisticsegmentationoftimeseriesaudiosignalsusingsupportvectormachines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Health Monitoring Outcome Success Prediction using First Month Intervention Data</title>
+      <link>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Gestures Associated with Medication Adherence using Smartwatch-based Inertial Sensors</title>
+      <link>/publication/detectionofgesturesassociatedwithmedicationadherenceusingsmartwatchbasedinertialsensors/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/detectionofgesturesassociatedwithmedicationadherenceusingsmartwatchbasedinertialsensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Based Detection and Evaluation of Eating Behavior using the Smartwatch Platform</title>
+      <link>/publication/audiobaseddetectionandevaluationofeatingbehaviorusingthesmartwatchplatform/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/audiobaseddetectionandevaluationofeatingbehaviorusingthesmartwatchplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Coaching on Adherence in Remote Health Monitoring Systems</title>
+      <link>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Feature Extraction Framework for Predicting the Severity of Condition for Congestive Heart Failure Patients</title>
+      <link>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Smartwatch-Based Medication Adherence System</title>
+      <link>/publication/asmartwatchbasedmedicationadherencesystem/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/asmartwatchbasedmedicationadherencesystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Eating Habits using a Piezoelectric Sensor-Based Necklace</title>
+      <link>/publication/monitoringeatinghabitsusingapiezoelectricsensorbasednecklace/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/monitoringeatinghabitsusingapiezoelectricsensorbasednecklace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Invasive Detection of Medication Adherence using a Digital Smart Necklace</title>
+      <link>/publication/noninvasivedetectionofmedicationadherenceusingadigitalsmartnecklace/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivedetectionofmedicationadherenceusingadigitalsmartnecklace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Optimization for Wearable Devices</title>
+      <link>/publication/poweroptimizationforwearabledevices/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/poweroptimizationforwearabledevices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognition of Nutrition-Intake using Time-Frequency Decomposition in a Wearable Necklace using a Piezoelectric Sensor</title>
+      <link>/publication/recognitionofnutritionintakeusingtimefrequencydecompositioninawearablenecklaceusingapiezoelectricsensor/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/recognitionofnutritionintakeusingtimefrequencydecompositioninawearablenecklaceusingapiezoelectricsensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Predicting Adherence in Remote Health Monitoring Systems</title>
+      <link>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Dr. Google: Early Results of a Personalized Weight-Tracking Smartphone Application and Alert System for Patients with Ascites</title>
+      <link>/publication/beyonddrgoogleearlyresultsofapersonalizedweighttrackingsmartphoneapplicationandalertsystemforpatientswithascites/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/beyonddrgoogleearlyresultsofapersonalizedweighttrackingsmartphoneapplicationandalertsystemforpatientswithascites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Model Analytics for Adverse Event Prediction in Remote Health Monitoring Systems</title>
+      <link>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Invasive Monitoring of Eating Behavior using Spectrogram Analysis in a Wearable Necklace</title>
+      <link>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrogram-Based Audio Classification of Nutrition Intake</title>
+      <link>/publication/spectrogrambasedaudioclassificationofnutritionintake/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/spectrogrambasedaudioclassificationofnutritionintake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support Vector Regression for METs of Exergaming Actions</title>
+      <link>/publication/supportvectorregressionformetsofexergamingactions/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/supportvectorregressionformetsofexergamingactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Electronic Health Records to Predict Severity of Condition for Congestive Heart Failure Patients</title>
+      <link>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Health Monitoring: Predicting Outcome Success based on Contextual Features for Cardiovascular Disease</title>
+      <link>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BreathSens: A Continuous On-Bed Respiratory Monitoring System With Torso Localization Using an Unobtrusive Pressure Sensing Array</title>
+      <link>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wearable Nutrition Monitoring System</title>
+      <link>/publication/awearablenutritionmonitoringsystem/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/awearablenutritionmonitoringsystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anti-Cheating: Detecting Self-Inflicted and Impersonator Cheaters for Remote Health Monitoring Systems with Wearable Sensors</title>
+      <link>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the Single Best Axis for Exercise Repetition Recognition and Counting on SmartWatches</title>
+      <link>/publication/determiningthesinglebestaxisforexerciserepetitionrecognitionandcountingonsmartwatches/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/determiningthesinglebestaxisforexerciserepetitionrecognitionandcountingonsmartwatches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Compliance in Remote Healthcare Systems Through Smartphone Battery Optimization</title>
+      <link>/publication/improvingcomplianceinremotehealthcaresystemsthroughsmartphonebatteryoptimization/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/improvingcomplianceinremotehealthcaresystemsthroughsmartphonebatteryoptimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battery Optimization in Smartphones for Remote Health Monitoring Systems to Enhance User Adherence</title>
+      <link>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-invasive nutrition monitor</title>
+      <link>/publication/noninvasivenutritionmonitor/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noninvasivenutritionmonitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staying Connected: a CVD Risk Intervention for Young Black Women</title>
+      <link>/publication/stayingconnectedacvdriskinterventionforyoungblackwomen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/stayingconnectedacvdriskinterventionforyoungblackwomen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Pressure Map Sequences for Recognition of On Bed Rehabilitation Exercises</title>
+      <link>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Patient Monitoring: What Impact Can Data Analytics Have on Cost?</title>
+      <link>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing a Robust Activity Recognition Framework for Health and Exergaming Using Wearable Sensors</title>
+      <link>/publication/designingarobustactivityrecognitionframeworkforhealthandexergamingusingwearablesensors/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/designingarobustactivityrecognitionframeworkforhealthandexergamingusingwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep Posture Analysis Using a Dense Pressure Sensitive Bedsheet</title>
+      <link>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Accuracy in E-textiles as a Platform for Pervasive Sensing</title>
+      <link>/publication/improvingaccuracyinetextilesasaplatformforpervasivesensing/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/improvingaccuracyinetextilesasaplatformforpervasivesensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inconspicuous On-bed Respiratory Rate Monitoring</title>
+      <link>/publication/inconspicuousonbedrespiratoryratemonitoring/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/inconspicuousonbedrespiratoryratemonitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MET Calculations From on-body Accelerometers for Exergaming Movements</title>
+      <link>/publication/metcalculationsfromonbodyaccelerometersforexergamingmovements/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/metcalculationsfromonbodyaccelerometersforexergamingmovements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-bed Monitoring for Range of Motion Exercises With a Pressure Sensitive Bedsheet</title>
+      <link>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Human Intensity-varying Activity Recognition Using Stochastic Approximation in Wearable Sensors</title>
+      <link>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dense Pressure Sensitive Bedsheet Design for Unobtrusive Sleep Posture Monitoring</title>
+      <link>/publication/adensepressuresensitivebedsheetdesignforunobtrusivesleepposturemonitoring/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/adensepressuresensitivebedsheetdesignforunobtrusivesleepposturemonitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Task Optimization in Remote Diabetes Monitoring Systems</title>
+      <link>/publication/dynamic_task_optimization/</link>
+      <pubDate>Thu, 27 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dynamic_task_optimization/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Hierarchical Classification for Power Optimization in Wearable Movement Monitoring Systems</title>
+      <link>/publication/opportunistic-hierarchical-classification-for-power-optimization-in-wearable-movement-monitoring-systems/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/opportunistic-hierarchical-classification-for-power-optimization-in-wearable-movement-monitoring-systems/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WANDA: an End-to-end Remote Health Monitoring and Analytics System for Heart Failure Patients</title>
+      <link>/publication/wandaanendtoendremotehealthmonitoringandanalyticssystemforheartfailurepatients/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wandaanendtoendremotehealthmonitoringandanalyticssystemforheartfailurepatients/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Spider: Eight-legged Arachnid and Autonomous Learning of Locomotion</title>
+      <link>/publication/artificial-spider/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/artificial-spider/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
