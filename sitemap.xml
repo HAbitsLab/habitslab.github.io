@@ -2,43 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2020-10-09T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/terms/</loc>
-    <lastmod>2020-10-09T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tag/eating/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/health/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/machinelearning/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-15T12:38:13-05:00</lastmod>
   </url><url>
     <loc>/project/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-15T12:38:13-05:00</lastmod>
   </url><url>
-    <loc>/tag/sensor/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <loc>/project/wearables/</loc>
+    <lastmod>2021-03-15T12:38:13-05:00</lastmod>
   </url><url>
-    <loc>/project/syncwise/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <loc>/project/melanoma/</loc>
+    <lastmod>2021-03-15T12:37:49-05:00</lastmod>
+  </url><url>
+    <loc>/tag/health/</loc>
+    <lastmod>2021-03-15T12:37:23-05:00</lastmod>
+  </url><url>
+    <loc>/project/smart/</loc>
+    <lastmod>2021-03-15T12:37:23-05:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-15T12:37:23-05:00</lastmod>
   </url><url>
-    <loc>/tag/wearable/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2021-03-15T12:35:08-05:00</lastmod>
+  </url><url>
+    <loc>/author/jayalakshmi-jain/</loc>
+    <lastmod>2021-03-15T12:35:08-05:00</lastmod>
+  </url><url>
+    <loc>/tag/machinelearning/</loc>
+    <lastmod>2021-03-15T12:35:08-05:00</lastmod>
+  </url><url>
+    <loc>/project/stress/</loc>
+    <lastmod>2021-03-15T12:35:08-05:00</lastmod>
+  </url><url>
+    <loc>/project/explainability-ai/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/human-activity-recognition/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>/tag/eating/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/nabil-alshurafa/</loc>
@@ -50,10 +56,16 @@
     <loc>/publication/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/sensor/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/shibo-zhang/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/wearable/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</loc>
@@ -121,12 +133,6 @@
   </url><url>
     <loc>/publication/aniterativedimensionalityscalingsystemforrealtimehealthmonitoringapplications/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/awearablesensorsystemformedicationadherenceprediction/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
@@ -283,8 +289,6 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/author/chris-romano/</loc>
-  </url><url>
-    <loc>/author/jayalakshmi-jain/</loc>
   </url><url>
     <loc>/privacy/</loc>
   </url><url>

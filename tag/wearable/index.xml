@@ -5,20 +5,12 @@
     <link>/tag/wearable/</link>
       <atom:link href="/tag/wearable/index.xml" rel="self" type="application/rss+xml" />
     <description>wearable</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu4d308fce03ad9277f815ecc9f502b7a0_31004_512x512_fill_lanczos_center_2.png</url>
       <title>wearable</title>
       <link>/tag/wearable/</link>
     </image>
-    
-    <item>
-      <title>Syncwise</title>
-      <link>/project/syncwise/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/syncwise/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>SyncWISE: Window Induced Shift Estimation for Synchronization ofVideo and Accelerometry from Wearable Sensors</title>
