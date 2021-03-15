@@ -1,495 +1,301 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/tag/eating/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/health/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/machinelearning/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sensor/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/syncwise/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/wearable/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/nabil-alshurafa/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/shibo-zhang/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/icanatbemyselfeffectsofwearablecamerasonthecaptureofauthenticbehaviorinthewild/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/willsensewillparticipantswearpassivesensingdeviceslongenoughtostudyeatingbehavior/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/whengeneralizedeatingdetectionmachinelearningmodelsfailinthefield/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/willsenseadherencebarriersforpassivesensingsystemsthattrackeatingbehavior/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/firststepsintothebravenewtransdisciplineofmobilehealth/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/investigatingbarriersandfacilitatorstowearableadherenceinfinegrainedeatingdetection/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/swallownetrecurrentneuralnetworkdetectsandcharacterizeseatingpatterns/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ustressunderstandingcollegestudentsubjectivestressusingwristbasedpassivesensing/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/foodwatchdetectingandcharacterizingeatingepisodesthroughfeedinggestures/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/smartnecklacedesigningawearablemultisensorsystemforsmarteatingdetection/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/machinelearningalgorithmsappliedtodetectfeedinggestures/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/randomforestsdetectseatinginaneckwornsensorresultsfromasimulatedreallifeeatingsetting/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/aniterativedimensionalityscalingsystemforrealtimehealthmonitoringapplications/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/awearablesensorsystemformedicationadherenceprediction/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/acomparisonofpiezoelectricbasedinertialsensingandaudiobaseddetectionofswallows/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/asurveyofelectronicmethodsfornoninvasivedetectionofeatingbehavior/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/dynamiccomputationoffloadingforlowpowerwearablehealthmonitoringsystems/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/physicalactivity/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/probabilisticsegmentationoftimeseriesaudiosignalsusingsupportvectormachines/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/remotehealthmonitoring/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/detectionofgesturesassociatedwithmedicationadherenceusingsmartwatchbasedinertialsensors/</loc>
-    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/audiobaseddetectionandevaluationofeatingbehaviorusingthesmartwatchplatform/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</loc>
-    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/asmartwatchbasedmedicationadherencesystem/</loc>
-    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/monitoringeatinghabitsusingapiezoelectricsensorbasednecklace/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/noninvasivedetectionofmedicationadherenceusingadigitalsmartnecklace/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/poweroptimizationforwearabledevices/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/recognitionofnutritionintakeusingtimefrequencydecompositioninawearablenecklaceusingapiezoelectricsensor/</loc>
-    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/beyonddrgoogleearlyresultsofapersonalizedweighttrackingsmartphoneapplicationandalertsystemforpatientswithascites/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/spectrogrambasedaudioclassificationofnutritionintake/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/supportvectorregressionformetsofexergamingactions/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</loc>
-    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sleeping/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/awearablenutritionmonitoringsystem/</loc>
-    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</loc>
-    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/determiningthesinglebestaxisforexerciserepetitionrecognitionandcountingonsmartwatches/</loc>
-    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/improvingcomplianceinremotehealthcaresystemsthroughsmartphonebatteryoptimization/</loc>
-    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</loc>
-    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/noninvasivenutritionmonitor/</loc>
-    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/stayingconnectedacvdriskinterventionforyoungblackwomen/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/designingarobustactivityrecognitionframeworkforhealthandexergamingusingwearablesensors/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/improvingaccuracyinetextilesasaplatformforpervasivesensing/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/inconspicuousonbedrespiratoryratemonitoring/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/metcalculationsfromonbodyaccelerometersforexergamingmovements/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/adensepressuresensitivebedsheetdesignforunobtrusivesleepposturemonitoring/</loc>
-    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/dynamic_task_optimization/</loc>
-    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/machine-learning/</loc>
-    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/opportunistic-hierarchical-classification-for-power-optimization-in-wearable-movement-monitoring-systems/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/physical-activity/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/wandaanendtoendremotehealthmonitoringandanalyticssystemforheartfailurepatients/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/artificial-spider/</loc>
-    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/chris-romano/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/jayalakshmi-jain/</loc>
-  </url>
-  
   <url>
     <loc>/privacy/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/rawan-alharbi/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/sougata-sen/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-10-09T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>/terms/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-10-09T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/eating/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/health/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/machinelearning/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/sensor/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/syncwise/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/wearable/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nabil-alshurafa/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/shibo-zhang/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/necksenseamultisensornecklacefordetectingeatingactivitiesinfreelivingconditions/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ismorealwaysbetterdiscoveringincentivizedmhealthinterventionengagementrelatedtohealthbehaviortrends/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/microstressemaapassivesensingframeworkfordetectinginthewildstressinpregnantmothers/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/tomaskornottomaskbalancingprivacywithvisualconfirmationutilityinactivityorientedwearablecameras/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/icanatbemyselfeffectsofwearablecamerasonthecaptureofauthenticbehaviorinthewild/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/estimatingcaloricintakeinbedriddenhospitalpatientswithaudioandneckwornsensors/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/willsensewillparticipantswearpassivesensingdeviceslongenoughtostudyeatingbehavior/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/distinguishingnigerianfooditemsandcaloriecontentwithhyperspectralimaging/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/whengeneralizedeatingdetectionmachinelearningmodelsfailinthefield/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/isenseovereatingmotifbasedmachinelearningframeworktodetectovereatingusingwristwornsensing/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/willsenseadherencebarriersforpassivesensingsystemsthattrackeatingbehavior/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/firststepsintothebravenewtransdisciplineofmobilehealth/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/investigatingbarriersandfacilitatorstowearableadherenceinfinegrainedeatingdetection/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/swallownetrecurrentneuralnetworkdetectsandcharacterizeseatingpatterns/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ustressunderstandingcollegestudentsubjectivestressusingwristbasedpassivesensing/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/foodwatchdetectingandcharacterizingeatingepisodesthroughfeedinggestures/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/smartnecklacedesigningawearablemultisensorsystemforsmarteatingdetection/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/usingamixedeffectslocationscalemodeltoexaminefactorsthatinfluenceovereatingbehaviorsamongcollegestudents/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/improvedconceptualmodelsofengagementinanmhealthinterventionapplication/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/machinelearningalgorithmsappliedtodetectfeedinggestures/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/randomforestsdetectseatinginaneckwornsensorresultsfromasimulatedreallifeeatingsetting/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aniterativedimensionalityscalingsystemforrealtimehealthmonitoringapplications/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/awearablesensorsystemformedicationadherenceprediction/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/acomparisonofpiezoelectricbasedinertialsensingandaudiobaseddetectionofswallows/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/asurveyofelectronicmethodsfornoninvasivedetectionofeatingbehavior/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/dynamiccomputationoffloadingforlowpowerwearablehealthmonitoringsystems/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/physicalactivity/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/probabilisticsegmentationoftimeseriesaudiosignalsusingsupportvectormachines/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/remotehealthmonitoringoutcomesuccesspredictionusingfirstmonthinterventiondata/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/remotehealthmonitoring/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/detectionofgesturesassociatedwithmedicationadherenceusingsmartwatchbasedinertialsensors/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/audiobaseddetectionandevaluationofeatingbehaviorusingthesmartwatchplatform/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/effectsofcoachingonadherenceinremotehealthmonitoringsystems/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/adatadrivenfeatureextractionframeworkforpredictingtheseverityofconditionforcongestiveheartfailurepatients/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/asmartwatchbasedmedicationadherencesystem/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/monitoringeatinghabitsusingapiezoelectricsensorbasednecklace/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/noninvasivedetectionofmedicationadherenceusingadigitalsmartnecklace/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/poweroptimizationforwearabledevices/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/recognitionofnutritionintakeusingtimefrequencydecompositioninawearablenecklaceusingapiezoelectricsensor/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aframeworkforpredictingadherenceinremotehealthmonitoringsystems/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/beyonddrgoogleearlyresultsofapersonalizedweighttrackingsmartphoneapplicationandalertsystemforpatientswithascites/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/multiplemodelanalyticsforadverseeventpredictioninremotehealthmonitoringsystems/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/noninvasivemonitoringofeatingbehaviorusingspectrogramanalysisinawearablenecklace/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/spectrogrambasedaudioclassificationofnutritionintake/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/supportvectorregressionformetsofexergamingactions/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/usingelectronichealthrecordstopredictseverityofconditionforcongestiveheartfailurepatients/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/remotehealthmonitoringpredictingoutcomesuccessbasedoncontextualfeaturesforcardiovasculardisease/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/breathsensacontinuousonbedrespiratorymonitoringsystemwithtorsolocalizationusinganunobtrusivepressuresensingarray/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/sleeping/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/awearablenutritionmonitoringsystem/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/anticheatingdetectingselfinflictedandimpersonatorcheatersforremotehealthmonitoringsystemswithwearablesensors/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/determiningthesinglebestaxisforexerciserepetitionrecognitionandcountingonsmartwatches/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/improvingcomplianceinremotehealthcaresystemsthroughsmartphonebatteryoptimization/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/batteryoptimizationinsmartphonesforremotehealthmonitoringsystemstoenhanceuseradherence/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/noninvasivenutritionmonitor/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/stayingconnectedacvdriskinterventionforyoungblackwomen/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/usingpressuremapsequencesforrecognitionofonbedrehabilitationexercises/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/remotepatientmonitoringwhatimpactcandataanalyticshaveoncost/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/designingarobustactivityrecognitionframeworkforhealthandexergamingusingwearablesensors/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/sleeppostureanalysisusingadensepressuresensitivebedsheet/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/improvingaccuracyinetextilesasaplatformforpervasivesensing/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/inconspicuousonbedrespiratoryratemonitoring/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/metcalculationsfromonbodyaccelerometersforexergamingmovements/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/onbedmonitoringforrangeofmotionexerciseswithapressuresensitivebedsheet/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/robusthumanintensityvaryingactivityrecognitionusingstochasticapproximationinwearablesensors/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/adensepressuresensitivebedsheetdesignforunobtrusivesleepposturemonitoring/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/dynamic_task_optimization/</loc>
+    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/opportunistic-hierarchical-classification-for-power-optimization-in-wearable-movement-monitoring-systems/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/physical-activity/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/wandaanendtoendremotehealthmonitoringandanalyticssystemforheartfailurepatients/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/artificial-spider/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/team/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/author/chris-romano/</loc>
+  </url><url>
+    <loc>/author/jayalakshmi-jain/</loc>
+  </url><url>
+    <loc>/privacy/</loc>
+  </url><url>
+    <loc>/author/rawan-alharbi/</loc>
+  </url><url>
+    <loc>/talk/</loc>
+  </url><url>
+    <loc>/author/sougata-sen/</loc>
+  </url><url>
+    <loc>/terms/</loc>
+  </url><url>
     <loc>/author/tim-truty/</loc>
   </url>
-  
 </urlset>
