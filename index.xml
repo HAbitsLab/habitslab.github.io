@@ -147,6 +147,27 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
+      <guid>/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[03/16/20]&lt;/strong&gt; Sample News 1: &lt;a href=&#34;/publication/syncwisewindowinducedshiftestimationforsynchronizationofvideoandaccelerometryfromwearablesensors/&#34;&gt;Can Link to local publication&lt;/a&gt;:is a paper.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[03/15/20]&lt;/strong&gt; Sample News 2: &lt;a href=&#34;/project/smart/&#34;&gt;Can Link to local project&lt;/a&gt;: is a project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[03/14/19]&lt;/strong&gt; Sample News 3: &lt;a href=&#34;https://www.northwestern.edu/&#34;&gt;Can Link to outside link&lt;/a&gt;: is an outside link.&lt;/p&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>WillSense: Will Participants Wear Passive Sensing Devices Long Enough To Study Eating Behavior?</title>
       <link>/publication/willsensewillparticipantswearpassivesensingdeviceslongenoughtostudyeatingbehavior/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
