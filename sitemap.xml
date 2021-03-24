@@ -289,6 +289,10 @@
   </url><url>
     <loc>/team/</loc>
   </url><url>
+    <loc>/author/alex-karr/</loc>
+  </url><url>
+    <loc>/author/angela-pfammatter/</loc>
+  </url><url>
     <loc>/author/blaine-rothroch/</loc>
   </url><url>
     <loc>/author/boyang-wei/</loc>
@@ -297,9 +301,13 @@
   </url><url>
     <loc>/author/chris-romano/</loc>
   </url><url>
+    <loc>/author/dzung-nguyen/</loc>
+  </url><url>
     <loc>/author/farzad-shahabi/</loc>
   </url><url>
     <loc>/author/glenn-fernandes/</loc>
+  </url><url>
+    <loc>/author/josiah-hester/</loc>
   </url><url>
     <loc>/privacy/</loc>
   </url><url>
@@ -309,8 +317,16 @@
   </url><url>
     <loc>/author/soroush-shahi/</loc>
   </url><url>
+    <loc>/author/sougata-sen/</loc>
+  </url><url>
+    <loc>/author/tammy-stump/</loc>
+  </url><url>
     <loc>/terms/</loc>
   </url><url>
     <loc>/author/tim-truty/</loc>
+  </url><url>
+    <loc>/author/will-stogin/</loc>
+  </url><url>
+    <loc>/author/yang-gao/</loc>
   </url>
 </urlset>
