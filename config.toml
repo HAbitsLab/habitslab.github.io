@@ -1,0 +1,5 @@
+baseURL = 'http://localhost:1313/HabitsLab-projectPage/'
+languageCode = 'en-us'
+title = 'HabitsLab'
+
+theme = 'HabitsLab_project_theme'

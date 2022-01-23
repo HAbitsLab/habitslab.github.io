@@ -1,0 +1,32 @@
+<div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+       <div class="single__step__item hs--ex--p">
+           <h4>{{index (index (.Params.missions) 1) 0}}</h4>
+           {{ range (index (index (.Params.missions) 1) 1) }}
+               <p> • {{.}}</p>
+           {{ end }}
+       </div>
+   </div>
+   <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+       <div class="single__step__item bg-light-blue">
+           <h4>{{index (index (.Params.missions) 2) 0}}</h4>
+           {{ range (index (index (.Params.missions) 2) 1) }}
+               <p> • {{.}}</p>
+           {{ end }}
+       </div>
+   </div>
+   <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+       <div class="single__step__item">
+           <h4>{{index (index (.Params.missions) 3) 0}}</h4>
+           {{ range (index (index (.Params.missions) 3) 1) }}
+               <p> • {{.}}</p>
+           {{ end }}
+       </div>
+   </div>
+   <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+       <div class="single__step__item bg-blue hs--ex--p">
+           <h4>{{index (index (.Params.missions) 4) 0}}</h4>
+           {{ range (index (index (.Params.missions) 4) 1) }}
+               <p> • {{.}}</p>
+           {{ end }}
+       </div>
+   </div>
