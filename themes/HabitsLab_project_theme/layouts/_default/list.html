@@ -8,12 +8,12 @@
 
     <!-- Bootstrap CSS -->
     <link href={{"/css/bootstrap.min.css" | relURL}} rel="stylesheet">
-    <link href={{"/css/all.min.css" | absURL}} rel="stylesheet">
-    <link href={{"/css/fontawesome.css" | absURL}} rel="stylesheet">
-    <link href={{"/css/owl.carousel.min.css" | absURL}} rel="stylesheet">
-    <link href={{"/css/animate.css" | absURL}} rel="stylesheet">
-    <link href={{"/css/style.css" | absURL}} rel="stylesheet">
-    <link href={{"/css/responsive.css" | absURL}} rel="stylesheet">
+    <link href={{"/css/all.min.css" | relURL}} rel="stylesheet">
+    <link href={{"/css/fontawesome.css" | relURL}} rel="stylesheet">
+    <link href={{"/css/owl.carousel.min.css" | relURL}} rel="stylesheet">
+    <link href={{"/css/animate.css" | relURL}} rel="stylesheet">
+    <link href={{"/css/style.css" | relURL}} rel="stylesheet">
+    <link href={{"/css/responsive.css" | relURL}} rel="stylesheet">
 
     <title>Hello, world!</title>
 </head>
@@ -74,7 +74,7 @@
     <!--------- Header area start --------->
     <div class="header__area  wow fadeInDown" data-wow-duration="1100ms" data-wow-delay="400ms">
         <div class="logo__main">
-            <a href=""><img src={{"/img/logo-main.svg" | absURL}} alt=""></a>
+            <a href=""><img src={{"/img/logo-main.svg" | relURL}} alt=""></a>
         </div>
         <div class="main__menu">
             <ul>
@@ -96,12 +96,12 @@
     <!--------- Hero area start --------->
     <div class="hero__area">
         <div class="s-1  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{(.Params.cover.image) | absURL}} alt="">
+            <img src={{(.Params.cover.image) | relURL}} alt="">
         </div>
         <div class="container">
             <div class="video__Play__btn  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                 <a href="{{.Params.cover.video_link}}" class="video-play vbox-item"
-                    data-gall="gall-video" data-autoplay="true" data-vbtype="video"><img src={{"/img/play icon.png" | absURL}}
+                    data-gall="gall-video" data-autoplay="true" data-vbtype="video"><img src={{"/img/play icon.png" | relURL}}
                         alt=""></a>
             </div>
             <div class="hero__content__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
@@ -140,7 +140,7 @@
                         </div>
                         <div class="col-lg-4 col-md-3 col-xl-3">
                             <div class="s-2 h-100 position-relative">
-                                <img src={{"/img/s-2.png" | absURL}} alt="">
+                                <img src={{"/img/s-2.png" | relURL}} alt="">
                             </div>
                         </div>
                     </div>
@@ -158,7 +158,7 @@
                     <div class="teacher__area__profile__wrap  wow fadeInLeft" data-wow-duration="1100ms"
                         data-wow-delay="400ms">
                         <div class="teacher__area__profile__thumb">
-                            <a href=""><img src={{"/img/pro-1.png" | absURL}} alt=""></a>
+                            <a href=""><img src={{"/img/pro-1.png" | relURL}} alt=""></a>
                         </div>
                         <div class="teacher__area__pro__content">
                             <h4>{{.Params.director.name}}</h4>
@@ -230,7 +230,7 @@
                 </div>
             </div>
             <div class="s-3  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <img src={{"/img/s-3.png" | absURL}} alt="">
+                <img src={{"/img/s-3.png" | relURL}} alt="">
             </div>
         </div>
     </div>
@@ -240,7 +240,7 @@
     <div class="recent__news__area">
         <div class="container">
             <div class="news__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <h4><span><img src={{"/img/ts.png" | absURL}} alt=""></span> Recent News <span><img src={{"/img/ts.png" | absURL}}
+                <h4><span><img src={{"/img/ts.png" | relURL}} alt=""></span> Recent News <span><img src={{"/img/ts.png" | relURL}}
                             alt=""></span></h4>
             </div>
             <div class="recent__news__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
@@ -253,7 +253,7 @@
                         {{.Date.Format "Jan"}}
                     </div>
                     <div class="recent__news__content">
-                        <a href="{{.relPermalink}}">{{.Title}}</a>
+                        <a href="{{.RelPermalink }}">{{.Title}}</a>
                         <p>{{.Params.subtitle}}</p>
                     </div>
                 </div>
@@ -274,21 +274,21 @@
             <div class="row">
                 <div class="col-sm-4  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                     <div class="single__img one">
-                        <img src={{"/img/img-1.png" | absURL}} alt="">
+                        <img src={{"/img/img-1.png" | relURL}} alt="">
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="single__img two text-center  wow fadeInUp" data-wow-duration="1100ms"
                         data-wow-delay="400ms">
-                        <img src={{"/img/img-2.png" | absURL}} alt="">
+                        <img src={{"/img/img-2.png" | relURL}} alt="">
                     </div>
                 </div>
                 <div class="col-sm-4  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                     <div class="single__img three position-relative text-end">
                         <div class="s-4">
-                            <img src={{"/img/s-4.png" | absURL}} alt="">
+                            <img src={{"/img/s-4.png" | relURL}} alt="">
                         </div>
-                        <img src={{"/img/img-3.png" | absURL}} alt="">
+                        <img src={{"/img/img-3.png" | relURL}} alt="">
                     </div>
                 </div>
             </div>
@@ -299,10 +299,10 @@
     <!--------- Summary area start --------->
     <div class="summary__area">
         <div class="s-5  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{"/img/s-5.png" | absURL}} alt="">
+            <img src={{"/img/s-5.png" | relURL}} alt="">
         </div>
         <div class="s-6  wow fadeInRight" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{"/img/s-6.png" | absURL}} alt="">
+            <img src={{"/img/s-6.png" | relURL}} alt="">
         </div>
         <div class="container">
             <div class="row">
@@ -345,7 +345,7 @@
                 </div>
             </div>
             <div class="sh  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <img src={{"/img/spp.png" | absURL}} alt="">
+                <img src={{"/img/spp.png" | relURL}} alt="">
             </div>
             <div class="grant__items__wrapper position-relative  wow fadeInUp" data-wow-duration="1100ms"
                 data-wow-delay="400ms">
@@ -354,10 +354,10 @@
                     {{range (first (6) .Pages.ByDate)}}
                         <div class="grant__item">
                             <div class="grant__item__thumb">
-                                <img src={{(.Params.logo_image) | absURL}} alt="">
+                                <img src={{(.Params.logo_image) | relURL}} alt="">
                             </div>
                             <div class="grant__item__content">
-                                <a href="{{.relPermalink}}">{{.Title}}</a>
+                                <a href="{{.RelPermalink }}">{{.Title}}</a>
                                 <p>{{.Params.subtitle}}</p>
                             </div>
                         </div>
@@ -384,7 +384,7 @@
                     {{range .Pages}}
                     <div class="software__slide__item">
                         <div class="software__slide__thumb">
-                            <a href={{.relPermalink}}><img src={{.Params.cover_image | absURL}} alt=""></a>
+                            <a href={{.RelPermalink }}><img src={{.Params.cover_image | relURL}} alt=""></a>
                         </div>
                         <div class="software__slide__content">
                             <div class="sft__slide__time">
@@ -407,10 +407,10 @@
             </div>
         </div>
         <div class="s-11  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{"/img/s-11.png" | absURL}} alt="">
+            <img src={{"/img/s-11.png" | relURL}} alt="">
         </div>
         <div class="s-12  wow fadeInRight" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{"/img/s-5.png" | absURL}} alt="">
+            <img src={{"/img/s-5.png" | relURL}} alt="">
         </div>
     </div>
     <!--------- Software area end --------->
@@ -432,9 +432,9 @@
                         </div>
                         <div class="publication__btns">
                             {{if (eq .Params.has_github_link true)}}
-                            <a href={{.Params.github_link}}><img src={{"/img/git.svg" | absURL}} alt=""></a>
+                            <a href={{.Params.github_link}}><img src={{"/img/git.svg" | relURL}} alt=""></a>
                             {{end}}
-                            <a href={{.relPermalink}} class="pbtn"><i class="far fa-long-arrow-right"></i></a>
+                            <a href={{.RelPermalink }} class="pbtn"><i class="far fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 {{ end }}
@@ -452,13 +452,13 @@
     <div class="image__area position-relative">
         <div class="s-7  wow fadeInLeft" data-wow-duration="1100ms"
         data-wow-delay="400ms">
-            <img src={{(.Params.team_image) | absURL}} alt="">
+            <img src={{(.Params.team_image) | relURL}} alt="">
         </div>
-        <img class="img" src={{"/img/img-area.png" | absURL}} alt="">
+        <img class="img" src={{"/img/img-area.png" | relURL}} alt="">
         <div class="bottom-bg  wow fadeInUp" data-wow-duration="1100ms"
         data-wow-delay="400ms">
             <div class="s-8">
-                <img src={{"/img/s-8.png" | absURL}} alt="">
+                <img src={{"/img/s-8.png" | relURL}} alt="">
             </div>
         </div>
     </div>
@@ -490,7 +490,7 @@
                                                 <div class="col-6">
                                                     <div class="single__profile">
                                                         <div class="profile__thumb mt">
-                                                            <img src={{"/img/p-1.png" | absURL}} alt="">
+                                                            <img src={{"/img/p-1.png" | relURL}} alt="">
                                                         </div>
                                                         <div class="profile__content">
                                                             <h4>Rawan Alharbi</h4>
@@ -501,7 +501,7 @@
                                                 <div class="col-6">
                                                     <div class="single__profile">
                                                         <div class="profile__thumb mt">
-                                                            <img src={{"/img/p-2.png" | absURL}} alt="">
+                                                            <img src={{"/img/p-2.png" | relURL}} alt="">
                                                         </div>
                                                         <div class="profile__content">
                                                             <h4>Tammy Stump</h4>
@@ -526,7 +526,7 @@
                             <div class="col-md-10 col-lg-9">
                                 <div class="single__profile single__profile__big">
                                     <div class="profile__thumb">
-                                        <img src={{"/img/pro-big.png" | absURL}} alt="">
+                                        <img src={{"/img/pro-big.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Rawan Alharbi</h4>
@@ -547,7 +547,7 @@
                             <div class="fr-flex d-flex">
                                 <div class="single__profile">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-1.png" | absURL}} alt="">
+                                        <img src={{"/img/im-1.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -556,7 +556,7 @@
                                 </div>
                                 <div class="single__profile fl-right">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-2.png" | absURL}} alt="">
+                                        <img src={{"/img/im-2.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -567,7 +567,7 @@
                             <div class="fr-flex d-flex justify-content-end hs-mt">
                                 <div class="single__profile">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-3.png" | absURL}} alt="">
+                                        <img src={{"/img/im-3.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -576,7 +576,7 @@
                                 </div>
                                 <div class="single__profile fl-right">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-4.png" | absURL}} alt="">
+                                        <img src={{"/img/im-4.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -587,7 +587,7 @@
                             <div class="fr-flex d-flex justify-content-end hs-mt">
                                 <div class="single__profile mr">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-4.png" | absURL}} alt="">
+                                        <img src={{"/img/im-4.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -606,7 +606,7 @@
                             <div class="fr-flex d-flex justify-content-between">
                                 <div class="single__profile fl-right">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-6.png" | absURL}} alt="">
+                                        <img src={{"/img/im-6.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -615,7 +615,7 @@
                                 </div>
                                 <div class="single__profile">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-7.png" | absURL}} alt="">
+                                        <img src={{"/img/im-7.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -626,7 +626,7 @@
                             <div class="fr-flex d-flex hs-mt justify-content-between">
                                 <div class="single__profile">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-9.png" | absURL}} alt="">
+                                        <img src={{"/img/im-9.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -635,7 +635,7 @@
                                 </div>
                                 <div class="single__profile mr-e">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-8.png" | absURL}} alt="">
+                                        <img src={{"/img/im-8.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -646,7 +646,7 @@
                             <div class="fr-flex d-flex justify-content-between hs-mt">
                                 <div class="single__profile ml">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-8.png" | absURL}} alt="">
+                                        <img src={{"/img/im-8.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -655,7 +655,7 @@
                                 </div>
                                 <div class="single__profile">
                                     <div class="profile__thumb mt">
-                                        <img src={{"/img/im-10.png" | absURL}} alt="">
+                                        <img src={{"/img/im-10.png" | relURL}} alt="">
                                     </div>
                                     <div class="profile__content">
                                         <h4>Yang Gao</h4>
@@ -675,7 +675,7 @@
     <div class="masters__area">
         <div class="s-9  wow fadeInUp" data-wow-duration="1100ms"
         data-wow-delay="400ms">
-            <img src={{"/img/s-9.png" | absURL}} alt="">
+            <img src={{"/img/s-9.png" | relURL}} alt="">
         </div>
         <div class="container">
             <div class="cmn__title  wow fadeInUp" data-wow-duration="1100ms"
@@ -798,7 +798,7 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-3">
                         <div class="quote">
-                            <img src={{"/img/quote.png" | absURL}} alt="">
+                            <img src={{"/img/quote.png" | relURL}} alt="">
                         </div>
                     </div>
                     <div class="col-md-8 col-sm-9">
@@ -822,7 +822,7 @@
                     <div class="col-lg-5 col-sm-5  wow fadeInUp" data-wow-duration="1100ms"
                     data-wow-delay="400ms">
                         <div class="review_logo">
-                            <img src={{"/img/Image.png" | absURL}} alt="">
+                            <img src={{"/img/Image.png" | relURL}} alt="">
                         </div>
                     </div>
                 </div>
@@ -835,7 +835,7 @@
     <div class="faq__area">
         <div class="s-10  wow fadeInLeft" data-wow-duration="1100ms"
         data-wow-delay="400ms">
-            <img src={{"/img/s-10.png" | absURL}} alt="">
+            <img src={{"/img/s-10.png" | relURL}} alt="">
         </div>
         <div class="container">
             <div class="row">
@@ -894,7 +894,7 @@
                 data-wow-delay="400ms">
                     <div class="cta__btns__wrapper position-relative">
                         <div class="map">
-                            <img src={{"/img/map1.png" | absURL}} alt="">
+                            <img src={{"/img/map1.png" | relURL}} alt="">
                         </div>
                         <div class="cta__btns">
                             <a href="">Get Directions <i class="far fa-long-arrow-right"></i></a>
@@ -915,7 +915,7 @@
                     <div class="footer__content  wow fadeInUp" data-wow-duration="1100ms"
                     data-wow-delay="400ms">
                         <div class="footer__logo">
-                            <a href=""><img src={{"/img/logo-fooer.svg" | absURL}} alt=""></a>
+                            <a href=""><img src={{"/img/logo-fooer.svg" | relURL}} alt=""></a>
                         </div>
                         <p>We design, build, develop, and analyze. We are HABits Lab. HABits Lab is Affiliated With
                             Northwestern Feinberg School of Medcine and Northwestern McCormick School of Engineering.
@@ -978,12 +978,12 @@
 
 
 
-    <script src={{"/js/jquery.min.js" | absURL}}></script>
-    <script src={{"/js/popper.js" | absURL}}></script>
-    <script src={{"/js/bootstrap.min.js" | absURL}}></script>
-    <script src={{"/js/owl.carousel.min.js" | absURL}}></script>
-    <script src={{"/js/wow.js" | absURL}}></script>
-    <script src={{"/js/main.js" | absURL}}></script>
+    <script src={{"/js/jquery.min.js" | relURL}}></script>
+    <script src={{"/js/popper.js" | relURL}}></script>
+    <script src={{"/js/bootstrap.min.js" | relURL}}></script>
+    <script src={{"/js/owl.carousel.min.js" | relURL}}></script>
+    <script src={{"/js/wow.js" | relURL}}></script>
+    <script src={{"/js/main.js" | relURL}}></script>
     <script>
         //===== Prealoder Start
         $(window).on('load', function (event) {
