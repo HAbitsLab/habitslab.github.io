@@ -3,12 +3,9 @@ title: "Privary with Visual Confirmation Utility in Activity-Oriented Wearable C
 date: 2021-12-03T15:09:31-06:00
 draft: false
 cover_image: "/img/thumb-1.png"
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png"}
-collaborators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
+has_link: true
+link: "https://github.com/"
+link_label: "Paper"
 has_github_link: true
 github_link: "https://github.com/"
 has_youtube_link: true

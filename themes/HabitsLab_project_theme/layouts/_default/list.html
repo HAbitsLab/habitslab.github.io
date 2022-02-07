@@ -15,7 +15,7 @@
     <link href={{"/css/style.css" | relURL}} rel="stylesheet">
     <link href={{"/css/responsive.css" | relURL}} rel="stylesheet">
 
-    <title>Hello, world</title>
+    <title>HABits Lab</title>
 </head>
 
 <body>
@@ -48,53 +48,12 @@
     <!-- Preloader End -->
 
 
-    <!--------- Offcanvas area start --------->
-    <div class="offcanvas-area">
-        <div class="menu-close">
-            <i class="far fa-times"></i>
-        </div>
-        <div class="offcanvas-menu">
-            <div class="main-menu">
-                <ul class="d-block">
-                    <li><a href="" class="active">Home</a></li>
-                    <li><a href="">About</a></li>
-                    <li><a href="">People</a></li>
-                    <li><a href="">Research</a></li>
-                    <li><a href="">Publications</a></li>
-                    <li><a href="">Projects</a></li>
-                    <li><a href="">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
 
-    <div class="offcanvas-overlay"></div>
-    <!--------- Offcanvas area end --------->
-
-    <!--------- Header area start --------->
-    <div class="header__area  wow fadeInDown" data-wow-duration="1100ms" data-wow-delay="400ms">
-        <div class="logo__main">
-            <a href=""><img src={{"/img/logo-main.svg" | relURL}} alt=""></a>
-        </div>
-        <div class="main__menu">
-            <ul>
-                <li><a href="" class="active">Home</a></li>
-                <li><a href="">About</a></li>
-                <li><a href="">People</a></li>
-                <li><a href="">Research</a></li>
-                <li><a href="">Publications</a></li>
-                <li><a href="">Projects</a></li>
-                <li><a href="">Contact</a></li>
-            </ul>
-        </div>
-        <div class="menu-open">
-            <i class="far fa-align-right"></i>
-        </div>
-    </div>
-    <!--------- Header area end --------->
+    <!--------- Header area --------->
+    {{partial "sectionHeader" .}}
 
     <!--------- Hero area start --------->
-    <div class="hero__area">
+    <div id="home" class="hero__area">
         <div class="s-1  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
             <img src={{(.Params.cover.image) | relURL}} alt="">
         </div>
@@ -151,7 +110,7 @@
     <!--------- Hero area end --------->
 
     <!--------- Teacher area start --------->
-    <div class="teacher__profile__area">
+    <div id="about" class="teacher__profile__area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-4">
@@ -237,7 +196,7 @@
     <!--------- Step area end --------->
 
     <!--------- Recent News area start --------->
-    <div class="recent__news__area">
+    <div id="news" class="recent__news__area">
         <div class="container">
             <div class="news__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                 <h4><span><img src={{"/img/ts.png" | relURL}} alt=""></span> Recent News <span><img src={{"/img/ts.png" | relURL}}
@@ -253,17 +212,21 @@
                         {{.Date.Format "Jan"}}
                     </div>
                     <div class="recent__news__content">
-                        <a href="{{.RelPermalink }}">{{.Title}}</a>
+                        {{ if .Params.has_link}} 
+                            <a href="{{.Params.link}}">{{.Title}}</a>
+                        {{ else }}
+                            <a>{{.Title}}</a>
+                        {{end}}
                         <p>{{.Params.subtitle}}</p>
                     </div>
                 </div>
                 {{ end }}
             {{ end }}
             </div>
-            <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
+            <!-- <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
                 data-wow-delay="400ms">
                 <a href="">View all News <i class="far fa-long-arrow-right"></i></a>
-            </div>
+            </div> -->
         </div>
     </div>
     <!--------- Recent News area end --------->
@@ -331,7 +294,7 @@
     <!--------- Summary area end --------->
 
     <!--------- Grants area start --------->
-    <div class="grant__area">
+    <div id="grants" class="grant__area">
         <div class="container">
             <div class="grant__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                 <div class="row">
@@ -358,7 +321,7 @@
                             </div>
                             <div class="grant__item__content">
                                 <a href="{{.RelPermalink }}">{{.Title}}</a>
-                                <p>{{.Params.subtitle}}</p>
+                                <p>{{.Params.funding_amount}} / PI: {{.Params.primary_investigator.name}} / {{.Params.start_year}} - {{.Params.end_year}}</p>
                             </div>
                         </div>
                     {{ end }}
@@ -373,55 +336,17 @@
     <!--------- Grants area end --------->
 
     <!--------- Software area start --------->
-    <div class="software__area position-relative mb-0">
-        <div class="container">
-            <div class="software__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <h3>Software & Projects</h3>
-            </div>
-            <div class="software__slider__wrapper owl-carousel  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                {{ with .Site.GetPage "/projects" }}
-                    {{range .Pages}}
-                    <div class="software__slide__item">
-                        <div class="software__slide__thumb">
-                            <a href={{.RelPermalink }}><img src={{.Params.cover_image | relURL}} alt=""></a>
-                        </div>
-                        <div class="software__slide__content">
-                            <div class="sft__slide__time">
-                                {{.Date.Format "01/02/2006"}}
-                            </div>
-                            <p>{{.Title}}</p>
-                            <div class="sft__slide__btns">
-                                {{if (eq .Params.has_github_link true)}}
-                                <a href={{.Params.github_link}}><i class="fab fa-github"></i> Github</a>
-                                {{end}}
-                                {{if (eq .Params.has_youtube_link true)}}
-                                <a href={{.Params.youtube_link}}><i class="fab fa-youtube"></i> Youtube</a>
-                                {{end}}
-                                <!-- <a href=""><i class="fas fa-share"></i>Share</a> -->
-                            </div>
-                        </div>
-                    </div>
-                    {{ end }}
-                {{ end }}
-            </div>
-        </div>
-        <div class="s-11  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{"/img/s-11.png" | relURL}} alt="">
-        </div>
-        <div class="s-12  wow fadeInRight" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{"/img/s-5.png" | relURL}} alt="">
-        </div>
-    </div>
+    <div id="projects"></div>>
+    {{partial "sectionSoftwareAndProjects" .}}
     <!--------- Software area end --------->
 
     <!--------- Publications area start --------->
-    <div class="publications__area">
+    <div id="research" class="publications__area">
         <div class="container">
             <h2 class="wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">Select Publications</h2>
             <div class="publications__wrapper  wow fadeInUp" data-wow-duration="1100ms"
             data-wow-delay="400ms">
-            {{ with .Site.GetPage "/projects" }}
+            {{ with .Site.GetPage "/publications" }}
                 {{range (first (7) .Pages.ByDate)}}
                     <div class="single__publication__item">
                         <div class="publication__date">
@@ -465,7 +390,7 @@
     <!--------- Image area end --------->
 
     <!--------- Team area start --------->
-    <div class="team__area">
+    <div id="people" class="team__area">
         <div class="container">
             <div class="row">
                 <div class="row">
@@ -876,35 +801,8 @@
     <!--------- FAQ area end --------->
 
     <!--------- CTA area start --------->
-    <div class="cta__area">
-        <div class="container">
-            <div class="row">
-                <div class="col-12  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <h2>Let’s Talk</h2>
-                </div>
-                <div class="col-md-6  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="cta__text">
-                        <h4>680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611</h4>
-                        <p>Have a question? let us now and we’ll get back to you ASAP!</p>
-                    </div>
-                </div>
-                <div class="col-md-6  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="cta__btns__wrapper position-relative">
-                        <div class="map">
-                            <img src={{"/img/map1.png" | relURL}} alt="">
-                        </div>
-                        <div class="cta__btns">
-                            <a href="">Get Directions <i class="far fa-long-arrow-right"></i></a>
-                            <a href="">Contact Us <i class="far fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <div id="contacts"></div>>
+    {{partial "sectionContact" .}}
     <!--------- CTA area end --------->
 
     <!--------- Footer area start --------->

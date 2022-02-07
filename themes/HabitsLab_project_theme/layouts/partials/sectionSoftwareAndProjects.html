@@ -1,0 +1,48 @@
+<div class="software__area position-relative mb-0">
+       <div class="container">
+           <div class="software__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+               <h3>Software & Projects</h3>
+           </div>
+           <div class="software__slider__wrapper owl-carousel  wow fadeInUp" data-wow-duration="1100ms"
+               data-wow-delay="400ms">
+               {{ with .Site.GetPage "/projects" }}
+                   {{range .Pages}}
+                   <div class="software__slide__item">
+                       <div class="software__slide__thumb">
+                           <a href={{.RelPermalink }}><img src={{.Params.cover_image | relURL}} alt=""></a>
+                       </div>
+                       <div class="software__slide__content">
+                           <div class="sft__slide__time">
+                               {{.Date.Format "01/02/2006"}}
+                           </div>
+                           {{ if .Params.has_link}} 
+                           <p href="{{.Params.link}}">{{.Title}}</p>
+                           {{ else }}
+                               <p>{{.Title}}</p>
+                           {{end}}
+                           <div class="sft__slide__btns">
+                               {{if (eq .Params.has_github_link true)}}
+                               <a href={{.Params.github_link}}><i class="fab fa-github"></i> Github</a>
+                               {{end}}
+                               {{if (eq .Params.has_youtube_link true)}}
+                               <a href={{.Params.youtube_link}}><i class="fab fa-youtube"></i> Youtube</a>
+                               {{end}}
+                               {{if (eq .Params.has_link true)}}
+                               <a href={{.Params.link}}><i class="fas fa-link"></i>{{.Params.link_label}}</a>
+                               {{end}}
+                               
+                               <!-- <a href=""><i class="fas fa-share"></i>Share</a> -->
+                           </div>
+                       </div>
+                   </div>
+                   {{ end }}
+               {{ end }}
+           </div>
+       </div>
+       <div class="s-11  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+           <img src={{"/img/s-11.png" | relURL}} alt="">
+       </div>
+       <div class="s-12  wow fadeInRight" data-wow-duration="1100ms" data-wow-delay="400ms">
+           <img src={{"/img/s-5.png" | relURL}} alt="">
+       </div>
+   </div>

@@ -16,7 +16,7 @@
     <link href={{"/css/style.css" | relURL}} rel="stylesheet">
     <link href={{"/css/responsive.css" | relURL}} rel="stylesheet">
 
-    <title>Project</title>
+    <title>{{.Title}}</title>
 </head>
 
 <body>
@@ -48,53 +48,9 @@
     </div>
     <!-- Preloader End -->
 
-    <!--------- Offcanvas area start --------->
-    <div class="offcanvas-area">
-        <div class="menu-close">
-            <i class="far fa-times"></i>
-        </div>
-        <div class="offcanvas-menu">
-            <div class="main-menu">
-                <ul class="d-block">
-                    <li><a href="" class="active">Home</a></li>
-                    <li><a href="">About</a></li>
-                    <li><a href="">People</a></li>
-                    <li><a href="">Research</a></li>
-                    <li><a href="">Publications</a></li>
-                    <li><a href="">Projects</a></li>
-                    <li><a href="">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    <div class="offcanvas-overlay"></div>
-    <!--------- Offcanvas area end --------->
-
-    <!--------- Header area start --------->
-    <div class="header__area  wow fadeInDown" data-wow-duration="1100ms" data-wow-delay="400ms">
-        <div class="logo__main">
-            <a href=""><img src={{"/img/logo-main.svg" | relURL}} alt=""></a>
-        </div>
-        <div class="s">
-            <img src={{"/img/s.png" | relURL}} alt="">
-        </div>
-        <div class="main__menu">
-            <ul>
-                <li><a href="" class="active">Home</a></li>
-                <li><a href="">About</a></li>
-                <li><a href="">People</a></li>
-                <li><a href="">Research</a></li>
-                <li><a href="">Publications</a></li>
-                <li><a href="">Projects</a></li>
-                <li><a href="">Contact</a></li>
-            </ul>
-        </div>
-        <div class="menu-open">
-            <i class="far fa-align-right"></i>
-        </div>
-    </div>
     <!--------- Header area end --------->
+    {{partial "sectionHeader" .}}
+
 
     <!--------- Hero area start --------->
     <div class="hero_2">
@@ -147,22 +103,30 @@
                     </div>
                     <div class="col-lg-4 col-xl-3 col-md-4">
                         <div class="article__right  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms"ffffffffffffff>
-                            {{partial "investigators" .Params.primary_investigator}}
+                            <h4>Primary Investigator</h4>
+                            {{partial "investigator" .Params.primary_investigator}}
 
-                            {{ if not (eq (len .Params.collaborators) 0)}} 
-                                <h4>Collaborators</h4>
-                                {{ range .Params.collaborators }}
-                                    {{partial "collaborator" .}}
+                            {{ if not (eq (len .Params.coinvestigators) 0)}} 
+                                <h4>Co-investigator</h4>
+                                {{ range .Params.coinvestigators }}
+                                    {{partial "coinvestigator" .}}
                                 {{ end }}
                             {{ end }}
-                            <h4>Related Publications</h4>
-                            <div class="pulication__links">
+
+                            {{ if not (eq (len .Params.authors) 0)}} 
+                                <h4>Authors</h4>
+                                {{ range .Params.authors }}
+                                    <p>{{.name}}</p>
+                                {{ end }}
+                            {{ end }}
+                            <!-- <h4>Related Publications</h4> -->
+                            <!-- <div class="pulication__links">
                                 <a href="">Chicago Tribune</a>
                                 <a href="">ABC 7 Eyewitness News</a>
                                 <a href="">FOX News Chicago</a>
                                 <a href="">WGN-TV</a>
-                            </div>
-                            <div class="document__download__wrapper">
+                            </div> -->
+                            <!-- <div class="document__download__wrapper">
                                 <h3>Download the Full PDF Document</h3>
                                 <p>Wearable cameras are used as a tool to understand fine-grained human activities in
                                     the wild because of their ability <br>
@@ -170,7 +134,7 @@
                                 <div class="view__profile diff">
                                     <a href="" class="active"> Download <i class="far fa-long-arrow-down"></i></a>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -182,125 +146,11 @@
     <!--------- index-2 area end --------->
 
 
-
-    <!--------- Software area start --------->
-    <div class="software__area mb position-relative" style="background-color: #1F1F1F;">
-        <div class="container">
-            <div class="software__title  wow fadeInUp" data-wow-duration="1100ms"
-            data-wow-delay="400ms">
-                <h3>Software & Projects</h3>
-            </div>
-            <div class="software__slider__wrapper owl-carousel  wow fadeInUp" data-wow-duration="1100ms"
-            data-wow-delay="400ms">
-                <div class="software__slide__item">
-                    <div class="software__slide__thumb">
-                        <a href=""><img src={{"/img/thumb-1.png" | relURL}} alt=""></a>
-                    </div>
-                    <div class="software__slide__content">
-                        <div class="sft__slide__time">
-                            a hour ago
-                        </div>
-                        <p>Drowsy Driving: Recognizing drowsy driving through yawn and blink detection in a car-mounted
-                            webcam, powered by Raspberry Pi</p>
-                        <div class="sft__slide__btns">
-                            <a href=""><i class="fab fa-github"></i> Github</a>
-                            <a href=""><i class="fab fa-youtube"></i> Youtube</a>
-                            <a href=""><i class="fas fa-share"></i> Try</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="software__slide__item">
-                    <div class="software__slide__thumb">
-                        <a href=""><img src={{"/img/thumb-2.png" | relURL}} alt=""></a>
-                    </div>
-                    <div class="software__slide__content">
-                        <div class="sft__slide__time">
-                            a hour ago
-                        </div>
-                        <p>Drowsy Driving: Recognizing drowsy driving through yawn and blink detection in a car-mounted
-                            webcam, powered by Raspberry Pi</p>
-                        <div class="sft__slide__btns">
-                            <a href=""><i class="fab fa-github"></i> Github</a>
-                            <a href=""><i class="fab fa-youtube"></i> Youtube</a>
-                            <a href=""><i class="fas fa-share"></i> Try</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="software__slide__item">
-                    <div class="software__slide__thumb">
-                        <a href=""><img src={{"/img/thumb-3.png" | relURL}} alt=""></a>
-                    </div>
-                    <div class="software__slide__content">
-                        <div class="sft__slide__time">
-                            a hour ago
-                        </div>
-                        <p>Drowsy Driving: Recognizing drowsy driving through yawn and blink detection in a car-mounted
-                            webcam, powered by Raspberry Pi</p>
-                        <div class="sft__slide__btns">
-                            <a href=""><i class="fab fa-github"></i> Github</a>
-                            <a href=""><i class="fab fa-youtube"></i> Youtube</a>
-                            <a href=""><i class="fas fa-share"></i> Try</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="software__slide__item">
-                    <div class="software__slide__thumb">
-                        <a href=""><img src={{"/img/thumb-1.png" | relURL}} alt=""></a>
-                    </div>
-                    <div class="software__slide__content">
-                        <div class="sft__slide__time">
-                            a hour ago
-                        </div>
-                        <p>Drowsy Driving: Recognizing drowsy driving through yawn and blink detection in a car-mounted
-                            webcam, powered by Raspberry Pi</p>
-                        <div class="sft__slide__btns">
-                            <a href=""><i class="fab fa-github"></i> Github</a>
-                            <a href=""><i class="fab fa-youtube"></i> Youtube</a>
-                            <a href=""><i class="fas fa-share"></i> Try</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="s-11  wow fadeInRight" data-wow-duration="1100ms"
-        data-wow-delay="400ms">
-            <img src={{"/img/s-11.png" | relURL}} alt="">
-        </div>
-        <div class="s-12  wow fadeInLeft" data-wow-duration="1100ms"
-        data-wow-delay="400ms">
-            <img src={{"/img/s-13.png" | relURL}} alt="">
-        </div>
-    </div>
-    <!--------- Software area end --------->
+    {{partial "sectionSoftwareAndProjects" .}}
 
 
     <!--------- CTA area start --------->
-    <div class="cta__area mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-12  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <h2>Let’s Talk</h2>
-                </div>
-                <div class="col-md-6  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="cta__text">
-                        <h4>680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611</h4>
-                        <p>Have a question? let us now and we’ll get back to you ASAP!</p>
-                    </div>
-                </div>
-                <div class="col-md-6  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="cta__btns__wrapper">
-                        <div class="cta__btns">
-                            <a href="">Get Directions <i class="far fa-long-arrow-right"></i></a>
-                            <a href="">Contact Us <i class="far fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    {{partial "sectionContact" .}}
     <!--------- CTA area end --------->
 
     <!--------- Footer area start --------->

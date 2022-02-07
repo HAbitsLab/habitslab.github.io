@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on HabitsLab</title>
+    <link>https://HAbitsLab.github.io/</link>
+    <description>Recent content in Homepage on HabitsLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Dec 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TITLE</title>
+      <link>https://HAbitsLab.github.io/news/news3/</link>
+      <pubDate>Wed, 05 Jan 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Alshurafa receives NSF EAGER Award</title>
+      <link>https://HAbitsLab.github.io/news/news2/</link>
+      <pubDate>Mon, 03 Jan 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/publication1/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
+      <link>https://HAbitsLab.github.io/news/news1/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/projects/project1/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/projects/project1/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+    <item>
+      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
+      <link>https://HAbitsLab.github.io/grants/grant1/</link>
+      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/grants/grant1/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+  </channel>
+</rss>
