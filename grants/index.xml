@@ -6,41 +6,14 @@
     <description>Recent content in Grants on HabitsLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GRANT NAME</title>
-      <link>https://HAbitsLab.github.io/grants/grant3/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GRANT NAME</title>
-      <link>https://HAbitsLab.github.io/grants/grant4/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EAT: A Reliable Eating Assessment Technology for Free-living Individuals.</title>
-      <link>https://HAbitsLab.github.io/grants/grant2/</link>
-      <pubDate>Thu, 04 Nov 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant2/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 05 Oct 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
       <link>https://HAbitsLab.github.io/grants/grant1/</link>
       <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/grants/grant1/</guid>
-      <description></description>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
   </channel>
