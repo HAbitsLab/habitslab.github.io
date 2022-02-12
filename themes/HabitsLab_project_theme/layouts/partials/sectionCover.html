@@ -1,0 +1,54 @@
+<div id="home" class="hero__area">
+       <div class="s-1  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
+           <img src={{(.Params.cover.image) | relURL}} alt="">
+       </div>
+       <div class="container">
+           <div class="video__Play__btn  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+               <a href="{{.Params.cover.video_link}}" class="video-play vbox-item"
+                   data-gall="gall-video" data-autoplay="true" data-vbtype="video"><img src={{"/img/play icon.png" | relURL}}
+                       alt=""></a>
+           </div>
+           <div class="hero__content__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+               <h2>{{with .Params.cover.title}}{{ . | safeHTML }}{{ end }}</h2>
+               <div class="row">
+                   <div class="col-md-5">
+                       <h5>{{with .Params.cover.subtitle_left}}{{ . | safeHTML }}{{ end }}</h5>
+                   </div>
+                   <div class="col-md-5">
+                       <p>{{with .Params.cover.subtitle_right}}{{ . | safeHTML }}{{ end }}</p>
+                   </div>
+               </div>
+           </div>
+       </div>
+       <div class="container-fluid">
+           <div class="hero__bottom__bar">
+               <div class="container">
+                   <div class="row">
+                       <div class="col-lg-8 col-xl-9 col-md-9">
+                           <div class="hero__bottom__nav position-relative z-index-1">
+                               <div class="row">
+                                   <div class="col-md-4 col-sm-6">
+                                       <a href="" class="pl-0">Learn more about <br>
+                                           our mission <span><i class="far fa-long-arrow-right"></i></span></a>
+                                   </div>
+                                   <div class="col-md-4 col-sm-6">
+                                       <a href="">View our latest <br> projects <span><i
+                                                   class="far fa-long-arrow-right"></i></span></a>
+                                   </div>
+                                   <div class="col-md-4 col-sm-6">
+                                       <a href="" class="border-0">Read our most recent <br> announcements <span><i
+                                                   class="far fa-long-arrow-right"></i></span></a>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div class="col-lg-4 col-md-3 col-xl-3">
+                           <div class="s-2 h-100 position-relative">
+                               <img src={{"/img/s-2.png" | relURL}} alt="">
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>

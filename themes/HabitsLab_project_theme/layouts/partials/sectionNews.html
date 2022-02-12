@@ -1,0 +1,33 @@
+<div id="news" class="recent__news__area">
+       <div class="container">
+           <div class="news__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+               <h4><span><img src={{"/img/ts.png" | relURL}} alt=""></span> Recent News <span><img src={{"/img/ts.png" | relURL}}
+                           alt=""></span></h4>
+           </div>
+           <div class="recent__news__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+           {{$number_of_news_shown := .Params.number_of_news_shown}}
+           {{ with .Site.GetPage "/news" }}
+               {{range (first (3) .Pages.ByDate)}}
+               <div class="recent__news__list">
+                   <div class="recent__news__date">
+                       {{.Date.Format "_2"}} <br>
+                       {{.Date.Format "Jan"}}
+                   </div>
+                   <div class="recent__news__content">
+                       {{ if .Params.has_link}} 
+                           <a href="{{.Params.link}}">{{.Title}}</a>
+                       {{ else }}
+                           <a>{{.Title}}</a>
+                       {{end}}
+                       <p>{{.Params.subtitle}}</p>
+                   </div>
+               </div>
+               {{ end }}
+           {{ end }}
+           </div>
+           <!-- <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
+               data-wow-delay="400ms">
+               <a href="">View all News <i class="far fa-long-arrow-right"></i></a>
+           </div> -->
+       </div>
+   </div>

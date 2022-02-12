@@ -1,0 +1,49 @@
+<div class="step__area">
+       <div class="container position-relative">
+           <div class="row justify-content-center g-0">
+               <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+                   <div class="single__step__item bg-blue">
+                           <h4>{{.Params.mission1_title}}</h4>
+                           {{ range .Params.mission1_points}}
+                               <p> • {{.}}</p>
+                           {{ end }}
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+                   <div class="single__step__item hs--ex--p">
+                       <h4>{{.Params.mission2_title}}</h4>
+                       {{ range .Params.mission2_points}}
+                           <p> • {{.}}</p>
+                       {{ end }}
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+                   <div class="single__step__item bg-light-blue">
+                       <h4>{{.Params.mission3_title}}</h4>
+                       {{ range .Params.mission3_points}}
+                           <p> • {{.}}</p>
+                       {{ end }}
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+                   <div class="single__step__item">
+                       <h4>{{.Params.mission4_title}}</h4>
+                       {{ range .Params.mission4_points}}
+                           <p> • {{.}}</p>
+                       {{ end }}
+                   </div>
+               </div>
+               <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+                   <div class="single__step__item bg-blue hs--ex--p">
+                       <h4>{{.Params.mission5_title}}</h4>
+                       {{ range .Params.mission5_points}}
+                           <p> • {{.}}</p>
+                       {{ end }}
+                   </div>
+               </div>
+           </div>
+           <div class="s-3  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+               <img src={{"/img/s-3.png" | relURL}} alt="">
+           </div>
+       </div>
+   </div>

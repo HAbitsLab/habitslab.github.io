@@ -1,0 +1,31 @@
+<div id="about" class="teacher__profile__area">
+       <div class="container">
+           <div class="row">
+               <div class="col-lg-4 col-md-4 col-sm-4">
+                   <div class="teacher__area__profile__wrap  wow fadeInLeft" data-wow-duration="1100ms"
+                       data-wow-delay="400ms">
+                       <div class="teacher__area__profile__thumb">
+                           <a href=""><img src={{"/img/pro-1.png" | relURL}} alt=""></a>
+                       </div>
+                       <div class="teacher__area__pro__content">
+                           <h4>{{.Params.director.name}}</h4>
+                           <p>{{.Params.director.title}}<br>
+                               <span>{{.Params.director.university}}</span>
+                           </p>
+                           <div class="texher__pro__social">
+                               <a href={{.Params.director.linkedIn}}><i class="fab fa-linkedin-in"></i></a>
+                               <a href={{.Params.director.twitter}}><i class="fab fa-twitter"></i></a>
+                               <a href={{.Params.director.email}}><i class="far fa-envelope"></i></a>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-sm-8">
+                   <div class="teacher__profile__content  wow fadeInUp" data-wow-duration="1100ms"
+                       data-wow-delay="400ms">
+                       <p>{{.Content}}</p>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>

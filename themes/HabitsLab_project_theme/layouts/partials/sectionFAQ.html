@@ -1,0 +1,41 @@
+<div class="faq__area">
+       <div class="s-10  wow fadeInLeft" data-wow-duration="1100ms"
+       data-wow-delay="400ms">
+           <img src={{"/img/s-10.png" | relURL}} alt="">
+       </div>
+       <div class="container">
+           <div class="row">
+               <div class="col-lg-5 col-md-4  wow fadeInUp" data-wow-duration="1100ms"
+               data-wow-delay="400ms">
+                   <div class="faq__title">
+                       <h2>Frequently Asked <br> Questions</h2>
+                   </div>
+               </div>
+               <div class="col-lg-7 col-md-8  wow fadeInUp" data-wow-duration="1100ms"
+               data-wow-delay="400ms">
+                   <div class="faq__wrapper">
+                       <div class="accordion" id="accordionExample">
+                           {{range $index, $FAQ:= .Params.FAQ}}
+                           <div class="accordion-item">
+                               <h2 class="accordion-header" id={{$index}}>
+                                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                       data-bs-target={{(print "#collapse" $index)}} aria-expanded="false" aria-controls={{(print "collapse" $index)}}>
+                                       {{with $FAQ.question}}{{ . | safeHTML }}{{ end }}
+                                       <!-- {{(print "hi" " plus this")}} -->
+                                   </button>
+                               </h2>
+                               <div id={{(print "collapse" $index)}} class="accordion-collapse collapse"
+                                   aria-labelledby={{$index}} data-bs-parent="#accordionExample">
+                                   <div class="accordion-body">
+                                       {{with $FAQ.answer}}{{ . | safeHTML }}{{ end }}
+                                   </div>
+                               </div>
+                           </div>
+                           {{end}}
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>

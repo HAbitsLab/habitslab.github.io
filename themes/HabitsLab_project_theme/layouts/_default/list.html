@@ -17,25 +17,33 @@
 
     <title>HABits Lab</title>
     <style>
+        /*
         @media (min-width: 576px)
         {
             .researchers__wrap .row {
                 flex-wrap: nowrap;
               }
         }
+        */
 
         .col-6 {
-          max-width: 60%;
+          max-width: 25%;
+          margin-right: 1.75rem;
+          margin-bottom: 1.75rem;
         }
 
         #mastersUndergrads .col-6 {
-          max-width: 25%;
-          padding-bottom: 100px;
+          max-width: 13%;
+          /*padding-bottom: 100px;*/
         }
 
         .collaborator__thumb{
             height: 25px;
             width: 25px;
+        }
+
+        #researcher-title{
+            margin-bottom: 1.4rem;
         }
     </style>
 </head>
@@ -74,183 +82,17 @@
     <!--------- Header area --------->
     {{partial "sectionHeader" .}}
 
-    <!--------- Hero area start --------->
-    <div id="home" class="hero__area">
-        <div class="s-1  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
-            <img src={{(.Params.cover.image) | relURL}} alt="">
-        </div>
-        <div class="container">
-            <div class="video__Play__btn  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <a href="{{.Params.cover.video_link}}" class="video-play vbox-item"
-                    data-gall="gall-video" data-autoplay="true" data-vbtype="video"><img src={{"/img/play icon.png" | relURL}}
-                        alt=""></a>
-            </div>
-            <div class="hero__content__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <h2>{{with .Params.cover.title}}{{ . | safeHTML }}{{ end }}</h2>
-                <div class="row">
-                    <div class="col-md-5">
-                        <h5>{{with .Params.cover.subtitle_left}}{{ . | safeHTML }}{{ end }}</h5>
-                    </div>
-                    <div class="col-md-5">
-                        <p>{{with .Params.cover.subtitle_right}}{{ . | safeHTML }}{{ end }}</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="hero__bottom__bar">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-xl-9 col-md-9">
-                            <div class="hero__bottom__nav position-relative z-index-1">
-                                <div class="row">
-                                    <div class="col-md-4 col-sm-6">
-                                        <a href="" class="pl-0">Learn more about <br>
-                                            our mission <span><i class="far fa-long-arrow-right"></i></span></a>
-                                    </div>
-                                    <div class="col-md-4 col-sm-6">
-                                        <a href="">View our latest <br> projects <span><i
-                                                    class="far fa-long-arrow-right"></i></span></a>
-                                    </div>
-                                    <div class="col-md-4 col-sm-6">
-                                        <a href="" class="border-0">Read our most recent <br> announcements <span><i
-                                                    class="far fa-long-arrow-right"></i></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-3 col-xl-3">
-                            <div class="s-2 h-100 position-relative">
-                                <img src={{"/img/s-2.png" | relURL}} alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--------- Hero area end --------->
+    <!--------- Cover area start --------->
+    {{partial "sectionCover" .}}
 
-    <!--------- Teacher area start --------->
-    <div id="about" class="teacher__profile__area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <div class="teacher__area__profile__wrap  wow fadeInLeft" data-wow-duration="1100ms"
-                        data-wow-delay="400ms">
-                        <div class="teacher__area__profile__thumb">
-                            <a href=""><img src={{"/img/pro-1.png" | relURL}} alt=""></a>
-                        </div>
-                        <div class="teacher__area__pro__content">
-                            <h4>{{.Params.director.name}}</h4>
-                            <p>{{.Params.director.title}}<br>
-                                <span>{{.Params.director.university}}</span>
-                            </p>
-                            <div class="texher__pro__social">
-                                <a href={{.Params.director.linkedIn}}><i class="fab fa-linkedin-in"></i></a>
-                                <a href={{.Params.director.twitter}}><i class="fab fa-twitter"></i></a>
-                                <a href={{.Params.director.email}}><i class="far fa-envelope"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-8">
-                    <div class="teacher__profile__content  wow fadeInUp" data-wow-duration="1100ms"
-                        data-wow-delay="400ms">
-                        <p>{{.Content}}</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--------- Teacher area end --------->
+    <!--------- About area start --------->
+    {{partial "sectionAbout" . }}
 
-    <!--------- Step area start --------->
-    <div class="step__area">
-        <div class="container position-relative">
-            <div class="row justify-content-center g-0">
-                <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                    <div class="single__step__item bg-blue">
-                            <h4>{{.Params.mission1_title}}</h4>
-                            {{ range .Params.mission1_points}}
-                                <p> • {{.}}</p>
-                            {{ end }}
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                    <div class="single__step__item hs--ex--p">
-                        <h4>{{.Params.mission2_title}}</h4>
-                        {{ range .Params.mission2_points}}
-                            <p> • {{.}}</p>
-                        {{ end }}
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                    <div class="single__step__item bg-light-blue">
-                        <h4>{{.Params.mission3_title}}</h4>
-                        {{ range .Params.mission3_points}}
-                            <p> • {{.}}</p>
-                        {{ end }}
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                    <div class="single__step__item">
-                        <h4>{{.Params.mission4_title}}</h4>
-                        {{ range .Params.mission4_points}}
-                            <p> • {{.}}</p>
-                        {{ end }}
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                    <div class="single__step__item bg-blue hs--ex--p">
-                        <h4>{{.Params.mission5_title}}</h4>
-                        {{ range .Params.mission5_points}}
-                            <p> • {{.}}</p>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
-            <div class="s-3  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <img src={{"/img/s-3.png" | relURL}} alt="">
-            </div>
-        </div>
-    </div>
-    <!--------- Step area end --------->
+    <!--------- Mission area start --------->
+    {{partial "sectionMissions" .}}
 
     <!--------- Recent News area start --------->
-    <div id="news" class="recent__news__area">
-        <div class="container">
-            <div class="news__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <h4><span><img src={{"/img/ts.png" | relURL}} alt=""></span> Recent News <span><img src={{"/img/ts.png" | relURL}}
-                            alt=""></span></h4>
-            </div>
-            <div class="recent__news__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-            {{$number_of_news_shown := .Params.number_of_news_shown}}
-            {{ with .Site.GetPage "/news" }}
-                {{range (first (3) .Pages.ByDate)}}
-                <div class="recent__news__list">
-                    <div class="recent__news__date">
-                        {{.Date.Format "_2"}} <br>
-                        {{.Date.Format "Jan"}}
-                    </div>
-                    <div class="recent__news__content">
-                        {{ if .Params.has_link}} 
-                            <a href="{{.Params.link}}">{{.Title}}</a>
-                        {{ else }}
-                            <a>{{.Title}}</a>
-                        {{end}}
-                        <p>{{.Params.subtitle}}</p>
-                    </div>
-                </div>
-                {{ end }}
-            {{ end }}
-            </div>
-            <!-- <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                <a href="">View all News <i class="far fa-long-arrow-right"></i></a>
-            </div> -->
-        </div>
-    </div>
+    {{partial "sectionNews" .}}
     <!--------- Recent News area end --------->
 
     <!--------- Thumb area start --------->
@@ -313,87 +155,10 @@
             </div>
         </div>
     </div>
-    <!--------- Summary area end --------->
 
-    <!--------- Grants area start --------->
-    <div id="grants" class="grant__area">
-        <div class="container">
-            <div class="grant__title  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <div class="row">
-                    <div class="col-md-6 col-lg-7">
-                        <h3>Grants</h3>
-                    </div>
-                    <div class="col-md-6 col-lg-5">
-                        <p>Our work is the bridge to various insightful
-                            digital experiences. Check our work below for featured.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="sh  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <img src={{"/img/spp.png" | relURL}} alt="">
-            </div>
-            <div class="grant__items__wrapper position-relative  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                {{$number_of_grants_shown := .Params.number_of_grants_shown}}
-                {{ with .Site.GetPage "/grants" }}
-                    {{range (first (6) .Pages.ByDate)}}
-                        <div class="grant__item">
-                            <div class="grant__item__thumb">
-                                <img src={{(.Params.logo_image) | relURL}} alt="">
-                            </div>
-                            <div class="grant__item__content">
-                                <a href="{{.RelPermalink }}">{{.Title}}</a>
-                                <p>{{.Params.funding_amount}} / PI: {{.Params.primary_investigator.name}} / {{.Params.start_year}} - {{.Params.end_year}}</p>
-                            </div>
-                        </div>
-                    {{ end }}
-                {{ end }}
-            </div>
-            <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                <a href="">View all grants <i class="far fa-long-arrow-right"></i></a>
-            </div>
-        </div>
-    </div>
-    <!--------- Grants area end --------->
-
-    <!--------- Software area start --------->
-    <div id="projects"></div>>
+    {{partial "sectionGrants" .}}
     {{partial "sectionSoftwareAndProjects" .}}
-    <!--------- Software area end --------->
-
-    <!--------- Publications area start --------->
-    <div id="research" class="publications__area">
-        <div class="container">
-            <h2 class="wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">Select Publications</h2>
-            <div class="publications__wrapper  wow fadeInUp" data-wow-duration="1100ms"
-            data-wow-delay="400ms">
-            {{ with .Site.GetPage "/publications" }}
-                {{range (first (7) .Pages.ByDate)}}
-                    <div class="single__publication__item">
-                        <div class="publication__date">
-                            {{.Date.Format "01/02/2006"}}
-                        </div>
-                        <div class="publication__content">
-                            <p>{{.Title}}</p>
-                        </div>
-                        <div class="publication__btns">
-                            {{if (eq .Params.has_github_link true)}}
-                            <a href={{.Params.github_link}}><img src={{"/img/git.svg" | relURL}} alt=""></a>
-                            {{end}}
-                            <a href={{.RelPermalink }} class="pbtn"><i class="far fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                {{ end }}
-            {{ end }}
-            </div>
-            <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
-            data-wow-delay="400ms">
-                <a href="">View all Publications <i class="far fa-long-arrow-right"></i></a>
-            </div>
-        </div>
-    </div>
-    <!--------- Publications area end --------->
+    {{partial "sectionPublications" .}}
 
     <!--------- Image area start --------->
     <div class="image__area position-relative">
@@ -412,315 +177,7 @@
     <!--------- Image area end --------->
 
     <!--------- Team area start --------->
-    <div id="people" class="team__area">
-        <div class="container">
-            <div class="row">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="team__title  wow fadeInUp" data-wow-duration="1100ms"
-                        data-wow-delay="400ms">
-                            <h2>Meet The Team</h2>
-                            <p>We’re are a friendly , forward thinking collective, an approachable team with a can-do
-                                attitude. Our curiosity and breadth of experience means we can turn our minds to new
-                                challenges, combining the need for functionality with a desire for aesthetic value.</p>
-                        </div>
-                        <div class="team__wrapper  wow fadeInUp" data-wow-duration="1100ms"
-                        data-wow-delay="400ms">
-                            <div class="cmn__title df">
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <h3>Researchers</h3>
-                                    </div>
-                                </div>
-                                <div class="phd__students">
-                                    <div class="col-sm-6">
-                                        <div class="researchers__wrap">
-                                            <div  class="row">
-                                                <div class="col-6">
-                                                        <div class="profile__thumb mt">
-                                                            <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                        </div>
-                                                        <div class="profile__content">
-                                                            <h4>Rawan Alharbi</h4>
-                                                            <p>Ph. D. Candidate</p>
-                                                        </div>
-                                                </div>                                          
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="cmn__title principal  wow fadeInUp" data-wow-duration="1100ms"
-                        data-wow-delay="400ms">
-                            <h3>Principle Investigators</h3>
-                        </div>
-                        <div class="row justify-content-end  wow fadeInUp" data-wow-duration="1100ms"
-                        data-wow-delay="400ms">
-                            <div class="col-md-10 col-lg-9">
-                                <div class="single__profile single__profile__big">
-                                    <div class="profile__thumb">
-                                        <img src={{"/img/pro-big.png" | relURL}} alt="">
-                                    </div>
-                                    <div class="profile__content">
-                                        <h4>Rawan Alharbi</h4>
-                                        <p>Ph. D. Candidate</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6  wow fadeInUp" data-wow-duration="1100ms"
-                    data-wow-delay="400ms">
-                        <div class="cmn__title df">
-                            <h3>PHD Students</h3>
-                        </div>
-                        <div class="phd__students">
-                            <div class="col-sm-6">
-                                <div class="researchers__wrap">
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>  
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>                                               
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6  wow fadeInUp" data-wow-duration="1100ms"
-                    data-wow-delay="400ms">
-                        <div class="cmn__title df">
-                            <h3>Research Staff</h3>
-                        </div>
-                        <div class="phd__students">
-                            <div class="col-sm-6">
-                                <div class="researchers__wrap">
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>  
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>                                               
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--------- Team area end --------->
-
-    <!--------- Masters area start --------->
-    <div class="masters__area">
-        <div class="s-9  wow fadeInUp" data-wow-duration="1100ms"
-        data-wow-delay="400ms">
-            <img src={{"/img/s-9.png" | relURL}} alt="">
-        </div>
-        <div class="container">
-            <div id="mastersUndergrads" class="wow fadeInUp" data-wow-duration="1100ms"
-            data-wow-delay="400ms">
-                <div class="cmn__title df">
-                    <h3>Masters & Undergrads</h3>
-                </div>
-
-                <div class="phd__students">
-                            <div class="col-sm-6">
-                                <div class="researchers__wrap">
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>  
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>          
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>  
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>          
-                                        <div class="col-6">
-                                            <!-- <div class="single__profile"> -->
-                                                <div class="profile__thumb mt">
-                                                    <img src={{"/img/p-1.png" | relURL}} alt="">
-                                                </div>
-                                                <div class="profile__content">
-                                                    <h4>Rawan Alharbi</h4>
-                                                    <p>Ph. D. Candidate</p>
-                                                </div>
-                                            <!-- </div> -->
-                                        </div>                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-            </div>
-            <div class="row">
-                <div class="col-md-8  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="cmn__title diff">
-                        <h3> Collaborators</h3>
-                    </div>
-                    {{if .Params.team.collaborators}}
-                        <div class="row">
-                            <div class="col-sm-6">
-                                {{ range first (div (len .Params.team.collaborators) 2) .Params.team.collaborators }}
-                                        <div class="single__collaborators__item">
-                                            <div class="collaborator__thumb has--bg-light-blue"></div>
-                                            <div class="collaborator_content">
-                                                <a>{{.name}}</a>
-                                                <p>{{.degree}}</p>
-                                            </div>
-                                        </div>
-                                {{ end }}
-                            </div>
-                            <div class="col-sm-6">
-                                {{ range after (div (len .Params.team.collaborators) 2) .Params.team.collaborators }}
-                                    <div class="single__collaborators__item">
-                                        <div class="collaborator__thumb has--bg-light-blue"></div>
-                                        <div class="collaborator_content">
-                                            <a>{{.name}}</a>
-                                            <p>{{.degree}}</p>
-                                        </div>
-                                    </div>
-                                {{ end }}
-                            </div>
-                        </div>
-                    {{end}}
-                </div>
-                <div class="col-md-4  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="cmn__title diff">
-                        <h3> Former Students/Grads</h3>
-                    </div>
-                    <div class="former__students pt-1">
-                        {{ range .Params.team.former_students }}
-                            <li>{{.name}} <span>{{.degree}}</span></li>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--------- Masters area end --------->
+    {{partial "sectionTeam" .}}
 
     <!--------- Review area start --------->
     <div class="review__area">
@@ -763,54 +220,8 @@
     </div>
     <!--------- Review area end --------->
 
-    <!--------- FAQ area start --------->
-    <div class="faq__area">
-        <div class="s-10  wow fadeInLeft" data-wow-duration="1100ms"
-        data-wow-delay="400ms">
-            <img src={{"/img/s-10.png" | relURL}} alt="">
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-md-4  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="faq__title">
-                        <h2>Frequently Asked <br> Questions</h2>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-8  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                    <div class="faq__wrapper">
-                        <div class="accordion" id="accordionExample">
-                            {{range $index, $FAQ:= .Params.FAQ}}
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id={{$index}}>
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target={{(print "#collapse" $index)}} aria-expanded="false" aria-controls={{(print "collapse" $index)}}>
-                                        {{with $FAQ.question}}{{ . | safeHTML }}{{ end }}
-                                        <!-- {{(print "hi" " plus this")}} -->
-                                    </button>
-                                </h2>
-                                <div id={{(print "collapse" $index)}} class="accordion-collapse collapse"
-                                    aria-labelledby={{$index}} data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        {{with $FAQ.answer}}{{ . | safeHTML }}{{ end }}
-                                    </div>
-                                </div>
-                            </div>
-                            {{end}}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--------- FAQ area end --------->
-
-    <!--------- CTA area start --------->
-    <div id="contacts"></div>>
+    {{partial "sectionFAQ" .}}
     {{partial "sectionContact" .}}
-    <!--------- CTA area end --------->
 
     <!--------- Footer area start --------->
     <div class="footer__area">
