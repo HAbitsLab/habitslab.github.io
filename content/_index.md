@@ -51,8 +51,8 @@ team_image: "/img/s-7.png"
 team: {
     pi: {name: , degree: } ,
     researchers: [
-        {name: , degree: },
-        {name: , degree: }
+        {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
+        {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         ],
     phds: [
         {name: , degree: },
@@ -67,13 +67,18 @@ team: {
         {name: , degree: }
         ],
     collaborators: [
-        {name: , degree: },
-        {name: , degree: }
-        ],
+        {name: "name1", degree: "Postdoc"},
+        {name: "name2", degree: "Postdoc"},
+        {name: "name3", degree: "Postdoc"},
+        {name: "name4", degree: "Postdoc"},
+        {name: "name5", degree: "Postdoc"},
+         ],
     former_students: [
-        {name: ,degree: , company: },
-        {name: ,degree: , company: },
-        {name: ,degree: , company: }
+        {name: "name1", degree: "Postdoc"},
+        {name: "name2", degree: "Postdoc"},
+        {name: "name3", degree: "Postdoc"},
+        {name: "name4", degree: "Postdoc"},
+        {name: "name5", degree: "Postdoc"},
         ]
 }
 
