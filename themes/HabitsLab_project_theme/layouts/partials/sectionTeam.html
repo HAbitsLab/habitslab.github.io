@@ -6,9 +6,7 @@
                     <div class="team__title  wow fadeInUp" data-wow-duration="1100ms"
                     data-wow-delay="400ms">
                         <h2>Meet The Team</h2>
-                        <p>We’re are a friendly , forward thinking collective, an approachable team with a can-do
-                            attitude. Our curiosity and breadth of experience means we can turn our minds to new
-                            challenges, combining the need for functionality with a desire for aesthetic value.</p>
+                        <p>{{.Params.team.description}}</p>
                     </div>
                     <div class="team__wrapper  wow fadeInUp" data-wow-duration="1100ms"
                     data-wow-delay="400ms">
@@ -44,18 +42,18 @@
                 <div class="col-md-6">
                     <div class="cmn__title principal  wow fadeInUp" data-wow-duration="1100ms"
                     data-wow-delay="400ms">
-                        <h3>Principle Investigators</h3>
+                        <h3>Principal Investigator</h3>
                     </div>
                     <div class="row justify-content-end  wow fadeInUp" data-wow-duration="1100ms"
                     data-wow-delay="400ms">
                         <div class="col-md-10 col-lg-9">
                             <div class="single__profile single__profile__big">
                                 <div class="profile__thumb">
-                                    <img src={{"/img/pro-big.png" | relURL}} alt="">
+                                    <img src={{.Params.director.img_teams_section | relURL}} alt="">
                                 </div>
                                 <div class="profile__content">
-                                    <h4>Rawan Alharbi</h4>
-                                    <p>Ph. D. Candidate</p>
+                                    <h4>{{.Params.director.name}}</h4>
+                                    <p>{{.Params.director.title}}</p>
                                 </div>
                             </div>
                         </div>
@@ -66,7 +64,7 @@
                 <div class="col-md-6  wow fadeInUp" data-wow-duration="1100ms"
                 data-wow-delay="400ms">
                     <div class="cmn__title df">
-                        <h3>PHD Students</h3>
+                        <h3>Ph.D. Students</h3>
                     </div>
                     <div class="phd__students">
                         <div>

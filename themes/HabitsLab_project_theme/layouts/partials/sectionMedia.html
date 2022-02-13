@@ -1,0 +1,34 @@
+<div class="review__area">
+       <div class="container">
+           <div class="review__title  wow fadeInUp" data-wow-duration="1100ms"
+           data-wow-delay="400ms">
+               <div class="row">
+                   <div class="col-md-4 col-sm-3">
+                       <div class="quote">
+                           <img src={{.Params.media.logo | relURL}} alt="">
+                       </div>
+                   </div>
+                   <div class="col-md-8 col-sm-9">
+                       <h2>{{.Params.media.title}}</h2>
+                   </div>
+               </div>
+           </div>
+           <div class="review__wrapper">
+               <div class="row">
+                   <div class="col-lg-7 col-md-7 col-sm-7  wow fadeInUp" data-wow-duration="1100ms"
+                   data-wow-delay="400ms">
+                       <p>{{.Params.media.quote}}</p>
+                       <div class="view__btn">
+                           <a href={{"#missions" | relURL}}>View Our Mission <i class="far fa-long-arrow-right"></i></a>
+                       </div>
+                   </div>
+                   <div class="col-lg-5 col-sm-5  wow fadeInUp" data-wow-duration="1100ms"
+                   data-wow-delay="400ms">
+                       <div class="review_logo">
+                           <img src={{"/img/Image.png" | relURL}} alt="">
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>

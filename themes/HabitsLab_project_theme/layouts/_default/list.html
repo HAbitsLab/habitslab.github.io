@@ -180,44 +180,7 @@
     {{partial "sectionTeam" .}}
 
     <!--------- Review area start --------->
-    <div class="review__area">
-        <div class="container">
-            <div class="review__title  wow fadeInUp" data-wow-duration="1100ms"
-            data-wow-delay="400ms">
-                <div class="row">
-                    <div class="col-md-4 col-sm-3">
-                        <div class="quote">
-                            <img src={{"/img/quote.png" | relURL}} alt="">
-                        </div>
-                    </div>
-                    <div class="col-md-8 col-sm-9">
-                        <h2>What They’re Saying</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="review__wrapper">
-                <div class="row">
-                    <div class="col-lg-7 col-md-7 col-sm-7  wow fadeInUp" data-wow-duration="1100ms"
-                    data-wow-delay="400ms">
-                        <p>It is the humanity within us and the desire to improve quality of life and healthcare costs
-                            that guide our solutions to the persisting health problems of our time through computer
-                            science and behavior science based research in passive sensing data analytics; helping us
-                            advance our ability to understand, detect, predict, and ultimately prevent problematic
-                            health habits. We are the Health Aware Bits (HABits) Lab.</p>
-                        <div class="view__btn">
-                            <a href="">View Our Mission <i class="far fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 col-sm-5  wow fadeInUp" data-wow-duration="1100ms"
-                    data-wow-delay="400ms">
-                        <div class="review_logo">
-                            <img src={{"/img/Image.png" | relURL}} alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    {{partial "sectionMedia" .}}
     <!--------- Review area end --------->
 
     {{partial "sectionFAQ" .}}
@@ -236,11 +199,11 @@
                         <p>We design, build, develop, and analyze. We are HABits Lab. HABits Lab is Affiliated With
                             Northwestern Feinberg School of Medcine and Northwestern McCormick School of Engineering.
                         </p>
-                        <div class="footer__social">
+                        <!-- <div class="footer__social">
                             <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-linkedin-in"></i></a>
                             <a href=""><i class="fab fa-youtube"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -250,24 +213,23 @@
                             <div class="footer__links">
                                 <h4>Quick Links</h4>
                                 <ul>
-                                    <li><a href="">Grants</a></li>
-                                    <li><a href="">Projects</a></li>
-                                    <li><a href="">Publications</a></li>
-                                    <li><a href="">News & Announcements</a></li>
+                                    <li><a href={{"#grants" | relURL}}>Grants</a></li>
+                                    <li><a href={{"#projects" | relURL}}>Projects</a></li>
+                                    <li><a href={{"#research" | relURL}}>Publications</a></li>
+                                    <li><a href={{"#news" | relURL}}>News & Announcements</a></li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-6 ol-sm-6  wow fadeInUp" data-wow-duration="1100ms"
+                        <!-- <div class="col-md-6 ol-sm-6  wow fadeInUp" data-wow-duration="1100ms"
                         data-wow-delay="400ms">
                             <div class="footer__links has-border">
                                 <h4>Additional Resources</h4>
                                 <ul>
-                                    <li><a href="">Our Leadership</a></li>
                                     <li><a href="">Research</a></li>
                                     <li><a href="">Contact Us</a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

@@ -12,13 +12,14 @@ cover:
     }
 director:
     {
-       img: "",
+       img: "/img/pro-1.png",
+       img_team_section: "/img/pro-big.png",
        name: "Nabil Alshurafa",
        title: "Ph.D., Director of HABits Lab",
        university: "Northwestern University",
        linkedIn: "https://www.linkedin.com/",
        twitter: "https://www.linkedin.com/",
-       email: "abc@email.com",
+       email: "mailto:abc@email.com",
     }
 mission1_title: "Understand"
 mission1_points: ["Human Computer Interaction", "Focus Groups/Interviews and Surveys"]
@@ -31,25 +32,12 @@ mission4_points: ["High Level Machine Learning", "Statistical Analysis", "Behavi
 mission5_title: "Prevent"
 mission5_points: ["Behaviorist", "Interventionist", "Medical Expert"]
 
-image_section: {
-       image1: "",
-       image2: "",
-       image3: ""
-}
-
-stats_section: {
-       stats1: "",
-       stats1_description: "",
-       stats2: "",
-       stats2_description: "",
-       stats3: "",
-       stats4_description: "",
-}
-
 # team_section
 team_image: "/img/s-7.png"
 team: {
-    pi: {name: , degree: } ,
+    description: "We’re are a friendly , forward thinking collective, an approachable team with a can-do
+                    attitude. Our curiosity and breadth of experience means we can turn our minds to new
+                    challenges, combining the need for functionality with a desire for aesthetic value.",
     researchers: [
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
@@ -111,7 +99,7 @@ team: {
 media: {
     title: "What They're Saying",
     quote: "It is the humanity within us and the desire to improve quality of life and healthcare costs that guide our solutions to the persisting health problems of our time through computer science and behavior science based research in passive sensing data analytics; helping us advance our ability to understand, detect, predict, and ultimately prevent problematic health habits. We are the Health Aware Bits (HABits) Lab.",
-    logo: ""
+    logo: "/img/quote.png"
 }
 
 #FAQ section
