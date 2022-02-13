@@ -1,0 +1,64 @@
+{{ with .Site.GetPage "/" }}
+<div class="footer__area">
+       <div class="container">
+           <div class="row">
+               <div class="col-md-8 col-lg-5">
+                   <div class="footer__content  wow fadeInUp" data-wow-duration="1100ms"
+                   data-wow-delay="400ms">
+                       <div class="footer__logo">
+                           <a href=""><img src={{"/img/logo-fooer.svg" | relURL}} alt=""></a>
+                       </div>
+                       <p>We design, build, develop, and analyze. We are HABits Lab. HABits Lab is Affiliated With
+                           Northwestern Feinberg School of Medcine and Northwestern McCormick School of Engineering.
+                       </p>
+                       <!-- <div class="footer__social">
+                           <a href=""><i class="fab fa-twitter"></i></a>
+                           <a href=""><i class="fab fa-linkedin-in"></i></a>
+                           <a href=""><i class="fab fa-youtube"></i></a>
+                       </div> -->
+                   </div>
+               </div>
+               <div class="col-lg-7">
+                   <div class="row">
+                       <div class="col-md-6 ol-sm-6  wow fadeInUp" data-wow-duration="1100ms"
+                       data-wow-delay="400ms">
+                           <div class="footer__links">
+                               <h4>Quick Links</h4>
+                               <ul>
+                                   <li><a href={{"#grants" | relURL}}>Grants</a></li>
+                                   <li><a href={{"#projects" | relURL}}>Projects</a></li>
+                                   <li><a href={{"#research" | relURL}}>Publications</a></li>
+                                   <li><a href={{"#news" | relURL}}>News & Announcements</a></li>
+                               </ul>
+                           </div>
+                       </div>
+                       <!-- <div class="col-md-6 ol-sm-6  wow fadeInUp" data-wow-duration="1100ms"
+                       data-wow-delay="400ms">
+                           <div class="footer__links has-border">
+                               <h4>Additional Resources</h4>
+                               <ul>
+                                   <li><a href="">Research</a></li>
+                                   <li><a href="">Contact Us</a></li>
+                               </ul>
+                           </div>
+                       </div> -->
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+    <!--------- Footer Bottom area start --------->
+    <div class="footer__bottom">
+       <div class="container">
+           <div class="d-flex align-items-center justify-content-between">
+               <p>HABits Lab © COPYRIGHT 2016 NORTHWESTERN UNIVERSITY</p>
+               <div class="footer__bottom-menu">
+                   <a href="">Privacy Policy</a>
+                   <a href="">Consumer Information</a>
+                   <a href="">Accessibility</a>
+               </div>
+           </div>
+       </div>
+   </div>
+   <!--------- Footer Bottom area end --------->
+{{end}}
