@@ -21,6 +21,8 @@ director:
        twitter: "https://www.linkedin.com/",
        email: "mailto:abc@email.com",
     }
+
+# Missions section
 mission1_title: "Understand"
 mission1_points: ["Human Computer Interaction", "Focus Groups/Interviews and Surveys"]
 mission2_title: "Sense"
@@ -32,7 +34,7 @@ mission4_points: ["High Level Machine Learning", "Statistical Analysis", "Behavi
 mission5_title: "Prevent"
 mission5_points: ["Behaviorist", "Interventionist", "Medical Expert"]
 
-# team_section
+# Team section
 team_image: "/img/s-7.png"
 team: {
     description: "We’re are a friendly , forward thinking collective, an approachable team with a can-do
@@ -95,14 +97,14 @@ team: {
         ]
 }
 
-#Media section
+# Media section
 media: {
     title: "What They're Saying",
     quote: "It is the humanity within us and the desire to improve quality of life and healthcare costs that guide our solutions to the persisting health problems of our time through computer science and behavior science based research in passive sensing data analytics; helping us advance our ability to understand, detect, predict, and ultimately prevent problematic health habits. We are the Health Aware Bits (HABits) Lab.",
     logo: "/img/quote.png"
 }
 
-#FAQ section
+# FAQ section
 FAQ: [
         {question: "What is HABits lab?", answer: "We design, build and analyze end-to-end mHealth systems, while focusing on
                                         processing its data to help answer health-related questions. We focus on signal
@@ -120,6 +122,9 @@ FAQ: [
         {question: "Put question here", answer: "Put answers here"},
      ]
 
+# Contacts section
+contact_email: "mailto:habitslab@email.com"
+address: "680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611" 
 ---
 
 <!-- lab description -->
