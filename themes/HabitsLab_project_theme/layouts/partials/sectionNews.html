@@ -7,7 +7,7 @@
            <div class="recent__news__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
            {{$number_of_news_shown := .Params.number_of_news_shown}}
            {{ with .Site.GetPage "/news" }}
-               {{range (.Pages.ByDate)}}
+               {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate (first 8 .Pages.ByDate)) }}
                <div class="recent__news__list">
                    <div class="recent__news__date">
                        {{.Date.Format "_2"}} <br>
@@ -25,9 +25,9 @@
                {{ end }}
            {{ end }}
            </div>
-           <!-- <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
+           <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
                data-wow-delay="400ms">
-               <a href="">View all News <i class="far fa-long-arrow-right"></i></a>
-           </div> -->
+               <a href={{"/news" | relURL}}>View all News <i class="far fa-long-arrow-right"></i></a>
+           </div>
        </div>
    </div>

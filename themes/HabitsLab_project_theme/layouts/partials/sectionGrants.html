@@ -18,7 +18,7 @@
                data-wow-delay="400ms">
                {{$number_of_grants_shown := .Params.number_of_grants_shown}}
                {{ with .Site.GetPage "/grants" }}
-                   {{range (first (6) .Pages.ByDate)}}
+                   {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate (first 5 .Pages.ByDate)) }}
                        <div class="grant__item">
                            <div class="grant__item__thumb">
                                <img src={{(.Params.logo_image) | relURL}} alt="">
@@ -31,9 +31,9 @@
                    {{ end }}
                {{ end }}
            </div>
-           <!-- <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
+           <div class="recent__news__btn text-center w-100  wow fadeInUp" data-wow-duration="1100ms"
                data-wow-delay="400ms">
-               <a href="">View all grants <i class="far fa-long-arrow-right"></i></a>
-           </div> -->
+               <a href={{"/grants" | relURL}}>View all grants <i class="far fa-long-arrow-right"></i></a>
+           </div>
        </div>
    </div>
