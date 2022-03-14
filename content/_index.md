@@ -50,7 +50,7 @@ team: {
         ],
     phds: [
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
-        {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
+        {name: "Soroush Shahi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
