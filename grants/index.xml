@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo</title>
-      <link>https://HAbitsLab.github.io/grants/grant-demo/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant-demo/</guid>
-      <description>Demo Demo Demo Demo
-RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer? In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost.</description>
-    </item>
-    
-    <item>
       <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
       <link>https://HAbitsLab.github.io/grants/grant1/</link>
       <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
