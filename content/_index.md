@@ -41,7 +41,11 @@ team: {
                     attitude. Our curiosity and breadth of experience means we can turn our minds to new
                     challenges, combining the need for functionality with a desire for aesthetic value.",
     researchers: [
+
+        {name: "Demo name", degree: "Undergrad", image: "/img/p-2.png"},
+
         {name: "Mahdi Pedram", degree: "Ph.D", image: "/img/p-1.png"},
+
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
