@@ -86,7 +86,7 @@ team: {
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         ],
     collaborators: [
-        {name: "name1", degree: "Postdoc"},
+        {name: "Mahdi Pedram", degree: "Postdoc"},
         {name: "name2", degree: "Postdoc"},
         {name: "name3", degree: "Postdoc"},
         {name: "name4", degree: "Postdoc"},
