@@ -59,7 +59,7 @@ team: {
     research_staff: [
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
-        {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
+        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
