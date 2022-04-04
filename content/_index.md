@@ -57,7 +57,7 @@ team: {
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         ],
     research_staff: [
-        {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
+        {name: "Mahdi Pedram", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
