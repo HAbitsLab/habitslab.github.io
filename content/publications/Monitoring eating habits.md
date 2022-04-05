@@ -12,6 +12,7 @@ github_link: "https://github.com/"
 
 ---
 
+
 ### 1. Introduction
 
 Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
