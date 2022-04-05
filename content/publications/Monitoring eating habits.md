@@ -1,14 +1,12 @@
 ---
-title: "Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras"
-date: 2021-12-03T15:09:31-06:00
+title: "Monitoring eating habits using a piezoelectric sensor-based necklace"
+date: 2015-03-01T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Name1 Name1"}, {"name": "Name2 Name2"}, {"name": "Name3 Name3"}, {"name": "Name4 Name4"}]
+authors: [{"name": "Haik Kalantarian"}, {"name": "Nabil Alshurafa"}, {"name": "Tuan Le"}, {"name": "Majid Sarrafzadeh"}]
 has_github_link: true
 github_link: "https://github.com/"
 
