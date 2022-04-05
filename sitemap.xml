@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</loc>
+    <lastmod>2022-02-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/</loc>
+    <lastmod>2022-02-14T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/news/</loc>
     <lastmod>2022-01-08T15:09:31-06:00</lastmod>
   </url><url>
@@ -29,9 +35,6 @@
     <loc>https://HAbitsLab.github.io/publications/publication1/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication5/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
     <loc>https://HAbitsLab.github.io/publications/publication6/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
@@ -45,9 +48,6 @@
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/projects/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/grants/grant-demo/</loc>
