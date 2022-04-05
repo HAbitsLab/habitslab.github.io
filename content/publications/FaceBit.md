@@ -1,15 +1,15 @@
 ---
-title: "Deep Learning in Human Activity Recognition with Wearable Sensors: A Review on Advances"
-date: 2022-02-14T15:09:31-06:00
+title: "FaceBit: Smart Face Masks Platform"
+date: 2021-12-30T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png"}
-coinvestigators: [{name: "Shibo Zhang", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
-                {name: "Farzad Shahabi", title: "Researcher", description: "desction description description", img: "/img/im-2.png"}]
-authors: [{"name": "Shibo Zhang"}, {"name": "Yaxuan Li"}, {"name": "Shen Zhang"}, {"name": "Farzad Shahabi"}, {"name": "Stephen Xia"}, {"name": "Yu Deng"}, {"name": "Nabil Alshurafa"}]
-has_github_link: true
+coinvestigators: [{name: "Blaine Rothrock", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
+authors: [{"name": "Alexander Curtiss"}, {"name": "Blaine Rothrock"}, {"name": "Abu Bakar"}, {"name": "Nivedita Arora"}, {"name": "Jason Huang"}, {"name": "Zachary Englhardt"}, {"name": "Aaron-Patrick Empedrado"}, {"name": "Chixiang Wang"}, {"name": "Saad Ahmed"}, {"name": "Yang Zhang"}, {"name": "Nabil Alshurafa"}, {"name": "Josiah Hester"}]
+has_github_link: false
 github_link: "https://github.com/"
 
 ---
