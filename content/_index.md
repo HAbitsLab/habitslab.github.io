@@ -44,7 +44,7 @@ team: {
 
         {name: "Demo name", degree: "Undergrad", image: "/img/p-2.png"},
 
-        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.jpg"},
+        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png"},
 
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
