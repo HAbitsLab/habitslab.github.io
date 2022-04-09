@@ -1,13 +1,14 @@
 ---
-title: "I can't be myself: effects of wearable cameras on the capture of authentic behavior in the wild"
-date: 2018-09-18T15:09:31-06:00
+title: "A dense pressure sensitive bedsheet design for unobtrusive sleep posture monitoring"
+date: 2013-03-18T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png"}
-coinvestigators: []
-authors: [{"name": "Rawan Alharbi"}, {"name": "Tammy Stump"}, {"name": "Nilofar Vafaie"}, {"name": "Angela Pfammatter"}, {"name": "Bonnie Spring"}, {"name": "Nabil Alshurafa"}]
+coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
+authors: [{"name": "Jason J Liu"}, {"name": "Wenyao Xu"}, {"name": "Ming-Chun Huang"}, {"name": "Nabil Alshurafa"},{"name": "Majid Sarrafzadeh"}, {"name": "Nitin Raut"}, {"name": "Behrooz Yadegar"}]
 has_github_link: false
 github_link: "https://github.com/"
 

@@ -1,13 +1,14 @@
 ---
-title: "I can't be myself: effects of wearable cameras on the capture of authentic behavior in the wild"
-date: 2018-09-18T15:09:31-06:00
+title: "A smartwatch-based medication adherence system"
+date: 2015-06-09T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png"}
-coinvestigators: []
-authors: [{"name": "Rawan Alharbi"}, {"name": "Tammy Stump"}, {"name": "Nilofar Vafaie"}, {"name": "Angela Pfammatter"}, {"name": "Bonnie Spring"}, {"name": "Nabil Alshurafa"}]
+coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
+authors: [{"name": "Haik Kalantarian"}, {"name": "Ebrahim Nemati"}, {"name": "Nabil Alshurafa"},  {"name": "Majid Sarrafzadeh"}, {"name": "Jo-Ann Eastwood"}]
 has_github_link: false
 github_link: "https://github.com/"
 

@@ -1,13 +1,14 @@
 ---
-title: "I can't be myself: effects of wearable cameras on the capture of authentic behavior in the wild"
-date: 2018-09-18T15:09:31-06:00
+title: "Recognition of nutrition intake using time-frequency decomposition in a wearable necklace using a piezoelectric sensor"
+date: 2015-02-11T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png"}
-coinvestigators: []
-authors: [{"name": "Rawan Alharbi"}, {"name": "Tammy Stump"}, {"name": "Nilofar Vafaie"}, {"name": "Angela Pfammatter"}, {"name": "Bonnie Spring"}, {"name": "Nabil Alshurafa"}]
+coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
+authors: [{"name": "Nabil Alshurafa"}, {"name": "Haik Kalantarian"}, {"name": "Mohammad Pourhomayoun"}, {"name": "Jason J Liu"},{"name": "Shruti Sarin"},{"name": "Behnam Shahbazi"},  {"name": "Majid Sarrafzadeh"}]
 has_github_link: false
 github_link: "https://github.com/"
 
