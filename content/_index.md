@@ -52,7 +52,7 @@ team: {
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Soroush Shahi", degree: "Ph.D Student", image: "/img/p-1.png"},
         {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/p-1.png"},
-        {name: "Boyang Wei", degree: "Ph.D Candidate", image: "/img/p-1.png"},
+        {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
         ],
@@ -110,16 +110,61 @@ FAQ: [
                                         processing its data to help answer health-related questions. We focus on signal
                                         processing and machine learning techniques to process time-series data generated
                                         from passive sensors. To advance existing sensing techniques, a part of our lab
-                                        focuses on the design of embedded systems."},
-        {question: "What is your association with Northwestern University?", answer: "<strong>This is the second item's accordion body.</strong> It is hidden by
-                                        default, until the collapse plugin adds the appropriate classes that we use to
-                                        style each element. These classes control the overall appearance, as well as the
-                                        showing and hiding via CSS transitions. You can modify any of this with custom
-                                        CSS or overriding our default variables. It's also worth noting that just about
-                                        any HTML can go within the <code>.accordion-body</code>, though the transition
-                                        does limit overflow."},
-        {question: "Put question here", answer: "Put answers here"},
-        {question: "Put question here", answer: "Put answers here"},
+                                        focuses on the design of embedded systems.
+        "},
+        {question: "Who are we?", answer: "People in HABits Lab have diverse backgrounds including Computer Science, Statistics, 
+                                           Electrical Engineering, etc. We conduct interdisciplinary researches in HCI, design, AI, 
+                                           machine learning, behavior science and computational medicine.
+        "},
+        {question: "Perspective Student", answer: "The ideal students are those who thrive at the intersections of disciplines, self-motivated, passionate about researches. Qualifications:
+                                                    <ol>
+                                                        <li>Passion for solving health problems and working with passive sensors. You’re always thinking about how to use passive sensing to mitigate existing health and behavioral problems.</li>
+                                                        <li>Passion for programming. This drive keeps your gears turning late at night, and you find yourself wanting to stop talking with friends to come back and work in the lab. You keep tackling that bug or memory leak in your code to make sure you finish your project on time.</li>
+                                                        <li>Strong work-ethic that gets things done. You take responsibility for your project/research.</li>
+                                                        <li>Respectful of others for our time together. You always come to check-in meetings prepared with questions, and having documented everything you’ve worked on.</li>
+                                                        <li>Habit of reading and writing continually. As a researcher you love reading new papers, and recording and sharing your own findings. You’re always staying up to speed on the latest in passive sensing research.</li>
+                                                    </ol>
+        "},
+        {question: "Software Engineer", answer: "We are looking for a passionate Software Engineer to design, develop and install software solutions. 
+                                                The role will be to facilitate software design and deployment for a research lab bridging the fields of computer science and healthcare. Qualifications:
+                                                <ol>
+                                                    <li>Bachelor’s Degree in Computer Science or related field.</li>
+                                                    <li>Proficiency in, at least, one modern programming language such as Java, C++, or C# including object-oriented design.</li>
+                                                    <li>Computer Science fundamentals in object-oriented design, data structures and algorithm design.</li>
+                                                    <li>Experience in managing large datasets on server, cloud and hard drive .</li>
+                                                    <li>Experience in designing, developing and deploying cloud technology solution.</li>
+                                                    <li>Experience in software development and full product life-cycles.</li>
+                                                    <li>Strong sense of ownership, urgency, and drive.</li>
+                                                </ol>
+        "},
+        {question: "Hardware Engineer", answer: "We are looking for a skilled Hardware Engineer to facilitate lab device hardware design and implementation for a research lab bridging the fields of computer science and healthcare. Qualifications:
+                                                <ol>
+                                                    <li>Experience working with and debugging common communication & debug protocols (JTAG, SWD, SPI, UART, I2C, etc.).</li>
+                                                    <li>Experience working with BLE interface is a must.</li>
+                                                    <li>Proficiency in software programing language: C/C++, Python.</li>
+                                                    <li>Experience with usage of laboratory equipment such as oscilloscopes, power supplies, logic analyser.</li>
+                                                    <li>Experience with schematic capture, PCB layout, and analysis techniques for multi-layer board designs.</li>
+                                                    <li>Experience with usage of laboratory equipment such as oscilloscopes, power supplies, logic analyser.</li>
+                                                    <li>Experience with PCB/A design embedded systems.</li>
+                                                    <li>Perform electronic circuit design, debugging, and validation for low power, battery-based, 8/16/32-bit embedded microprocessor systems with long lifespan and high-reliability requirements.</li>
+                                                    <li>Formulate specifications for parts, processes, and tests as needed for product design, validation, and manufacture.</li>
+                                                    <li>Familiarity with schematic capture, PCBA layout software, and circuit simulation tools.</li>
+                                                    <li>Proficient in SMT Soldering.</li>
+                                                    <li>Maintain documentation of designs, creation of prototypes, testing protocols.</li>
+                                                </ol>
+        "},
+        {question: "Research Project Manager", answer: "We are looking for a research project manager that help manage all activities associated with 
+                                                        biomedical &/or social-behavioral research studies considered very complex by the inclusion of 
+                                                        several of the following: multiple investigators, teams, sites, sub-contracts, participants, longitudinal 
+                                                        assessments/ interventions; &/or multi-million dollar budgets. Ensures completion of contract requirements 
+                                                        & client specifications. Qualifications:
+                                                        <ol>
+                                                            <li>Successful completion of a full 4-year course of study in an accredited college or university leading to a bachelor's or higher degree in a major such as social or health science or related; OR appropriate combination of education and experience and 5 years' research study or other relevant experience required.</li>
+                                                            <li>Successful completion of a full course of study in an accredited college or university leading to a master's or higher degree in a major such as social or health science or related; OR appropriate combination of education and experience and 3 years' research study or other relevant experience.</li>
+                                                            <li>Supervisory or project management experience required.</li>
+                                                            <li>Complete NU's IRB CITI training before interacting with any participants & must re-certify every 3 years.</li>
+                                                        </ol>
+        "}
      ]
 
 # Contacts section
