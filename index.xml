@@ -116,15 +116,6 @@
     </item>
     
     <item>
-      <title>Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/projects/project1/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/projects/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>VibroScale: turning your smartphone into a weighing scale</title>
       <link>https://HAbitsLab.github.io/publications/vibroscale/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
@@ -261,6 +252,15 @@ demo demo demo</description>
     </item>
     
     <item>
+      <title>NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions</title>
+      <link>https://HAbitsLab.github.io/projects/project3/</link>
+      <pubDate>Sat, 12 Sep 2020 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/projects/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SyncWISE: Window induced shift estimation for synchronization of video and Accelerometry from wearable sensors</title>
       <link>https://HAbitsLab.github.io/publications/syncwise/</link>
       <pubDate>Fri, 04 Sep 2020 15:09:31 -0600</pubDate>
@@ -270,12 +270,30 @@ demo demo demo</description>
     </item>
     
     <item>
+      <title>SyncWISE: Window Induced Shift Estimation for Synchronization of Video and Accelerometry from Wearable Sensors</title>
+      <link>https://HAbitsLab.github.io/projects/project1/</link>
+      <pubDate>Thu, 03 Sep 2020 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/projects/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Necksense: A multi-sensor necklace for detecting eating activities in free-living conditions</title>
       <link>https://HAbitsLab.github.io/publications/necksense/</link>
       <pubDate>Mon, 15 Jun 2020 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/necksense/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+    <item>
+      <title>VibroScale: turning your smartphone into a weighing scale</title>
+      <link>https://HAbitsLab.github.io/projects/project2/</link>
+      <pubDate>Mon, 15 Jun 2020 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/projects/project2/</guid>
+      <description></description>
     </item>
     
     <item>
