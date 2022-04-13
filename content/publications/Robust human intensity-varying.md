@@ -8,7 +8,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        img: "/img/pro-big.png"}
 coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Nabil Alshurafa"}, {"name": "Wenyao Xu"},{"name": "Jason J Liu,"}, {"name": "Ming-Chun Huang"}{"name": "Bobak Jack Mortazavi"} ,{"name": "Majid Sarrafzadeh"}, {"name": "Christian Roberts"}]
+authors: [{"name": "Nabil Alshurafa"}, {"name": "Wenyao Xu"},{"name": "Jason J Liu,"}, {"name": "Ming-Chun Huang"}, {"name": "Bobak Jack Mortazavi"} ,{"name": "Majid Sarrafzadeh"}, {"name": "Christian Roberts"}]
 has_github_link: false
 github_link: "https://github.com/"
 
