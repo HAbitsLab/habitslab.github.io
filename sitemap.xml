@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</loc>
-    <lastmod>2022-02-14T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/actisight/</loc>
+    <lastmod>2022-03-21T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/publications/</loc>
+    <lastmod>2022-03-21T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</loc>
     <lastmod>2022-02-14T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/news/</loc>
@@ -176,11 +179,35 @@
     <loc>https://HAbitsLab.github.io/publications/wearable-food-intake-monitoring-technologies/</loc>
     <lastmod>2017-03-01T15:09:31-06:00</lastmod>
   </url><url>
+    <loc>https://HAbitsLab.github.io/publications/a-robust-remote-health-monitoring/</loc>
+    <lastmod>2016-12-15T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/publications/monitoring-eating-habits/</loc>
     <lastmod>2015-03-01T15:09:31-06:00</lastmod>
   </url><url>
+    <loc>https://HAbitsLab.github.io/publications/a-framework-for-predicting-adherence/</loc>
+    <lastmod>2014-10-29T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/non-invasive-monitoring-of-eating/</loc>
+    <lastmod>2014-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/spectrogram-based-audio/</loc>
+    <lastmod>2014-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/breathsens/</loc>
+    <lastmod>2014-07-31T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/determining-the-single-best-axis-for-exercise/</loc>
+    <lastmod>2014-06-16T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/publications/designing-a-robust-activity-recognition-framework/</loc>
     <lastmod>2013-10-25T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/robust-human-intensity-varying/</loc>
+    <lastmod>2013-05-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/opportunistic-hierarchical-classification/</loc>
+    <lastmod>2012-06-20T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/categories/</loc>
   </url><url>
