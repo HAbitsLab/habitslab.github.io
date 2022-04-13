@@ -61,7 +61,7 @@ team: {
         {name: "Boonie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
         ],
     masters_undergrads: [
-        {name: "Helen Zhu", degree: "Undergrads", image: "/img/p-1.png"},
+        {name: "Kana Huang", degree: "Undergrads", image: "/img/Kana.jpg"},
         ],
     collaborators: [
         {name: "Tommy Cohen", degree: "Ph.D"},
