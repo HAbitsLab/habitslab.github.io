@@ -8,7 +8,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        img: "/img/pro-big.png"}
 coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Mohamad Pourhomayun"},{"name": "Nabil Alshurafa"}, {"name": "Foad Dabiri"}, {"name": "Kartik Yadav"},{"name": "Costas Sideris"}, {"name": "Li Tseng"}, {"name": "Hassan Ghasemzadeh"}, {"name": "Adeline Nyamathi"}, {"name": "Majid Sarrafzadeh"}]
+authors: [{"name": "Mohamad Pourhomayun"}, {"name": "Nabil Alshurafa"}, {"name": "Foad Dabiri"}, {"name": "Kartik Yadav"},{"name": "Costas Sideris"}, {"name": "Li Tseng"}, {"name": "Hassan Ghasemzadeh"}, {"name": "Adeline Nyamathi"}, {"name": "Majid Sarrafzadeh"}]
 has_github_link: false
 github_link: "https://github.com/"
 
