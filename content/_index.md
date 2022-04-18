@@ -42,7 +42,6 @@ team: {
                     challenges, combining the need for functionality with a desire for aesthetic value.",
     researchers: [
 
-        {name: "Tammy Stump", degree: "Ph.D., Researcher", image: "/img/p-2.png"},
         {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png"},
         {name: "Yang Gao", degree: "Ph.D., Post-doc", image: "/img/yang.png"},
         {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png"},
@@ -64,12 +63,13 @@ team: {
         {name: "Kana Huang", degree: "Undergrads", image: "/img/Kana.jpg"},
         ],
     collaborators: [
-        {name: "Tommy Cohen", degree: "Ph.D"},
-        {name: "Saki Amagai", degree: "Ph.D"},
-        {name: "Jayalakshmi Jain", degree: "Ph.D"},  
-        {name: "Amit Adate", degree: "Ph.D"},
-        {name: "Lingfeng Li", degree: "Ph.D"},   
-        {name: "John Mamish", degree: "Ph.D"},                    
+	{name: "Tammy Stump", degree: "Ph.D."},
+        {name: "Tommy Cohen", degree: "Ph.D Student"},
+        {name: "Saki Amagai", degree: "Ph.D Student"},
+        {name: "Jayalakshmi Jain", degree: "Ph.D Student"},  
+        {name: "Amit Adate", degree: "Ph.D Student"},
+        {name: "Lingfeng Li", degree: "Ph.D Student"},   
+        {name: "John Mamish", degree: "Ph.D Student"},                    
          ],
     former_students: [
         {name: "Shibo Zhang", degree: "Ph.D"},
