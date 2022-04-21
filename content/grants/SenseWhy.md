@@ -5,7 +5,7 @@ draft: false
 logo_image: "/img/nh.png"
 start_year: 2018
 end_year: 2023
-funding_amount: "$850.000"
+funding_amount: "$850,000"
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
