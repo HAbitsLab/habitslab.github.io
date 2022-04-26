@@ -57,7 +57,7 @@ team: {
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png"},
         {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png"},
         {name: "Fedor Adarichev", degree: "Hardware Engineer", image: "/img/fedor.png"},
-        {name: "Boonie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
+        {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
         ],
     masters_undergrads: [
         {name: "Kana Huang", degree: "Undergrads", image: "/img/Kana.jpg"},
