@@ -60,7 +60,7 @@ team: {
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
         ],
     masters_undergrads: [
-        {name: "Kana Huang", degree: "Undergrads", image: "/img/Kana.jpg"},
+        {name: "Kana Huang", degree: "Masters", image: "/img/Kana.jpg"},
         ],
     collaborators: [
 	{name: "Tammy Stump", degree: "Ph.D."},
