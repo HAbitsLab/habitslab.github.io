@@ -60,7 +60,7 @@ team: {
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
         ],
     masters_undergrads: [
-        {name: "Kana Huang", degree: "Undergrads", image: "/img/Kana.jpg"},
+        {name: "Kana Huang", degree: "Masters", image: "/img/Kana.jpg"},
         ],
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art"},
