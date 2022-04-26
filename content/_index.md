@@ -6,7 +6,7 @@ cover:
     {
         title: "We Are HABits <br> Lab",
         image: "/img/s-1.png",
-        video_link: "https://www.youtube.com/watch?v=VTZJODjTnD4&ab_channel=TheTonightShowStarringJimmyFallon",
+        video_link: "https://www.youtube.com/watch?v=SMtumZNy4-Y",
         subtitle_left: "Where Preventive Medicine <br> Meets Computer Science",
         subtitle_right: "we design, build and analyze end-to-end mhealth <br> systems, while focusing on processing its data to help <br> answer health-related questions.",
     }
