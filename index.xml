@@ -26,69 +26,6 @@
     </item>
     
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news6/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news7/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news8/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news4/</link>
-      <pubDate>Fri, 07 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news5/</link>
-      <pubDate>Thu, 06 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news3/</link>
-      <pubDate>Wed, 05 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dr. Alshurafa receives NSF EAGER Award</title>
-      <link>https://HAbitsLab.github.io/news/news2/</link>
-      <pubDate>Mon, 03 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FaceBit: Smart Face Masks Platform</title>
       <link>https://HAbitsLab.github.io/publications/facebit/</link>
       <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
@@ -113,15 +50,6 @@
       
       <guid>https://HAbitsLab.github.io/publications/heatsight/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
-      <link>https://HAbitsLab.github.io/news/news1/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news1/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -221,6 +149,33 @@
       
       <guid>https://HAbitsLab.github.io/publications/towards-battery-free-body-sensor-networks/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+    <item>
+      <title>Ubicomp Best Poster Award (Won By Landslide) for our paper VibroScale</title>
+      <link>https://HAbitsLab.github.io/news/news4/</link>
+      <pubDate>Wed, 07 Oct 2020 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Alshurafa receives NIH R21 Award from NIBIB</title>
+      <link>https://HAbitsLab.github.io/news/news5/</link>
+      <pubDate>Tue, 06 Oct 2020 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubicomp Best Presentation Award (Runner-Up) for our paper NeckSense</title>
+      <link>https://HAbitsLab.github.io/news/news3/</link>
+      <pubDate>Mon, 05 Oct 2020 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news3/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -395,6 +350,24 @@
     </item>
     
     <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
+      <link>https://HAbitsLab.github.io/news/news8/</link>
+      <pubDate>Sun, 08 Sep 2019 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
+      <link>https://HAbitsLab.github.io/news/news1/</link>
+      <pubDate>Tue, 03 Sep 2019 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models</title>
       <link>https://HAbitsLab.github.io/grants/early-stage-interdisciplinary-collaboration/</link>
       <pubDate>Wed, 05 Jun 2019 15:09:31 -0600</pubDate>
@@ -402,6 +375,15 @@
       <guid>https://HAbitsLab.github.io/grants/early-stage-interdisciplinary-collaboration/</guid>
       <description>Demo demo demo demo
 demo demo demo</description>
+    </item>
+    
+    <item>
+      <title>Dr. Alshurafa receives NSF EAGER Award</title>
+      <link>https://HAbitsLab.github.io/news/news2/</link>
+      <pubDate>Mon, 03 Jun 2019 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -468,12 +450,30 @@ demo demo demo</description>
     </item>
     
     <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2018</title>
+      <link>https://HAbitsLab.github.io/news/news6/</link>
+      <pubDate>Sat, 08 Sep 2018 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daily Minutes of Unprotected Sun Exposure (MUSE) inventory: measure description and comparisons to UVR sensor and sun protection survey data</title>
       <link>https://HAbitsLab.github.io/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</link>
       <pubDate>Sat, 01 Sep 2018 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2018</title>
+      <link>https://HAbitsLab.github.io/news/news7/</link>
+      <pubDate>Sun, 08 Jul 2018 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/news7/</guid>
+      <description></description>
     </item>
     
     <item>
