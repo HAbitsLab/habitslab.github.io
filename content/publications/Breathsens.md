@@ -1,6 +1,6 @@
 ---
-title: "Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras"
-date: 2021-12-03T15:09:31-06:00
+title: "Breathsens: A continuous on-bed respiratory monitoring system with torso localization using an unobtrusive pressure sensing array"
+date: 2014-07-31T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
@@ -8,7 +8,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        img: "/img/pro-big.png"}
 coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Mahdi Pedram"}, {"name": "Name2 Name2"}, {"name": "Name3 Name3"}, {"name": "Name4 Name4"}]
+authors: [{"name": "Jason J Liun"}, {"name": "Ming-Chun Huang"},{"name": "Wenyao Xu"}, {"name": "Xiaoyi Zhang"}, {"name": "Luke Stevens"},{"name": "Nabil Alshurafa"}, {"name": "Majid Sarrafzadeh"}]
 has_github_link: false
 github_link: "https://github.com/"
 

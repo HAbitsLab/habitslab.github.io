@@ -5,10 +5,10 @@
                    <div class="col-md-6 col-lg-7">
                        <h3>Grants</h3>
                    </div>
-                   <div class="col-md-6 col-lg-5">
+                   <!-- <div class="col-md-6 col-lg-5">
                        <p>Our work is the bridge to various insightful
-                           digital experiences. Check our work below for featured.</p>
-                   </div>
+                           digital experiences. Check our Fafa.</p>
+                   </div> -->
                </div>
            </div>
            <div class="sh  wow fadeInLeft" data-wow-duration="1100ms" data-wow-delay="400ms">
@@ -18,7 +18,7 @@
                data-wow-delay="400ms">
                {{$number_of_grants_shown := .Params.number_of_grants_shown}}
                {{ with .Site.GetPage "/grants" }}
-                   {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate (first 5 .Pages.ByDate)) }}
+                   {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate (first 5 .Pages.ByDate.Reverse)) }}
                        <div class="grant__item">
                            <div class="grant__item__thumb">
                                <img src={{(.Params.logo_image) | relURL}} alt="">

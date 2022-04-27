@@ -1,6 +1,6 @@
 ---
-title: "Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras"
-date: 2021-12-03T15:09:31-06:00
+title: "Micro-stress EMA: A passive sensing framework for detecting in-the-wild stress in pregnant mothers"
+date: 2019-09-09T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
@@ -8,7 +8,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        img: "/img/pro-big.png"}
 coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Mahdi Pedram"}, {"name": "Name2 Name2"}, {"name": "Name3 Name3"}, {"name": "Name4 Name4"}]
+authors: [{"name": "Zachary D King"}, {"name": "Judith Moskowitz"}, {"name": "Begum Egilmez"}, {"name": "Shibo Zhang"}, {"name": "Lida Zhang"}, {"name": "Michael Bass"}, {"name": "John Rogers"}, {"name": "Roozbeh Ghaffari"}, {"name": "Laurie Wakschlag"}, {"name": "Nabil Alshurafa"}]
 has_github_link: false
 github_link: "https://github.com/"
 

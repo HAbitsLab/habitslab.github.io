@@ -1,6 +1,6 @@
 ---
-title: "Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras"
-date: 2021-12-03T15:09:31-06:00
+title: "Necksense: A multi-sensor necklace for detecting eating activities in free-living conditions"
+date: 2020-06-15T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
@@ -8,7 +8,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        img: "/img/pro-big.png"}
 coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Mahdi Pedram"}, {"name": "Name2 Name2"}, {"name": "Name3 Name3"}, {"name": "Name4 Name4"}]
+authors: [{"name": "Shibo Zhang"}, {"name": "Yuqi Zhao"}, {"name": "Dzung Tri Nguyen"}, {"name": "Runsheng Xu"}, {"name": "Sougata Sen"}, {"name": "Josiah Hester"}, {"name": "Nabil Alshurafa"}]
 has_github_link: false
 github_link: "https://github.com/"
 

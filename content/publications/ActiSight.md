@@ -1,15 +1,14 @@
 ---
-title: "Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras"
-date: 2021-12-03T15:09:31-06:00
+title: "ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable"
+date: 2022-03-21T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Mahdi Pedram"}, {"name": "Name2 Name2"}, {"name": "Name3 Name3"}, {"name": "Name4 Name4"}]
-has_github_link: false
+coinvestigators: []
+authors: [{"name": "Rawan Alharbi"}, {"name": "Sougata Sen"}, {"name": "Ada Ng"}, {"name": "Nabil Alshurafa"}, {"name": "Josiah Hester"}]
+has_github_link: true
 github_link: "https://github.com/"
 
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras"
-date: 2021-12-03T15:09:31-06:00
+title: "WristSense 2020: 6th Workshop on Sensing Systems and Applications using Wrist Worn Smart Devices-Welcome and Committees"
+date: 2020-03-01T15:09:31-06:00
 draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
@@ -8,8 +8,8 @@ primary_investigator: {name: "Nabil Alshurafa",
                        img: "/img/pro-big.png"}
 coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Name1 Name1"}, {"name": "Name2 Name2"}, {"name": "Name3 Name3"}, {"name": "Name4 Name4"}]
-has_github_link: true
+authors: [{"name": "Nabil Alshurafa"}, {"name": "Archan Misra"}, {"name": "Abhishek Mukherji"}, {"name": "Sougata Sen"}]
+has_github_link: false
 github_link: "https://github.com/"
 
 ---
