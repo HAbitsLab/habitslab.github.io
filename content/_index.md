@@ -52,6 +52,7 @@ team: {
         {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png"},
         {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png"},
         {name: "Farzard Shahabi", degree: "Ph.D Student", image: "/img/im-2.png"},
+	{name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg"},
         ],
     research_staff: [
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png"},
