@@ -18,7 +18,7 @@ director:
        title: "Ph.D., Director of HABits Lab",
        university: "Northwestern University",
        linkedIn: "https://www.linkedin.com/",
-       twitter: "https://www.linkedin.com/",
+       twitter: "https://twitter.com/habitslab",
        email: "mailto:abc@email.com",
     }
 
