@@ -2,11 +2,11 @@
 title: "FaceBit: Smart Face Masks Platform"
 date: 2021-12-30T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+primary_investigator: {name: "Nabil Alshurafa",
+                       title: "Ph.D., Director of HABits Lab",
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
                        img: "/img/pro-big.png"}
-coinvestigators: [{name: "Blaine Rothrock", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+coinvestigators: [{name: "Blaine Rothrock", title: "Researcher", description: "description description description", img: "/img/im-8.png"},
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
 authors: [{"name": "Alexander Curtiss"}, {"name": "Blaine Rothrock"}, {"name": "Abu Bakar"}, {"name": "Nivedita Arora"}, {"name": "Jason Huang"}, {"name": "Zachary Englhardt"}, {"name": "Aaron-Patrick Empedrado"}, {"name": "Chixiang Wang"}, {"name": "Saad Ahmed"}, {"name": "Yang Zhang"}, {"name": "Nabil Alshurafa"}, {"name": "Josiah Hester"}]
 has_github_link: false
@@ -14,22 +14,6 @@ github_link: "https://github.com/"
 
 ---
 
-### 1. Introduction
+### 1. Abstract
 
-Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
-
-Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-![Example image](/img/ht.png)
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-
-
-
+The COVID-19 pandemic has dramatically increased the use of face masks across the world. Aside from physical distancing, they are among the most effective protection for healthcare workers and the general population. Face masks are passive devices, however, and cannot alert the user in case of improper fit or mask degradation. Additionally, face masks are optimally positioned to give unique insight into some personal health metrics. Recognizing this limitation and opportunity, we present FaceBit: an open-source research platform for smart face mask applications. FaceBit's design was informed by needfinding studies with a cohort of health professionals. Small and easily secured into any face mask, FaceBit is accompanied by a mobile application that provides a user interface and facilitates research. It monitors heart rate without skin contact via ballistocardiography, respiration rate via temperature changes, and mask-fit and wear time from pressure signals, all on-device with an energy-efficient runtime system. FaceBit can harvest energy from breathing, motion, or sunlight to supplement its tiny primary cell battery that alone delivers a battery lifetime of 11 days or more. FaceBit empowers the mobile computing community to jumpstart research in smart face mask sensing and inference, and provides a sustainable, convenient form factor for health management, applicable to COVID-19 frontline workers and beyond.
