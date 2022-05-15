@@ -2,11 +2,11 @@
 title: "To mask or not to mask? balancing privacy with visual confirmation utility in activity-oriented wearable cameras"
 date: 2019-09-09T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+primary_investigator: {name: "Nabil Alshurafa",
+                       title: "Ph.D., Director of HABits Lab",
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
                        img: "/img/pro-big.png"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"},
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
 authors: [{"name": "Rawan Alharbi"}, {"name": "Mariam Tolba"}, {"name": "Lucia C Petito"}, {"name": "Josiah Hester"}, {"name": "Nabil Alshurafa"}]
 has_github_link: false
@@ -14,22 +14,6 @@ github_link: "https://github.com/"
 
 ---
 
-### 1. Introduction
+### Abstract
 
-Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
-
-Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-![Example image](/img/ht.png)
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-
-
-
+Activity-oriented cameras are increasingly being used to provide visual confirmation of specific hand-related activities in real-world settings. However, recent studies have shown that bystander privacy concerns limit participant willingness to wear a camera. Researchers have investigated different image obfuscation methods as an approach to enhance bystander privacy; however, these methods may have varying effects on the visual confirmation utility of the image, which we define as the ability of a human viewer to interpret the activity of the wearer in the image. Visual confirmation utility is needed to annotate and validate hand-related activities for several behavioral-based applications, particularly in cases where a human in the loop method is needed to label (e.g., annotating gestures that cannot be automatically detected yet). We propose a new type of obfuscation, activity-oriented partial obfuscation, as a methodological contribution to researchers interested in obtaining visual confirmation of hand-related activities in the wild. We tested the effects of this approach by collecting ten diverse and realistic video scenarios that involved the wearer performing hand-related activities while bystanders performed activities that could be of concern if recorded. Then we conducted an online experiment with 367 participants to evaluate the effect of varying degrees of obfuscation on bystander privacy and visual confirmation utility. Our results show that activity-oriented partial obfuscation (1) maintains visual confirmation of the wearer's hand-related activity, especially when an object is present in the hand, and even when extreme filters are applied, while (2) significantly reducing bystander concerns and enhancing bystander privacy. Informed by our analysis, we further discuss the impact of the filter method used in activity-oriented partial obfuscation on bystander privacy and concerns.

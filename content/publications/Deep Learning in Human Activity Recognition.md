@@ -2,11 +2,11 @@
 title: "Deep Learning in Human Activity Recognition with Wearable Sensors: A Review on Advances"
 date: 2022-02-14T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+primary_investigator: {name: "Nabil Alshurafa",
+                       title: "Ph.D., Director of HABits Lab",
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
                        img: "/img/pro-big.png"}
-coinvestigators: [{name: "Shibo Zhang", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+coinvestigators: [{name: "Shibo Zhang", title: "Researcher", description: "description description description", img: "/img/im-8.png"},
                 {name: "Farzad Shahabi", title: "Researcher", description: "desction description description", img: "/img/im-2.png"}]
 authors: [{"name": "Shibo Zhang"}, {"name": "Yaxuan Li"}, {"name": "Shen Zhang"}, {"name": "Farzad Shahabi"}, {"name": "Stephen Xia"}, {"name": "Yu Deng"}, {"name": "Nabil Alshurafa"}]
 has_github_link: true
@@ -14,22 +14,6 @@ github_link: "https://github.com/"
 
 ---
 
-### 1. Introduction
+### Abstract
 
-Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
-
-Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-![Example image](/img/ht.png)
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-
-
-
+Mobile and wearable devices have enabled numerous applications, including activity tracking, wellness monitoring, and human–computer interaction, that measure and improve our daily lives. Many of these applications are made possible by leveraging the rich collection of low-power sensors found in many mobile and wearable devices to perform human activity recognition (HAR). Recently, deep learning has greatly pushed the boundaries of HAR on mobile and wearable devices. This paper systematically categorizes and summarizes existing work that introduces deep learning methods for wearables-based HAR and provides a comprehensive analysis of the current advancements, developing trends, and major challenges. We also present cutting-edge frontiers and future directions for deep learning-based HAR.
