@@ -2,11 +2,11 @@
 title: "VibroScale: turning your smartphone into a weighing scale"
 date: 2021-12-03T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+primary_investigator: {name: "Nabil Alshurafa",
+                       title: "Ph.D., Director of HABits Lab",
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
                        img: "/img/pro-big.png"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
+coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"},
                 {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
 authors: [{"name": "Shibo Zhang"}, {"name": "Qiuyang Xu"}, {"name": "Sougata Sen"}, {"name": "NNabil Alshurafa"}]
 has_github_link: true
@@ -14,22 +14,6 @@ github_link: "https://github.com/"
 
 ---
 
-### 1. Introduction
+### 1. Abstract
 
-Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
-
-Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-![Example image](/img/ht.png)
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-
-
-
+Smartphones, with their ubiquity and plethora of embedded sensors enable on-the-go measurement. Here, we describe one novel measurement potential, weight measurement, by turning an everyday smartphone into a weighing scale. We describe VibroScale, our vibration-based approach to measuring the weight of objects that are small in size. Being able to objectively measure the weight of objects in free-living settings, without the burden of carrying a scale, has several possible uses, particularly in weighing small food items. We designed a smartphone app and regression algorithm, which we termed VibroScale, that estimates the relative induced intensity of an object placed on the smartphone. We tested our proposed method using more than 50 fruits and other everyday objects of different sizes and weights. Our smartphone-based method can measure the weight of fruit without relying on an actual scale. Overall, we observed that VibroScale can measure one type of object with a mean absolute error of 12.4 grams and a mean absolute percentage error of 7.7%. We believe that in future this approach can be generalized to estimate calories and measure the weight of various types of objects.
