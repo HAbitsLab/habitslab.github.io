@@ -13,7 +13,7 @@
       <pubDate>Mon, 21 Mar 2022 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/actisight/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>Wearable cameras provide an informative view of wearer activities, context, and interactions. Video obtained from wearable cameras is useful for life-logging, human activity recognition, visual confirmation, and other tasks widely utilized in mobile computing today. Extracting foreground information related to the wearer and separating irrelevant background pixels is the fundamental operation underlying these tasks. However, current wearer foreground extraction methods that depend on image data alone are slow, energy-inefficient, and even inaccurate in some cases, making many tasks–like activity recognition–challenging to implement in the absence of significant computational resources.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 14 Feb 2022 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>Abstract Mobile and wearable devices have enabled numerous applications, including activity tracking, wellness monitoring, and human–computer interaction, that measure and improve our daily lives. Many of these applications are made possible by leveraging the rich collection of low-power sensors found in many mobile and wearable devices to perform human activity recognition (HAR). Recently, deep learning has greatly pushed the boundaries of HAR on mobile and wearable devices. This paper systematically categorizes and summarizes existing work that introduces deep learning methods for wearables-based HAR and provides a comprehensive analysis of the current advancements, developing trends, and major challenges.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/facebit/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>1. Abstract The COVID-19 pandemic has dramatically increased the use of face masks across the world. Aside from physical distancing, they are among the most effective protection for healthcare workers and the general population. Face masks are passive devices, however, and cannot alert the user in case of improper fit or mask degradation. Additionally, face masks are optimally positioned to give unique insight into some personal health metrics. Recognizing this limitation and opportunity, we present FaceBit: an open-source research platform for smart face mask applications.</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/heatsight/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>Abstract Thermal information surrounding a person is a rich source for understanding and identifying personal activities. Different daily activities naturally emit distinct thermal signatures from both the human body and surrounding objects; these signatures exhibit both spatial and temporal components as objects move and thermal energy dissipates, for example, when drinking a cold beverage or smoking a cigarette. We present HeatSight, a wearable system that captures the thermal environment of the wearer and uses machine learning to infer human activity from thermal, spatial, and temporal information in that environment.</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/vibroscale/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>1. Abstract Smartphones, with their ubiquity and plethora of embedded sensors enable on-the-go measurement. Here, we describe one novel measurement potential, weight measurement, by turning an everyday smartphone into a weighing scale. We describe VibroScale, our vibration-based approach to measuring the weight of objects that are small in size. Being able to objectively measure the weight of objects in free-living settings, without the burden of carrying a scale, has several possible uses, particularly in weighing small food items.</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@
       <pubDate>Sun, 07 Nov 2021 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/coughtrigger/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>Abstract Persistent coughs are a major symptom of respiratory-related diseases. Increasing research attention has been paid to detecting coughs using wearables, especially during the COVID-19 pandemic. Microphone is most widely used sensor to detect coughs. However, the intense power consumption needed to process audio hinders continuous audio-based cough detection on battery-limited commercial wearables, such as earbuds. We present CoughTrigger, which utilizes a lower-power sensor, inertial measurement unit (IMU), in earbuds as a cough detection activator to trigger a higher-power sensor for audio processing and classification.</description>
     </item>
     
     <item>
@@ -346,7 +346,7 @@
       <pubDate>Mon, 09 Sep 2019 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/to-mask-or-not-to-mask/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>Abstract Activity-oriented cameras are increasingly being used to provide visual confirmation of specific hand-related activities in real-world settings. However, recent studies have shown that bystander privacy concerns limit participant willingness to wear a camera. Researchers have investigated different image obfuscation methods as an approach to enhance bystander privacy; however, these methods may have varying effects on the visual confirmation utility of the image, which we define as the ability of a human viewer to interpret the activity of the wearer in the image.</description>
     </item>
     
     <item>
