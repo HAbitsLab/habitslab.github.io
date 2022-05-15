@@ -2,9 +2,9 @@
 title: "ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable"
 date: 2022-03-21T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+primary_investigator: {name: "Nabil Alshurafa",
+                       title: "Ph.D., Director of HABits Lab",
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
                        img: "/img/pro-big.png"}
 coinvestigators: []
 authors: [{"name": "Rawan Alharbi"}, {"name": "Sougata Sen"}, {"name": "Ada Ng"}, {"name": "Nabil Alshurafa"}, {"name": "Josiah Hester"}]
@@ -13,22 +13,4 @@ github_link: "https://github.com/"
 
 ---
 
-### 1. Introduction
-
-Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
-
-Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-![Example image](/img/ht.png)
-
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
-
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
-
-
-
-
+Wearable cameras provide an informative view of wearer activities, context, and interactions. Video obtained from wearable cameras is useful for life-logging, human activity recognition, visual confirmation, and other tasks widely utilized in mobile computing today. Extracting foreground information related to the wearer and separating irrelevant background pixels is the fundamental operation underlying these tasks. However, current wearer foreground extraction methods that depend on image data alone are slow, energy-inefficient, and even inaccurate in some cases, making many tasks–like activity recognition–challenging to implement in the absence of significant computational resources. To fill this gap, we built ActiSight, a wearable RGB-Thermal video camera that uses thermal information to make wearer segmentation practical for body-worn video. Using ActiSight, we collected a total of 59 hours of video from 6 participants, capturing a wide variety of activities in a natural setting. We show that wearer foreground extracted with ActiSight achieves a high dice similarity score while significantly lowering execution time and energy cost when compared with an RGB-only approach.
