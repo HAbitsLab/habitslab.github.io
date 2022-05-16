@@ -19,7 +19,7 @@ director:
        university: "Northwestern University",
        linkedIn: "https://www.linkedin.com/",
        twitter: "https://twitter.com/habitslab",
-       email: "mailto:abc@email.com",
+       email: "mailto:nabil@northwestern.edu",
     }
 
 # Missions section
