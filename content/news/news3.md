@@ -6,8 +6,3 @@ subtitle: "NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in
 has_link: true
 link: https://dl.acm.org/doi/abs/10.1145/3397313
 ---
-
-
-
-
-
