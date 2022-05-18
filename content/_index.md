@@ -6,7 +6,7 @@ cover:
     {
         title: "We Are HABits <br> Lab",
         image: "/img/s-1.png",
-        video_link: "https://www.youtube.com/watch?v=VTZJODjTnD4&ab_channel=TheTonightShowStarringJimmyFallon",
+        video_link: "https://www.youtube.com/watch?v=SMtumZNy4-Y",
         subtitle_left: "Where Preventive Medicine <br> Meets Computer Science",
         subtitle_right: "we design, build and analyze end-to-end mhealth <br> systems, while focusing on processing its data to help <br> answer health-related questions.",
     }
@@ -18,8 +18,8 @@ director:
        title: "Ph.D., Director of HABits Lab",
        university: "Northwestern University",
        linkedIn: "https://www.linkedin.com/",
-       twitter: "https://www.linkedin.com/",
-       email: "mailto:abc@email.com",
+       twitter: "https://twitter.com/habitslab",
+       email: "mailto:nabil@northwestern.edu",
     }
 
 # Missions section
@@ -52,29 +52,52 @@ team: {
         {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png"},
         {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png"},
         {name: "Farzard Shahabi", degree: "Ph.D Student", image: "/img/im-2.png"},
+	{name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg"},
         ],
     research_staff: [
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png"},
         {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png"},
         {name: "Fedor Adarichev", degree: "Hardware Engineer", image: "/img/fedor.png"},
-        {name: "Boonie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
+        {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
         ],
     masters_undergrads: [
-        {name: "Kana Huang", degree: "Undergrads", image: "/img/Kana.jpg"},
+        {name: "Kana Huang", degree: "Masters", image: "/img/Kana.jpg"},
         ],
     collaborators: [
-	{name: "Tammy Stump", degree: "Ph.D."},
-        {name: "Tommy Cohen", degree: "Ph.D Student"},
-        {name: "Saki Amagai", degree: "Ph.D Student"},
-        {name: "Jayalakshmi Jain", degree: "Ph.D Student"},  
-        {name: "Amit Adate", degree: "Ph.D Student"},
-        {name: "Lingfeng Li", degree: "Ph.D Student"},   
-        {name: "John Mamish", degree: "Ph.D Student"},                    
+	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art"},
+        {name: "Aggelos Katsaggelos", degree: "Professor of Electrical and Computer Engineering, Northwestern University, Joseph Cummings Professor, McCormick School of Engineering"},
+        {name: "Angela Pfammatter", degree: "Assistant Professor of Preventive Medicine (Behavioral Medicine), Clinical Health Psychologist"},
+        {name: "June Robinson", degree: "Research Professor of Dermatology"},  
+        {name: "Josiah Hester", degree: "Assistant Professor of Electrical and Computer Engineering, Assistant Professor of Computer Science, Northwestern University, Director of Ka MoaMoa Lab"},
+        {name: "Judith Moscowitz", degree: "Professor of Medical Social Sciences, Northwestern University, Social Psychologist"},   
+        {name: "Lauren Wakschlag", degree: "Vice Chair for Scientific & Faculty Development, Department of Medical Social Sciences Director, Institute for Innovations in Developmental Sciences Professor of Medical Social Sciences,"},                    
          ],
     former_students: [
-        {name: "Shibo Zhang", degree: "Ph.D"},
-        {name: "Sougata Sen", degree: "Postdoc"},
-        {name: "Chixiang Wang", degree: "Master"},
+		{name: "Shibo Zhang", degree: "Ph.D"},
+		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc"},
+		{name: "Sougata Sen", degree: "Postdoc"},
+		{name: "Sal Aguinaga", degree: "Postdoc"},
+		{name: "Shengjie Bi", degree: "Ph.D."},
+		{name: "Zhang Yun", degree: "Ph.D."},
+	    	{name: "Kitty Liu", degree: "BS"},
+		{name: "Rahul Matta", degree: "BA"},
+		{name: "Megan Runge", degree: "MS"},
+		{name: "William Stogin", degree: "BS"},	
+		{name: "Eli Cohen", degree: "BS"},
+		{name: "Abhishek Raj", degree: "MSIT"},
+		{name: "Adwaiy Manerikar", degree: "BA/MD"},
+		{name: "Begum Egilmez", degree: "Ph.D"},
+		{name: "Jayalakshmi Jain", degree: "MS"},
+		{name: "Mariam Tolba", degree: "BS"},
+		{name: "Brent Chase", degree: "MS"},
+		{name: "Erin Bruns", degree: "BS"},
+		{name: "Samanvitha Sundar", degree: "MS"},
+		{name: "Amro Ashmeik", degree: "BS"},
+		{name: "Chunlin Feng", degree: "MS"},
+		{name: "Wilson Wang", degree: "MS"},
+		{name: "Yuqi Zhao", degree: "M.S."},
+        
+		
         ]
 }
 
