@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profiles on HabitsLab</title>
+    <link>https://HAbitsLab.github.io/profiles/</link>
+    <description>Recent content in Profiles on HabitsLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Dec 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/profiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstname Lastname</title>
+      <link>https://HAbitsLab.github.io/profiles/firstname_lastname/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/profiles/firstname_lastname/</guid>
+      <description>Education Ph.D. in Computer Science and Wireless Health, UCLA, CA
+M.S. in Computer Science and A.I., UCLA, CA
+B.S. in Computer Science, UCLA, CA
+Research Interests Health; body sensor networks; behavioral science; data analytics; embedded systems; algorithm design; nutrition monitoring; activity recognition; obesity; cardiovascular disease
+Selected Publications </description>
+    </item>
+    
+  </channel>
+</rss>

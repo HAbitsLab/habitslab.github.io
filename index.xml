@@ -35,11 +35,24 @@
     </item>
     
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1/</link>
+      <title>Firstname Lastname</title>
+      <link>https://HAbitsLab.github.io/profiles/firstname_lastname/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/profiles/firstname_lastname/</guid>
+      <description>Education Ph.D. in Computer Science and Wireless Health, UCLA, CA
+M.S. in Computer Science and A.I., UCLA, CA
+B.S. in Computer Science, UCLA, CA
+Research Interests Health; body sensor networks; behavioral science; data analytics; embedded systems; algorithm design; nutrition monitoring; activity recognition; obesity; cardiovascular disease
+Selected Publications </description>
+    </item>
+    
+    <item>
+      <title>Association of number of bites and eating speed with energy intake: Wearable technology results under free-living conditions</title>
+      <link>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/publication1/</guid>
+      <guid>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
@@ -59,6 +72,15 @@
       
       <guid>https://HAbitsLab.github.io/publications/vibroscale/</guid>
       <description>1. Abstract Smartphones, with their ubiquity and plethora of embedded sensors enable on-the-go measurement. Here, we describe one novel measurement potential, weight measurement, by turning an everyday smartphone into a weighing scale. We describe VibroScale, our vibration-based approach to measuring the weight of objects that are small in size. Being able to objectively measure the weight of objects in free-living settings, without the burden of carrying a scale, has several possible uses, particularly in weighing small food items.</description>
+    </item>
+    
+    <item>
+      <title>Digitally characterizing the dynamics of multiple health behavior change.</title>
+      <link>https://HAbitsLab.github.io/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</link>
+      <pubDate>Wed, 01 Dec 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
