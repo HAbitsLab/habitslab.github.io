@@ -2,11 +2,6 @@
 title: "Toward a precision behavioral medicine approach to addressing high-risk sun exposure: a qualitative analysis"
 date: 2019-12-01T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png",
-                       profile: "/profiles/firstname_lastname"}
 authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"

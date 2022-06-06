@@ -2,11 +2,6 @@
 title: "A framework for predicting adherence in remote health monitoring systems"
 date: 2014-10-29T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png",
-                       profile: "/profiles/firstname_lastname"}
 authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
