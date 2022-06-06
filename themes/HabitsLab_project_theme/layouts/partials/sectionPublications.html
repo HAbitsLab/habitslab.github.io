@@ -9,12 +9,16 @@
                     <div class="publication__date">
                         {{.Date.Format "01/02/2006"}}
                     </div>
-                    <div class="publication__content">
-                        <p>{{.Title}}</p>
+                    <div style="width: 70%;">
+                        <div style="display:flex; justify-content:space-between; ">
+                            <div class="publication__content">
+                                <p>{{.Title}}</p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="publication__btns">
+                    <div class="publication__btns" style="justify-content: flex-end">
                         {{if (eq .Params.has_github_link true)}}
-                        <a href={{.Params.github_link}}><img src={{"/img/git.svg" | relURL}} alt=""></a>
+                            <a href={{.Params.github_link}}><img src={{"/img/git.svg" | relURL}} alt=""></a>
                         {{end}}
                         <a href={{.RelPermalink }} class="pbtn"><i class="far fa-long-arrow-right"></i></a>
                     </div>
