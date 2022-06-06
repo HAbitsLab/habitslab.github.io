@@ -10,8 +10,8 @@
                {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate (first 8 .Pages.ByDate.Reverse)) }}
                <div class="recent__news__list">
                    <div class="recent__news__date">
-                       {{.Date.Format "_2"}} <br>
-                       {{.Date.Format "Jan"}}
+                       {{.Date.Format "Jan 2"}} <br>
+                       {{.Date.Year}}
                    </div>
                    <div class="recent__news__content">
                        {{ if .Params.has_link}} 
