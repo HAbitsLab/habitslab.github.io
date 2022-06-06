@@ -6,7 +6,12 @@
               <b>{{.title}}</b>
        </p>
        <p>{{.description}}</p>
-       <!-- <div class="view__profile">
-              <a href="">View Profile <i class="far fa-long-arrow-right"></i></a>
-       </div> -->
+       {{if .profile}}
+        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
+           href={{.profile}}>Profile page</i></a>
+       {{end}}
+       {{if .email}}
+        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
+           href={{.email}}>Email</i></a>
+       {{end}}
 </div>

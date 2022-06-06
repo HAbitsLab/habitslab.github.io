@@ -5,9 +5,9 @@ draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png"}
-coinvestigators: []
-authors: [{"name": "Tammy Stump"}, {"name": "Siobhan M Phillips"}, {"name": "Jayalakshmi Jain"}, {"name": "June K Robinson"}, {"name": "Payton Solk"}, {"name": "Whitney A Welch"}, {"name": "Nabil Alshurafa"}]
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 

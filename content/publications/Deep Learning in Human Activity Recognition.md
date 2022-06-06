@@ -2,13 +2,12 @@
 title: "Deep Learning in Human Activity Recognition with Wearable Sensors: A Review on Advances"
 date: 2022-02-14T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa",
-                       title: "Ph.D., Director of HABits Lab",
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
-                       img: "/img/pro-big.png"}
-coinvestigators: [{name: "Shibo Zhang", title: "Researcher", description: "description description description", img: "/img/im-8.png"},
-                {name: "Farzad Shahabi", title: "Researcher", description: "desction description description", img: "/img/im-2.png"}]
-authors: [{"name": "Shibo Zhang"}, {"name": "Yaxuan Li"}, {"name": "Shen Zhang"}, {"name": "Farzad Shahabi"}, {"name": "Stephen Xia"}, {"name": "Yu Deng"}, {"name": "Nabil Alshurafa"}]
+primary_investigator: {name: "Nabil Alshurafa", 
+                       title: "Ph.D., Director of HABits Lab", 
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: true
 github_link: "https://github.com/"
 

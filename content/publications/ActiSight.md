@@ -2,12 +2,12 @@
 title: "ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable"
 date: 2022-03-21T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa",
-                       title: "Ph.D., Director of HABits Lab",
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
-                       img: "/img/pro-big.png"}
-coinvestigators: []
-authors: [{"name": "Rawan Alharbi"}, {"name": "Sougata Sen"}, {"name": "Ada Ng"}, {"name": "Nabil Alshurafa"}, {"name": "Josiah Hester"}]
+primary_investigator: {name: "Nabil Alshurafa", 
+                       title: "Ph.D., Director of HABits Lab", 
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: true
 github_link: "https://github.com/"
 

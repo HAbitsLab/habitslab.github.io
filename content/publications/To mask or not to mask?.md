@@ -2,13 +2,12 @@
 title: "To mask or not to mask? balancing privacy with visual confirmation utility in activity-oriented wearable cameras"
 date: 2019-09-09T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa",
-                       title: "Ph.D., Director of HABits Lab",
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
-                       img: "/img/pro-big.png"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"},
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Rawan Alharbi"}, {"name": "Mariam Tolba"}, {"name": "Lucia C Petito"}, {"name": "Josiah Hester"}, {"name": "Nabil Alshurafa"}]
+primary_investigator: {name: "Nabil Alshurafa", 
+                       title: "Ph.D., Director of HABits Lab", 
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 

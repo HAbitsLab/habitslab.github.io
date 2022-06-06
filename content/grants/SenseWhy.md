@@ -9,9 +9,10 @@ funding_amount: "$850,000"
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
+                       img: "/img/pro-big.png" ,
+                       profile: "https://www.github.com"}
+coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png", profile: "https://www.github.com"}, 
+                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png", profile: "https://www.github.com"}]
 ---
 
 ### 1. Introduction

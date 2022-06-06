@@ -56,7 +56,7 @@
     <div class="hero_2">
         <div class="container">
             <div class="hero__text  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <h5>Publication</h5>
+                <h5>Team</h5>
                 <h2>{{with .Title}}{{ . | safeHTML }}{{ end }}</h2>
 
                 <!-- <h2>Balancing Privacy with Visual <br> Confirmation Utility in Activity- <br> Oriented Wearable -->
@@ -104,35 +104,7 @@
                     <div class="col-lg-4 col-xl-3 col-md-4">
                         <div class="article__right  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms"ffffffffffffff>
                             <h4>Primary Investigator</h4>
-                            {{partial "investigator" .Params.primary_investigator}}
-
-                            {{ if not (eq (len .Params.authors) 0)}} 
-                                <h4>Authors</h4>
-                                {{ range .Params.authors }}
-                                    {{if .profile}}
-                                        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
-                                        href={{.profile}}><p>{{.name}}</p></i></a>
-                                    {{else}}
-                                        <p>{{.name}}</p>
-                                    {{end}}
-                                {{ end }}
-                            {{ end }}
-                            <!-- <h4>Related Publications</h4> -->
-                            <!-- <div class="pulication__links">
-                                <a href="">Chicago Tribune</a>
-                                <a href="">ABC 7 Eyewitness News</a>
-                                <a href="">FOX News Chicago</a>
-                                <a href="">WGN-TV</a>
-                            </div> -->
-                            <!-- <div class="document__download__wrapper">
-                                <h3>Download the Full PDF Document</h3>
-                                <p>Wearable cameras are used as a tool to understand fine-grained human activities in
-                                    the wild because of their ability <br>
-                                    to provide visual information that can be interpreted by humans </p>
-                                <div class="view__profile diff">
-                                    <a href="" class="active"> Download <i class="far fa-long-arrow-down"></i></a>
-                                </div>
-                            </div> -->
+                            {{partial "investigator" .Params.info}}
                         </div>
                     </div>
                 </div>

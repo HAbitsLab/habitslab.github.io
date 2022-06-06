@@ -26,7 +26,12 @@
                                                     <img src={{.image | relURL}} alt="">
                                                 </div>
                                                 <div class="profile__content">
-                                                    <h4>{{.name}}</h4>
+                                                    {{if .profile}}
+                                                        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 0px dotted #B6ACD1;" 
+                                                        href={{.profile}}><h4>{{.name}}</h4></i></a>
+                                                    {{else}}
+                                                        <h4>{{.name}}</h4>
+                                                    {{end}}
                                                     <p>{{.degree}}</p>
                                                 </div>
                                             </div>   
@@ -52,7 +57,12 @@
                                     <img src={{.Params.director.img_team_section | relURL}} alt="">
                                 </div>
                                 <div class="profile__content">
-                                    <h4>{{.Params.director.name}}</h4>
+                                    {{if .Params.director.profile}}
+                                        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 0px dotted #B6ACD1;" 
+                                        href={{.Params.director.profile}}><h4>{{.Params.director.name}}</h4></i></a>
+                                    {{else}}
+                                        <h4>{{.Params.director.name}}</h4>
+                                    {{end}}
                                     <p>{{.Params.director.title}}</p>
                                 </div>
                             </div>
@@ -76,7 +86,12 @@
                                             <img src={{.image | relURL}} alt="">
                                         </div>
                                         <div class="profile__content">
-                                            <h4>{{.name}}</h4>
+                                            {{if .profile}}
+                                                <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 0px dotted #B6ACD1;" 
+                                                href={{.profile}}><h4>{{.name}}</h4></i></a>
+                                            {{else}}
+                                                <h4>{{.name}}</h4>
+                                            {{end}}
                                             <p>{{.degree}}</p>
                                         </div>
                                     </div>   
@@ -101,7 +116,12 @@
                                             <img src={{.image | relURL}} alt="">
                                         </div>
                                         <div class="profile__content">
-                                            <h4>{{.name}}</h4>
+                                            {{if .profile}}
+                                                <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 0px dotted #B6ACD1;" 
+                                                href={{.profile}}><h4>{{.name}}</h4></i></a>
+                                            {{else}}
+                                                <h4>{{.name}}</h4>
+                                            {{end}}
                                             <p>{{.degree}}</p>
                                         </div>
                                     </div>   
@@ -140,7 +160,12 @@
                                             <img src={{.image | relURL}} alt="">
                                         </div>
                                         <div class="profile__content">
-                                            <h4>{{.name}}</h4>
+                                            {{if .profile}}
+                                                <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 0px dotted #B6ACD1;" 
+                                                href={{.profile}}><h4>{{.name}}</h4></i></a>
+                                            {{else}}
+                                                <h4>{{.name}}</h4>
+                                            {{end}}
                                             <p>{{.degree}}</p>
                                         </div>
                                     </div>   
@@ -163,7 +188,12 @@
                                     <div class="single__collaborators__item">
                                         <div class="collaborator__thumb has--bg-light-blue"></div>
                                         <div class="collaborator_content">
-                                            <a>{{.name}}</a>
+                                            {{if .profile}}
+                                                <a style="border-bottom: 0px dotted #B6ACD1;" 
+                                                href={{.profile}}>{{.name}}</a>
+                                            {{else}}
+                                                <a style="border-bottom: 0px dotted #B6ACD1;">{{.name}}</a>
+                                            {{end}}
                                             <p>{{.degree}}</p>
                                         </div>
                                     </div>
@@ -174,7 +204,12 @@
                                 <div class="single__collaborators__item">
                                     <div class="collaborator__thumb has--bg-light-blue"></div>
                                     <div class="collaborator_content">
-                                        <a>{{.name}}</a>
+                                        {{if .profile}}
+                                            <a style="border-bottom: 0px dotted #B6ACD1;" 
+                                            href={{.profile}}>{{.name}}</a>
+                                        {{else}}
+                                            <a style="border-bottom: 0px dotted #B6ACD1;">{{.name}}</a>
+                                        {{end}}
                                         <p>{{.degree}}</p>
                                     </div>
                                 </div>
@@ -190,7 +225,15 @@
                 </div>
                 <div class="former__students pt-1">
                     {{ range .Params.team.former_students }}
-                        <li>{{.name}} <span>{{.degree}}</span></li>
+                        <li>
+                            {{if .profile}}
+                                <a style="color: #000000; margin-top: 0.5rem; border-bottom: 0px dotted #B6ACD1;" 
+                                    href={{.profile}}>{{.name}}</a>
+                            {{else}}
+                                <a style="border-bottom: 0px dotted #B6ACD1;">{{.name}}</a>
+                            {{end}}
+                            <span>{{.degree}}</span>
+                        </li>
                     {{ end }}
                 </div>
             </div>

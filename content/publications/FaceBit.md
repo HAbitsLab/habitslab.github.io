@@ -2,13 +2,12 @@
 title: "FaceBit: Smart Face Masks Platform"
 date: 2021-12-30T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa",
-                       title: "Ph.D., Director of HABits Lab",
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
-                       img: "/img/pro-big.png"}
-coinvestigators: [{name: "Blaine Rothrock", title: "Researcher", description: "description description description", img: "/img/im-8.png"},
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Alexander Curtiss"}, {"name": "Blaine Rothrock"}, {"name": "Abu Bakar"}, {"name": "Nivedita Arora"}, {"name": "Jason Huang"}, {"name": "Zachary Englhardt"}, {"name": "Aaron-Patrick Empedrado"}, {"name": "Chixiang Wang"}, {"name": "Saad Ahmed"}, {"name": "Yang Zhang"}, {"name": "Nabil Alshurafa"}, {"name": "Josiah Hester"}]
+primary_investigator: {name: "Nabil Alshurafa", 
+                       title: "Ph.D., Director of HABits Lab", 
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 

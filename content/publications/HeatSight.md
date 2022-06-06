@@ -2,12 +2,12 @@
 title: "HeatSight: Wearable Low-power Omni Thermal Sensing"
 date: 2021-12-03T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa",
-                       title: "Ph.D., Director of HABits Lab",
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
-                       img: "/img/pro-big.png"}
-coinvestigators: [{name: "Rawan Alharbi", title: "Researcher", description: "description description description", img: "/img/p-1.png"}]
-authors: [{"name": "Rawan Alharbi"}, {"name": "Chunlin Feng"}, {"name": "Sougata Sen"}, {"name": "Jayalakshmi Jain"}, {"name": "Josiah Hester"}, {"name": "Nabil Alshurafa"}]
+primary_investigator: {name: "Nabil Alshurafa", 
+                       title: "Ph.D., Director of HABits Lab", 
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 

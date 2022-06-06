@@ -5,10 +5,9 @@ draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png"}, 
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png"}]
-authors: [{"name": "Mohammad Arif Ul Alam"}, {"name": "Nabil Alshurafa"}, {"name": "Ahmad Salman"}, {"name": "Abhishek Mukherji"}, {"name": "Hiro Takagi"}]
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 

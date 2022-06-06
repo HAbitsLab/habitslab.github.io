@@ -2,12 +2,12 @@
 title: "CoughTrigger: Earbuds IMU Based Cough Detection Activator Using An Energy-efficient Sensitivity-prioritized Time Series Classifier"
 date: 2021-11-07T15:09:31-06:00
 draft: false
-primary_investigator: {name: "Nabil Alshurafa",
-                       title: "Ph.D., Director of HABits Lab",
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.",
-                       img: "/img/pro-big.png"}
-coinvestigators: [{name: "Shibo Zhang", title: "Researcher", description: "description description description", img: "/img/im-8.png"}]
-authors: [{"name": "Shibo Zhang"}, {"name": "Ebrahim Nemati"}, {"name": "Minh Dinh"}, {"name": "Nathan Folkman"}, {"name": "Tousif Ahmed"}, {"name": "Mahbubur Rahman"}, {"name": "Jilong Kuang"}, {"name": "Nabil Alshurafa"}, {"name": "Alex Gao"}]
+primary_investigator: {name: "Nabil Alshurafa", 
+                       title: "Ph.D., Director of HABits Lab", 
+                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 

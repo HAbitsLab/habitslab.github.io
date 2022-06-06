@@ -17,6 +17,62 @@
     <link href={{"/css/responsive.css" | relURL}} rel="stylesheet">
 
     <title>{{.Title}}</title>
+    <style>
+        /*
+        @media (min-width: 576px)
+        {
+            .researchers__wrap .row {
+                flex-wrap: nowrap;
+              }
+        }
+        */
+
+        .col-6 {
+          max-width: 25%;
+          margin-right: 1.75rem;
+          margin-bottom: 1.75rem;
+        }
+
+        @media (min-width: 769px){
+            #mastersUndergrads .col-6 {
+                max-width: 13%;
+                /*padding-bottom: 100px;*/
+              }
+        }
+
+        .collaborator__thumb{
+            height: 25px;
+            width: 25px;
+        }
+
+        #researcher-title{
+            margin-bottom: 1.4rem;
+        }
+
+        .recent__news__list{
+            padding: 13px 0;
+        }
+
+        .recent__news__content a{
+            font-size: 20px;
+        }
+
+        .recent__news__content p{
+            font-size: 13px;
+        }
+
+        .recent__news__date{
+            font-size: 17px;
+        }
+
+        .recent__news__area, .publications__area{
+            padding: 0;
+        }
+
+        .news__title, .recent__news__btn, .grant__title, .publication__title{
+            display: none;
+        }
+    </style>
 </head>
 
 <body>
@@ -48,41 +104,17 @@
     </div>
     <!-- Preloader End -->
 
-    <!--------- Header area end --------->
+    <!--------- Header area --------->
     {{partial "sectionHeader" .}}
-
 
     <!--------- Hero area start --------->
     <div class="hero_2">
         <div class="container">
             <div class="hero__text  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <h5>Publication</h5>
-                <h2>{{with .Title}}{{ . | safeHTML }}{{ end }}</h2>
+                <h2>{{.Title}}</h2>
 
                 <!-- <h2>Balancing Privacy with Visual <br> Confirmation Utility in Activity- <br> Oriented Wearable -->
                     <!-- Cameras</h2> -->
-            </div>
-        </div>
-        <div class="hero__slider__area position-relative">
-            <div class="ss  wow fadeInRight" data-wow-duration="1100ms" data-wow-delay="400ms">
-                <img src={{"/img/ss.png" | relURL}} alt="">
-            </div>
-            <div class="hero__slide__wrapper owl-carousel  wow fadeInUp" data-wow-duration="1100ms"
-                data-wow-delay="400ms">
-                <div class="hero__slide">
-                    <img src={{"/img/img45.png" | relURL}} alt="">
-                </div>
-                <div class="hero__slide">
-                    <img src={{"/img/img45.png" | relURL}} alt="">
-                </div>
-                <div class="hero__slide">
-                    <img src={{"/img/img45.png" | relURL}} alt="">
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid p-0">
-            <div class="col-lg-9 col-md-8 has--bg position-relative">
-
             </div>
         </div>
     </div>
@@ -90,56 +122,9 @@
 
     <!--------- index-2 area start --------->
     <div class="index__area">
-
-        <!--------- Article area start --------->
-        <div class="article__area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-xl-9 col-md-8">
-                        <div class="article__left  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
-                            <!-- <h3>1. Introduction</h3> -->
-                            <p>{{.Content}}</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-xl-3 col-md-4">
-                        <div class="article__right  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms"ffffffffffffff>
-                            <h4>Primary Investigator</h4>
-                            {{partial "investigator" .Params.primary_investigator}}
-
-                            {{ if not (eq (len .Params.authors) 0)}} 
-                                <h4>Authors</h4>
-                                {{ range .Params.authors }}
-                                    {{if .profile}}
-                                        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
-                                        href={{.profile}}><p>{{.name}}</p></i></a>
-                                    {{else}}
-                                        <p>{{.name}}</p>
-                                    {{end}}
-                                {{ end }}
-                            {{ end }}
-                            <!-- <h4>Related Publications</h4> -->
-                            <!-- <div class="pulication__links">
-                                <a href="">Chicago Tribune</a>
-                                <a href="">ABC 7 Eyewitness News</a>
-                                <a href="">FOX News Chicago</a>
-                                <a href="">WGN-TV</a>
-                            </div> -->
-                            <!-- <div class="document__download__wrapper">
-                                <h3>Download the Full PDF Document</h3>
-                                <p>Wearable cameras are used as a tool to understand fine-grained human activities in
-                                    the wild because of their ability <br>
-                                    to provide visual information that can be interpreted by humans </p>
-                                <div class="view__profile diff">
-                                    <a href="" class="active"> Download <i class="far fa-long-arrow-down"></i></a>
-                                </div>
-                            </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {{ .Scratch.Set "fullList" true }}
+        {{partial "sectionPublications" .}}
         <!--------- Article area end --------->
-
     </div>
     <!--------- index-2 area end --------->
 
@@ -153,11 +138,6 @@
 
     <!--------- Footer area start --------->
     {{partial "sectionFooter" .}}
-    <!--------- Footer Bottom area end --------->
-
-
-
-
 
     <script src={{"/js/jquery.min.js" | relURL}}></script>
     <script src={{"/js/popper.js" | relURL}}></script>

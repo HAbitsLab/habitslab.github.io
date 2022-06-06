@@ -5,9 +5,9 @@ draft: false
 primary_investigator: {name: "Nabil Alshurafa", 
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png"}
-coinvestigators: []
-authors: [{"name": "Lauren S Wakschlag"}, {"name": "Darius Tandon"}, {"name": "Sheila Krogh‐Jespersen"}, {"name": "Amelie Petitclerc"}, {"name": "Ashley Nielsen"}, {"name": "Rhoozbeh Ghaffari"}, {"name": "Leena Mithal"}, {"name": "Michael Bass"}, {"name": "Erin Ward"}, {"name": "Jonathan Berken"}, {"name": "Elveena Fareedi"}, {"name": "Peter Cummings"}, {"name": "Karen Mestan"}, {"name": "Elizabeth S Norton"}, {"name": "William Grobman"}, {"name": "John Rogers"}, {"name": "Judith Moskowitz"}, {"name": "Nabil Alshurafa"}]
+                       img: "/img/pro-big.png",
+                       profile: "/profiles/firstname_lastname"}
+authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 
