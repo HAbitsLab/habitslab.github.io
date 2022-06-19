@@ -12,7 +12,7 @@ info: {name: "Mahdi Pedram",
 
 ### Education
 
-Ph.D. in Computer Engineering, [Washington State University] (https://wsu.edu/), WA, USA
+Ph.D. in Computer Engineering, [Washington State University](https://wsu.edu/), WA, USA
 
 B.Sc. in Computer Engineering, Amirkabir University of Technology, Iran
 
