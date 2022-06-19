@@ -6,6 +6,10 @@ info: {name: "Mahdi Pedram",
       title: "Ph.D., Manager of HABits Lab",
       description: "Postdorcotral Fellow",
       email: "mahdi.pedram@northwestern.edu",
+      googlescholar    : "https://scholar.google.com/citations?user=Hpc-9PAAAAAJ&hl=en",
+      linkedin         : "mahdi-pedram-b29bb7107",
+      github           : "mahdipedro",
+      researchgate     : "https://www.researchgate.net/profile/Mahdi_Pedram",
       img: "/img/mahdi.png",}
 ---
 
