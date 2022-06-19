@@ -2,11 +2,11 @@
 title: "Firstname Lastname"
 date: 2021-12-30T15:09:31-06:00
 draft: false
-info: {name: "Nabil Alshurafa",
-      title: "Ph.D., Director of HABits Lab",
-      description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and   heading The HAbits Lab.",
-      email: "nabil@northwestern.edu",
-      img: "/img/pro-big.png",}
+info: {name: "Mahdi Pedram",
+      title: "Ph.D., Manager of HABits Lab",
+      description: "Postdorcotral Fellow",
+      email: "mahdi.pedram@northwestern.edu",
+      img: "/img/mahdi.png",}
 ---
 
 ### Education
