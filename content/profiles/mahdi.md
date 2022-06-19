@@ -30,4 +30,3 @@ Wireless and Mobile Health (mHealth), Embedded Systems, Computer Architecture, M
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mahdipedro)
 &nbsp;
-<i class="ai ai-google-scholar-square ai-3x"></i>
