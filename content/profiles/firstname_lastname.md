@@ -17,6 +17,7 @@ B.S. in Computer Engineering, Amirkabir University of Technology, Iran
 
 ### Research Interests
 
-Health; body sensor networks; behavioral science; data analytics; embedded systems; algorithm design; nutrition monitoring; activity recognition; obesity; cardiovascular disease
+Embedded Systems, Health Monitoring Systems, On-Device Processing, Sensor System Development, Power Optimization, Machine Learning
+
 
 ### Selected Publications
