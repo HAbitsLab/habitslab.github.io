@@ -26,6 +26,6 @@ Embedded Systems, Health Monitoring Systems, On-Device Processing, Sensor System
 
 Wireless and Mobile Health (mHealth), Embedded Systems, Computer Architecture, Machine Learning
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mahdi-pedram-b29bb7107/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahdi-pedram-b29bb7107/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/mahdipedro))
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
