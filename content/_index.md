@@ -49,16 +49,16 @@ team: {
     phds: [
         {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png", profile: "/profiles/firstname_lastname"},
         {name: "Soroush Shahi", degree: "Ph.D Student", image: "/img/im-7.png", profile: "/profiles/firstname_lastname"},
-        {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png", profile: ""},
-        {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png", profile: ""},
-        {name: "Farzard Shahabi", degree: "Ph.D Student", image: "/img/im-2.png", profile: ""},
-	    {name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg", profile: ""},
+        {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png", profile: "/profiles/firstname_lastname"},
+        {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png", profile: "/profiles/firstname_lastname"},
+        {name: "Farzard Shahabi", degree: "Ph.D Student", image: "/img/im-2.png", profile: "/profiles/firstname_lastname"},
+	    {name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg", profile: "/profiles/firstname_lastname"},
         ],
     research_staff: [
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png", profile: "/profiles/firstname_lastname"},
-        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png", profile: ""},
-        {name: "Fedor Adarichev", degree: "Hardware Engineer", image: "/img/fedor.png", profile: ""},
-        {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png", profile: ""},        
+        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png", profile: "/profiles/firstname_lastname"},
+        {name: "Fedor Adarichev", degree: "Hardware Engineer", image: "/img/fedor.png", profile: "/profiles/firstname_lastname"},
+        {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png", profile: "/profiles/firstname_lastname"},        
         ],
     masters_undergrads: [
         {name: "Kana Huang", degree: "Masters", image: "/img/Kana.jpg", profile: "/profiles/firstname_lastname"},
