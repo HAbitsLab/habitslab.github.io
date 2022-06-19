@@ -9,6 +9,12 @@ info: {name: "Mahdi Pedram",
       img: "/img/mahdi.png",}
 ---
 
+### Contact
+  googlescholar    : "https://scholar.google.com/citations?user=Hpc-9PAAAAAJ&hl=en"
+  linkedin         : "mahdi-pedram-b29bb7107"
+  github           : "mahdipedro"
+  researchgate     : "https://www.researchgate.net/profile/Mahdi_Pedram"
+
 ### Education
 
 Ph.D. in Computer Engineering, Washington State University, WA, USA
