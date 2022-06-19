@@ -42,7 +42,7 @@ team: {
                     attitude. Our curiosity and breadth of experience means we can turn our minds to new
                     challenges, combining the need for functionality with a desire for aesthetic value.",
     researchers: [
-        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png", profile: "/profiles/firstname_lastname"},
+        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png", profile: "/profiles/mahdi"},
         {name: "Yang Gao", degree: "Ph.D., Post-doc", image: "/img/yang.png", profile: ""},
         {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png", profile: ""},
         ],
