@@ -10,6 +10,15 @@ info: {name: "Mahdi Pedram",
 ---
 
 ### Contact
+# Site Author
+author:
+  name             : "Mahdi Pedram"
+  avatar           : "git.JPG"
+  bio              : "Postdoctoral Fellow at Northwestern University"
+  location         : "Chicago, IL"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  email            : "mahdi.pedram@northwestern.edu"
   googlescholar    : "https://scholar.google.com/citations?user=Hpc-9PAAAAAJ&hl=en"
   linkedin         : "mahdi-pedram-b29bb7107"
   github           : "mahdipedro"
