@@ -13,11 +13,11 @@ info: {name: "Mahdi Pedram",
 
 Ph.D. in Computer Engineering, Washington State University, WA, USA
 
-B.S. in Computer Engineering, Amirkabir University of Technology, Iran
+B.Sc. in Computer Engineering, Amirkabir University of Technology, Iran
 
 ### Research Interests
 
 Embedded Systems, Health Monitoring Systems, On-Device Processing, Sensor System Development, Power Optimization, Machine Learning
 
 
-### Selected Publications
+[comment]: <> (### Selected Publications)
