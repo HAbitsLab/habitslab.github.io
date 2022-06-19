@@ -11,11 +11,9 @@ info: {name: "Mahdi Pedram",
 
 ### Education
 
-Ph.D. in Computer Science and Wireless Health, UCLA, CA
+Ph.D. in Computer Engineering, Washington State University, WA, USA
 
-M.S. in Computer Science and A.I., UCLA, CA
-
-B.S. in Computer Science, UCLA, CA
+B.S. in Computer Engineering, Amirkabir University of Technology, Iran
 
 ### Research Interests
 
