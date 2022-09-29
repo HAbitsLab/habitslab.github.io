@@ -58,7 +58,7 @@ team: {
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png", profile: "/profiles/bonnie"},        
         ],
     masters_undergrads: [
-        {name: "Edward Chen", degree: "Masters", image: "/img/Kana.jpg", profile: "/profiles/new.md"},
+        {name: "Edward Chen", degree: "Masters", image: "/img/edward.jpg", profile: "/profiles/new.md"},
         ],
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
