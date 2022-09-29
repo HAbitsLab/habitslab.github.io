@@ -63,7 +63,7 @@ team: {
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
         {name: "Aggelos Katsaggelos", degree: "Professor of Electrical and Computer Engineering, Northwestern University, Joseph Cummings Professor, McCormick School of Engineering", profile: "/profiles/firstname_lastname"},
-        {name: "Angela Pfammatter", degree: "Assistant Professor of Preventive Medicine (Behavioral Medicine), Clinical Health Psychologist", profile: ""},
+        {name: "Angela Pfammatter", degree: "Senior Methodologist and Associate Professor of Public Health, University of Tennessee", profile: ""},
         {name: "June Robinson", degree: "Research Professor of Dermatology", profile: ""},  
         {name: "Josiah Hester", degree: "Associate Professor of Interactive Computing and Computer Science, College of Computing, Georgia Institute of Technology, Director of Ka MoaMoa Lab", profile: ""},
         {name: "Judith Moscowitz", degree: "Professor of Medical Social Sciences, Northwestern University, Social Psychologist", profile: ""},   
