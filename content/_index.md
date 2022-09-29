@@ -36,7 +36,7 @@ mission5_title: "Prevent"
 mission5_points: ["Behaviorist", "Interventionist", "Medical Expert"]
 
 # Team section
-team_image: "/img/img-area.png"
+team_image: "/img/groupv1.jpg"
 team: {
     description: "We’re are a friendly , forward thinking collective, an approachable team with a can-do
                     attitude. Our curiosity and breadth of experience means we can turn our minds to new
