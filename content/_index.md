@@ -71,7 +71,7 @@ team: {
          ],
     former_students: [
     		{name: "Rawan Alharbi", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
-		{name: "Yang Gao", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
+		{name: "Yang Gao", degree: "Postdoc", profile: "/profiles/firstname_lastname"},
 		{name: "Shibo Zhang", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
 		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc", profile: "/profiles/firstname_lastname"},
 		{name: "Sougata Sen", degree: "Postdoc", profile: ""},
