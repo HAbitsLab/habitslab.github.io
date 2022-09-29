@@ -6,7 +6,7 @@ cover:
     {
         title: "We Are HABits <br> Lab",
         image: "/img/s-1.png",
-        video_link: "https://www.youtube.com/watch?v=VTZJODjTnD4&ab_channel=TheTonightShowStarringJimmyFallon",
+        video_link: "https://www.youtube.com/watch?v=SMtumZNy4-Y",
         subtitle_left: "Where Preventive Medicine <br> Meets Computer Science",
         subtitle_right: "we design, build and analyze end-to-end mhealth <br> systems, while focusing on processing its data to help <br> answer health-related questions.",
     }
@@ -18,8 +18,9 @@ director:
        title: "Ph.D., Director of HABits Lab",
        university: "Northwestern University",
        linkedIn: "https://www.linkedin.com/",
-       twitter: "https://www.linkedin.com/",
-       email: "mailto:abc@email.com",
+       twitter: "https://twitter.com/habitslab",
+       email: "mailto:nabil@northwestern.edu",
+       profile: "/profiles/firstname_lastname"
     }
 
 # Missions section
@@ -41,40 +42,61 @@ team: {
                     attitude. Our curiosity and breadth of experience means we can turn our minds to new
                     challenges, combining the need for functionality with a desire for aesthetic value.",
     researchers: [
-
-        {name: "Tammy Stump", degree: "Ph.D., Researcher", image: "/img/p-2.png"},
-        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png"},
-        {name: "Yang Gao", degree: "Ph.D., Post-doc", image: "/img/yang.png"},
-        {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png"},
+        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png", profile: "/profiles/mahdi"},
+        {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png", profile: ""},
         ],
     phds: [
-        {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png"},
-        {name: "Soroush Shahi", degree: "Ph.D Student", image: "/img/im-7.png"},
-        {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png"},
-        {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png"},
-        {name: "Farzard Shahabi", degree: "Ph.D Student", image: "/img/im-2.png"},
+        {name: "Soroush Shahi", degree: "Ph.D Student", image: "/img/im-7.png", profile: "/profiles/soroush"},
+        {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png", profile: "/profiles/glenn"},
+        {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png", profile: "/profiles/boyang"},
+        {name: "Farzard Shahabi", degree: "Ph.D Student", image: "/img/im-2.png", profile: "/profiles/farzad"},
+	    {name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg", profile: "/profiles/saki"},
         ],
     research_staff: [
-        {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png"},
-        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png"},
-        {name: "Fedor Adarichev", degree: "Hardware Engineer", image: "/img/fedor.png"},
-        {name: "Boonie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png"},        
+        {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png", profile: "/profiles/chris"},
+        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png", profile: "/profiles/jeb"},
+        {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png", profile: "/profiles/bonnie"},        
         ],
     masters_undergrads: [
-        {name: "Helen Zhu", degree: "Undergrads", image: "/img/p-1.png"},
+        {name: "Edward Chen", degree: "Masters", image: "/img/Kana.jpg", profile: "/profiles/new.md"},
         ],
     collaborators: [
-        {name: "Tommy Cohen", degree: "Ph.D"},
-        {name: "Saki Amagai", degree: "Ph.D"},
-        {name: "Jayalakshmi Jain", degree: "Ph.D"},  
-        {name: "Amit Adate", degree: "Ph.D"},
-        {name: "Lingfeng Li", degree: "Ph.D"},   
-        {name: "John Mamish", degree: "Ph.D"},                    
+	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
+        {name: "Aggelos Katsaggelos", degree: "Professor of Electrical and Computer Engineering, Northwestern University, Joseph Cummings Professor, McCormick School of Engineering", profile: "/profiles/firstname_lastname"},
+        {name: "Angela Pfammatter", degree: "Assistant Professor of Preventive Medicine (Behavioral Medicine), Clinical Health Psychologist", profile: ""},
+        {name: "June Robinson", degree: "Research Professor of Dermatology", profile: ""},  
+        {name: "Josiah Hester", degree: "Assistant Professor of Electrical and Computer Engineering, Assistant Professor of Computer Science, Northwestern University, Director of Ka MoaMoa Lab", profile: ""},
+        {name: "Judith Moscowitz", degree: "Professor of Medical Social Sciences, Northwestern University, Social Psychologist", profile: ""},   
+        {name: "Lauren Wakschlag", degree: "Vice Chair for Scientific & Faculty Development, Department of Medical Social Sciences Director, Institute for Innovations in Developmental Sciences Professor of Medical Social Sciences,", profile: ""},                    
          ],
     former_students: [
-        {name: "Shibo Zhang", degree: "Ph.D"},
-        {name: "Sougata Sen", degree: "Postdoc"},
-        {name: "Chixiang Wang", degree: "Master"},
+    		{name: "Rawan Alharbi", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
+		{name: "Yang Gao", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
+		{name: "Shibo Zhang", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
+		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc", profile: "/profiles/firstname_lastname"},
+		{name: "Sougata Sen", degree: "Postdoc", profile: ""},
+		{name: "Sal Aguinaga", degree: "Postdoc", profile: ""},
+		{name: "Shengjie Bi", degree: "Ph.D.", profile: ""},
+		{name: "Zhang Yun", degree: "Ph.D.", profile: ""},
+       		{name: "Kitty Liu", degree: "BS", profile: ""},
+		{name: "Rahul Matta", degree: "BA", profile: ""},
+		{name: "Megan Runge", degree: "MS", profile: ""},
+		{name: "William Stogin", degree: "BS", profile: ""},
+		{name: "Eli Cohen", degree: "BS", profile: ""},
+		{name: "Abhishek Raj", degree: "MSIT", profile: ""},
+		{name: "Adwaiy Manerikar", degree: "BA/MD", profile: ""},
+		{name: "Begum Egilmez", degree: "Ph.D", profile: ""},
+		{name: "Jayalakshmi Jain", degree: "MS", profile: ""},
+		{name: "Mariam Tolba", degree: "BS", profile: ""},
+		{name: "Brent Chase", degree: "MS", profile: ""},
+		{name: "Erin Bruns", degree: "BS", profile: ""},
+		{name: "Samanvitha Sundar", degree: "MS", profile: ""},
+		{name: "Amro Ashmeik", degree: "BS", profile: ""},
+		{name: "Chunlin Feng", degree: "MS", profile: ""},
+		{name: "Wilson Wang", degree: "MS", profile: ""},
+		{name: "Yuqi Zhao", degree: "M.S.", profile: ""},
+
+
         ]
 }
 
@@ -93,8 +115,8 @@ FAQ: [
                                         from passive sensors. To advance existing sensing techniques, a part of our lab
                                         focuses on the design of embedded systems.
         "},
-        {question: "Who are we?", answer: "People in HABits Lab have diverse backgrounds including Computer Science, Statistics, 
-                                           Electrical Engineering, etc. We conduct interdisciplinary researches in HCI, design, AI, 
+        {question: "Who are we?", answer: "People in HABits Lab have diverse backgrounds including Computer Science, Statistics,
+                                           Electrical Engineering, etc. We conduct interdisciplinary researches in HCI, design, AI,
                                            machine learning, behavior science and computational medicine.
         "},
         {question: "Perspective Student", answer: "The ideal students are those who thrive at the intersections of disciplines, self-motivated, passionate about researches. Qualifications:
@@ -106,7 +128,7 @@ FAQ: [
                                                         <li>Habit of reading and writing continually. As a researcher you love reading new papers, and recording and sharing your own findings. You’re always staying up to speed on the latest in passive sensing research.</li>
                                                     </ol>
         "},
-        {question: "Software Engineer", answer: "We are looking for a passionate Software Engineer to design, develop and install software solutions. 
+        {question: "Software Engineer", answer: "We are looking for a passionate Software Engineer to design, develop and install software solutions.
                                                 The role will be to facilitate software design and deployment for a research lab bridging the fields of computer science and healthcare. Qualifications:
                                                 <ol>
                                                     <li>Bachelor’s Degree in Computer Science or related field.</li>
@@ -134,10 +156,10 @@ FAQ: [
                                                     <li>Maintain documentation of designs, creation of prototypes, testing protocols.</li>
                                                 </ol>
         "},
-        {question: "Research Project Manager", answer: "We are looking for a research project manager that help manage all activities associated with 
-                                                        biomedical &/or social-behavioral research studies considered very complex by the inclusion of 
-                                                        several of the following: multiple investigators, teams, sites, sub-contracts, participants, longitudinal 
-                                                        assessments/ interventions; &/or multi-million dollar budgets. Ensures completion of contract requirements 
+        {question: "Research Project Manager", answer: "We are looking for a research project manager that help manage all activities associated with
+                                                        biomedical &/or social-behavioral research studies considered very complex by the inclusion of
+                                                        several of the following: multiple investigators, teams, sites, sub-contracts, participants, longitudinal
+                                                        assessments/ interventions; &/or multi-million dollar budgets. Ensures completion of contract requirements
                                                         & client specifications. Qualifications:
                                                         <ol>
                                                             <li>Successful completion of a full 4-year course of study in an accredited college or university leading to a bachelor's or higher degree in a major such as social or health science or related; OR appropriate combination of education and experience and 5 years' research study or other relevant experience required.</li>
@@ -150,7 +172,7 @@ FAQ: [
 
 # Contacts section
 contact_email: "mailto:habitslab@email.com"
-address: "680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611" 
+address: "680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611"
 ---
 
 <!-- lab description -->
