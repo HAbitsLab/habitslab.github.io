@@ -43,7 +43,6 @@ team: {
                     challenges, combining the need for functionality with a desire for aesthetic value.",
     researchers: [
         {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png", profile: "/profiles/mahdi"},
-        {name: "Yang Gao", degree: "Ph.D., Post-doc", image: "/img/yang.png", profile: ""},
         {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png", profile: ""},
         ],
     phds: [
@@ -56,11 +55,10 @@ team: {
     research_staff: [
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png", profile: "/profiles/chris"},
         {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png", profile: "/profiles/jeb"},
-        {name: "Fedor Adarichev", degree: "Hardware Engineer", image: "/img/fedor.png", profile: "/profiles/new"},
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png", profile: "/profiles/bonnie"},        
         ],
     masters_undergrads: [
-        {name: "Kana Huang", degree: "Masters", image: "/img/Kana.jpg", profile: "/profiles/new.md"},
+        {name: "Edward Huang", degree: "Masters", image: "/img/Kana.jpg", profile: "/profiles/new.md"},
         ],
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
@@ -73,13 +71,14 @@ team: {
          ],
     former_students: [
     		{name: "Rawan Alharbi", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
+		{name: "Yang Gao", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
 		{name: "Shibo Zhang", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
 		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc", profile: "/profiles/firstname_lastname"},
 		{name: "Sougata Sen", degree: "Postdoc", profile: ""},
 		{name: "Sal Aguinaga", degree: "Postdoc", profile: ""},
 		{name: "Shengjie Bi", degree: "Ph.D.", profile: ""},
 		{name: "Zhang Yun", degree: "Ph.D.", profile: ""},
-        {name: "Kitty Liu", degree: "BS", profile: ""},
+       		{name: "Kitty Liu", degree: "BS", profile: ""},
 		{name: "Rahul Matta", degree: "BA", profile: ""},
 		{name: "Megan Runge", degree: "MS", profile: ""},
 		{name: "William Stogin", degree: "BS", profile: ""},	
