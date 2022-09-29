@@ -47,7 +47,6 @@ team: {
         {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png", profile: ""},
         ],
     phds: [
-        {name: "Rawan Alharbi", degree: "Ph.D Candidate", image: "/img/p-1.png", profile: "/profiles/new"},
         {name: "Soroush Shahi", degree: "Ph.D Student", image: "/img/im-7.png", profile: "/profiles/soroush"},
         {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png", profile: "/profiles/glenn"},
         {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png", profile: "/profiles/boyang"},
@@ -73,6 +72,7 @@ team: {
         {name: "Lauren Wakschlag", degree: "Vice Chair for Scientific & Faculty Development, Department of Medical Social Sciences Director, Institute for Innovations in Developmental Sciences Professor of Medical Social Sciences,", profile: ""},                    
          ],
     former_students: [
+    		{name: "Rawan Alharbi", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
 		{name: "Shibo Zhang", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
 		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc", profile: "/profiles/firstname_lastname"},
 		{name: "Sougata Sen", degree: "Postdoc", profile: ""},
