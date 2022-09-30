@@ -2,7 +2,7 @@
 title: "Predicting the Next-Day Perceived and Physiological Stress of Pregnant Women by Using Machine Learning and Explainability: Algorithm Development and Validation"
 date: 2022-08-02T15:09:31-06:00
 draft: false
-authors: [{name: "Ada Ng", profile: "/profiles/firstname_lastname"}，{name: "Boyang Wei", profile: "/profiles/firstname_lastname"},{name: "Jayalakshmi Jain", profile: "/profiles/firstname_lastname"}，{name: "Erin A Ward", profile: "/profiles/firstname_lastname"}，{name: "S Darius Tandon", profile: "/profiles/firstname_lastname"}，{name: "Judith T Moskowitz", profile: "/profiles/firstname_lastname"}，{name: "Sheila Krogh-Jespersen", profile: "/profiles/firstname_lastname"}，{name: "Lauren S Wakschlag ", profile: "/profiles/firstname_lastname"}，{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
+authors: [{name: "Ada Ng", profile: "/profiles/firstname_lastname"}, {name: "Boyang Wei", profile: "/profiles/firstname_lastname"},{name: "Jayalakshmi Jain", profile: "/profiles/firstname_lastname"},{name: "Erin A Ward", profile: "/profiles/firstname_lastname"},{name: "S Darius Tandon", profile: "/profiles/firstname_lastname"},{name: "Judith T Moskowitz", profile: "/profiles/firstname_lastname"},{name: "Sheila Krogh-Jespersen", profile: "/profiles/firstname_lastname"},{name: "Lauren S Wakschlag", profile: "/profiles/firstname_lastname"},{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: false
 github_link: "https://github.com/"
 
