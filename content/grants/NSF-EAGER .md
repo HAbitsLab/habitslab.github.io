@@ -2,7 +2,7 @@
 title: "EAGER: Privacy Enhancing Framework to Advance Behavior Models"
 date: 2019-06-05 T15:09:31-06:00
 draft: false
-logo_image: "/img/nh.png"
+logo_image: "/img/nsf.png"
 start_year: 2019
 end_year: 2022
 funding_amount: "$299,471"
@@ -11,11 +11,11 @@ primary_investigator: {name: "Nabil Alshurafa",
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png",
                        profile: "https://www.github.com"}
-coinvestigators: [{name: "Aggelos Katsaggelos", title: "Prof. of Electrical and Computer Engineering and Computer Science", description: "description description description", img: "/img/im-8.png", profile: "https://www.github.com"}, 
-                {name: "Bonnie Spring", title: "Professor of Preventive Medicine (Behavioral Medicine), Psychiatry and Behavioral Sciences and Weinberg College of Arts and Sciences", description: "desction description description", img: "/img/im-7.png", profile: "https://www.github.com"},
+coinvestigators: [{name: "Aggelos Katsaggelos", title: "Prof. of Electrical and Computer Engineering and Computer Science", description: "description description description", img: "/img/aggelos.png", profile: "https://www.github.com"}, 
+                {name: "Bonnie Spring", title: "Professor of Preventive Medicine (Behavioral Medicine), Psychiatry and Behavioral Sciences and Weinberg College of Arts and Sciences", description: "desction description description", img: "/img/bonnie_spring.png", profile: "https://www.github.com"},
                 {name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science
-College of Computing, Georgia Institute of Technology", description: "desction description description", img: "/img/im-7.png", profile: "https://www.github.com"},
-                {name: "Andrea Graham", title: "Assistant Professor of Medical Social Sciences and Preventive Medicine", description: "desction description description", img: "/img/im-7.png", profile: "https://www.github.com"}]
+College of Computing, Georgia Institute of Technology", description: "desction description description", img: "/img/josiah.png", profile: "https://www.github.com"},
+                {name: "Andrea Graham", title: "Assistant Professor of Medical Social Sciences and Preventive Medicine", description: "desction description description", img: "/img/andrea_graham.png", profile: "https://www.github.com"}]
 ---
 
 ### 1. Introduction
