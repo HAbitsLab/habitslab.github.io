@@ -1,5 +1,5 @@
 ---
-title: "Lability of prenatal stress during the COVID‐19 pandemic links to negative affect in infancy"
+title: "Lability of prenatal stress during the COVID19 pandemic links to negative affect in infancy"
 date: 2022-09-07T15:09:31-06:00
 draft: false
 authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
