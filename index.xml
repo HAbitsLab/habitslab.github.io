@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Predicting the Next-Day Perceived and Physiological Stress of Pregnant Women by Using Machine Learning and Explainability: Algorithm Development and Validation</title>
+      <link>https://HAbitsLab.github.io/publications/predicting-the-next-day/</link>
+      <pubDate>Tue, 02 Aug 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/predicting-the-next-day/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+    <item>
       <title>ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable</title>
       <link>https://HAbitsLab.github.io/publications/actisight/</link>
       <pubDate>Mon, 21 Mar 2022 15:09:31 -0600</pubDate>
