@@ -10,7 +10,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        title: "Ph.D., Director of HABits Lab", 
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png",
-                       profile: "https://www.github.com"}
+                       profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=33330"}
 coinvestigators: [{name: "Aggelos Katsaggelos", title: "Prof. of Electrical and Computer Engineering and Computer Science", description: "description description description", img: "/img/aggelos.png", profile: "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html"}, 
                 {name: "Bonnie Spring", title: "Professor of Preventive Medicine (Behavioral Medicine), Psychiatry and Behavioral Sciences and Weinberg College of Arts and Sciences", description: "desction description description", img: "/img/bonnie_spring.png", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16136"},
                 {name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science
