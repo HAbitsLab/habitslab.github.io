@@ -31,7 +31,7 @@
       <pubDate>Tue, 02 Aug 2022 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/predicting-the-next-day/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>1. Background Cognitive behavioral therapy–based interventions are effective in reducing prenatal stress, which can have severe adverse health effects on mothers and newborns if unaddressed. Predicting next-day physiological or perceived stress can help to inform and enable pre-emptive interventions for a likely physiologically and perceptibly stressful day. Machine learning models are useful tools that can be developed to predict next-day physiological and perceived stress by using data collected from the previous day.</description>
     </item>
     
     <item>
