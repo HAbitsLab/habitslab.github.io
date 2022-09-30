@@ -53,5 +53,14 @@ demo demo demo</description>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
+    <item>
+      <title>EAGER: Privacy Enhancing Framework to Advance Behavior Models</title>
+      <link>https://HAbitsLab.github.io/grants/nsf-eager-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/grants/nsf-eager-/</guid>
+      <description>1. Introduction This project is designed to advance research on problematic eating behavior. The project investigates wearable sensors to measure eating behavior and developing models of behavior that comprise multiple observable behaviors such as eating alone or with friends, or chewing speed. These data can help scientists improve upon current traditional methods such as self-reported eating diaries, which tend to be inconsistent, sparse, and rarely timely. We capture human behavior using a custom wearable augmented camera.</description>
+    </item>
+    
   </channel>
 </rss>
