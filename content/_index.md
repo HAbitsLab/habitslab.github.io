@@ -173,7 +173,6 @@ FAQ: [
 # Contacts section
 contact_email: "mailto:mahdi.pedram@northwestern.edu"
 address: "680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611" 
-Hello
 ---
 
 <!-- lab description -->
