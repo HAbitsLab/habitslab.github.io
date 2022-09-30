@@ -8,12 +8,30 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Sep 2022 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Detecting Screen Presence with Activity-Oriented RGB Camera in Egocentric Videos</title>
+      <link>https://HAbitsLab.github.io/publications/screen-detection/</link>
+      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/screen-detection/</guid>
+      <description>Abstract Screen time is associated with several health risk behaviors including mindless eating, sedentary behavior, and decreased academic performance. Screen time behavior is traditionally assessed with self-report measures, which are known to be burdensome, inaccurate, and imprecise. Recent methods to automatically detect screen time are geared more towards detecting television screens from wearable cameras that record high-resolution video. Activity-oriented wearable cameras (i.e., cameras oriented towards the wearer with a fisheye lens) have recently been designed and shown to reduce privacy concerns, yet pose a greater challenge in capturing screens due to their orientation and fewer pixels on target.</description>
+    </item>
+    
+    <item>
+      <title>Impacts of Image Obfuscation on Fine-grained Activity Recognition in Egocentric Video</title>
+      <link>https://HAbitsLab.github.io/publications/impact-of-image-obfuscation/</link>
+      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/impact-of-image-obfuscation/</guid>
+      <description>Abstract Automated detection and validation of fine-grained human activities from egocentric vision has gained increased attention in recent years due to the rich information afforded by RGB images. However, it is not easy to discern how much rich information is necessary to detect the activity of interest reliably. Localization of hands and objects in the image has proven helpful to distinguishing between hand-related fine-grained activities. This paper describes the design of a hand-object-based mask obfuscation method (HOBM) and assesses its effect on automated recognition of fine-grained human activities.</description>
+    </item>
+    
+    <item>
       <title>SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T</title>
       <link>https://HAbitsLab.github.io/publications/smartact/</link>
       <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/publications/smartact/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <description>Abstract Researchers have been leveraging wearable cameras to both visually confirm and automatically detect individuals&amp;rsquo; eating habits. However, energy-intensive tasks such as continuously collecting and storing RGB images in memory, or running algorithms in real-time to automate detection of eating, greatly impacts battery life. Since eating moments are spread sparsely throughout the day, battery life can be mitigated by recording and processing data only when there is a high likelihood of eating.</description>
     </item>
     
     <item>
