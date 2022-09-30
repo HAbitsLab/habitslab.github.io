@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Dec 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T</title>
+      <link>https://HAbitsLab.github.io/publications/smartact/</link>
+      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/smartact/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
+    <item>
       <title>Soroush&#39;s paper got accepted at IEEE BHI-BSN 2022</title>
       <link>https://HAbitsLab.github.io/news/news10/</link>
       <pubDate>Wed, 28 Sep 2022 15:09:31 -0600</pubDate>

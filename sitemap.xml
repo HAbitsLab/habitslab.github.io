@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HAbitsLab.github.io/publications/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/smartact/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/news/</loc>
     <lastmod>2022-09-28T15:09:31-06:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2022-09-28T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/publications/prenatal-stress/</loc>
-    <lastmod>2022-09-07T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/</loc>
     <lastmod>2022-09-07T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/news/explainability/</loc>

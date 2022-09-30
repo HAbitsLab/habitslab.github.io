@@ -6,7 +6,16 @@
     <description>Recent content in Publications on HabitsLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Sep 2022 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T</title>
+      <link>https://HAbitsLab.github.io/publications/smartact/</link>
+      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/smartact/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+    </item>
+    
     <item>
       <title>Lability of prenatal stress during the COVID‐19 pandemic links to negative affect in infancy</title>
       <link>https://HAbitsLab.github.io/publications/prenatal-stress/</link>
