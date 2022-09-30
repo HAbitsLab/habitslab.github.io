@@ -26,5 +26,10 @@ The project explores the acceptability of obfuscation techniques on varied activ
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
 
+### 2. Publications
 
+1. Zhang, Shibo and Zhao, Yuqi and Nguyen, Dzung Tri and Xu, Runsheng and Sen, Sougata and Hester, Josiah and Alshurafa, Nabil "NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions" Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies , v.4 , 2020 10.1145/3397313
 
+2. Bolton, Connor and Fu, Kevin and Hester, Josiah and Han, Jun "How to curtail oversensing in the home" Communications of the ACM , v.63 , 2020 10.1145/3396261
+
+3. Alharbi, Rawan and Tolba, Mariam and Petito, Lucia C. and Hester, Josiah and Alshurafa, Nabil "To Mask or Not to Mask?: Balancing Privacy with Visual Confirmation Utility in Activity-Oriented Wearable Cameras" Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies , v.3 , 2019 10.1145/3351230
