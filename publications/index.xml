@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>ActiveSense: A Novel Active Learning Framework for Human Activity Recognition</title>
+      <link>https://HAbitsLab.github.io/publications/activesense/</link>
+      <pubDate>Fri, 06 May 2022 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/activesense/</guid>
+      <description>Abstract One of the persistent challenges in building machine-learned models for mobile health applications of fine-grained activity is the generation of accurate annotations with well-defined start/end time labels. Large amounts of unlabeled data exist, and annotation is often labor-intensive and costly. Moreover, it is not clear whether labeling all the data is even necessary to building the most effective machine-learned model. Active learning approaches harness model uncertainty by selecting the most informative samples, reducing the time and effort in labeling unnecessary segments of the data.</description>
+    </item>
+    
+    <item>
       <title>ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable</title>
       <link>https://HAbitsLab.github.io/publications/actisight/</link>
       <pubDate>Mon, 21 Mar 2022 15:09:31 -0600</pubDate>
@@ -464,15 +473,6 @@
       
       <guid>https://HAbitsLab.github.io/publications/determining-the-single-best-axis-for-exercise/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>ActiveSense: A Novel Active Learning Framework for Human Activity Recognition</title>
-      <link>https://HAbitsLab.github.io/publications/activesense/</link>
-      <pubDate>Tue, 06 May 2014 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/activesense/</guid>
-      <description>Abstract One of the persistent challenges in building machine-learned models for mobile health applications of fine-grained activity is the generation of accurate annotations with well-defined start/end time labels. Large amounts of unlabeled data exist, and annotation is often labor-intensive and costly. Moreover, it is not clear whether labeling all the data is even necessary to building the most effective machine-learned model. Active learning approaches harness model uncertainty by selecting the most informative samples, reducing the time and effort in labeling unnecessary segments of the data.</description>
     </item>
     
     <item>
