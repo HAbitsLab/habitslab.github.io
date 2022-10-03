@@ -2,8 +2,8 @@
 title: "Deep Learning in Human Activity Recognition with Wearable Sensors: A Review on Advances"
 date: 2022-02-14T15:09:31-06:00
 draft: false
-authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
-has_github_link: true
+authors: [{name: "Shibo Zhang", profile: ""}, {name: "Farzad Shahabi", profile: "/profiles/farzad"},  {name: "Nabil Alshurafa", profile: ""}]
+has_github_link: false
 github_link: "https://github.com/"
 
 ---
