@@ -7,7 +7,7 @@
            <div class="recent__news__wrapper  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
            {{$number_of_news_shown := .Params.number_of_news_shown}}
            {{ with .Site.GetPage "/news" }}
-               {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate (first 8 .Pages.ByDate.Reverse)) }}
+               {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate.Reverse (first 8 .Pages.ByDate.Reverse)) }}
                <div class="recent__news__list">
                    <div class="recent__news__date">
                        {{.Date.Format "Jan 2"}} <br>

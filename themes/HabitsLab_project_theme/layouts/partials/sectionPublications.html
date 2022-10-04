@@ -4,7 +4,7 @@
         <div class="publications__wrapper  wow fadeInUp" data-wow-duration="1100ms"
         data-wow-delay="400ms">
         {{ with .Site.GetPage "/publications" }}
-            {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate (first 7 .Pages.ByDate.Reverse)) }}
+            {{range (cond ((eq ($.Scratch.Get "fullList") true)) .Pages.ByDate.Reverse (first 7 .Pages.ByDate.Reverse)) }}
                 <div class="single__publication__item">
                     <div class="publication__date">
                         {{.Date.Format "01/02/2006"}}
