@@ -49,7 +49,7 @@ team: {
         {name: "Soroush Shahi", degree: "Ph.D Student", image: "/img/im-7.png", profile: "/profiles/soroush"},
         {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png", profile: "/profiles/glenn"},
         {name: "Boyang Wei", degree: "Ph.D Student", image: "/img/im-1.png", profile: "/profiles/boyang"},
-        {name: "Farzard Shahabi", degree: "Ph.D Student", image: "/img/im-2.png", profile: "/profiles/farzad"},
+        {name: "Farzad Shahabi", degree: "Ph.D Student", image: "/img/im-2.png", profile: "/profiles/farzad"},
 	    {name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg", profile: "/profiles/saki"},
         ],
     research_staff: [
