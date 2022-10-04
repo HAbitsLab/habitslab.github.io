@@ -11,10 +11,10 @@ primary_investigator: {name: "Nabil Alshurafa",
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png",
                        profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=33330"}
-coinvestigators: [{name: "Aggelos Katsaggelos", title: "Prof. of Electrical and Computer Engineering and Computer Science", description: "description description description", img: "/img/aggelos.png", profile: "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html"}, 
+                       
+coinvestigators: [{name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science
+College of Computing, Georgia Institute of Technology", description: "desction description description", img: "/img/josiah.png", profile: "https://josiahhester.com/cv/"},{name: "Aggelos Katsaggelos", title: "Prof. of Electrical and Computer Engineering and Computer Science", description: "description description description", img: "/img/aggelos.png", profile: "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html"}, 
                 {name: "Bonnie Spring", title: "Professor of Preventive Medicine (Behavioral Medicine), Psychiatry and Behavioral Sciences and Weinberg College of Arts and Sciences", description: "desction description description", img: "/img/bonnie_spring.png", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16136"},
-                {name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science
-College of Computing, Georgia Institute of Technology", description: "desction description description", img: "/img/josiah.png", profile: "https://josiahhester.com/cv/"},
                 {name: "Andrea Graham", title: "Assistant Professor of Medical Social Sciences and Preventive Medicine", description: "desction description description", img: "/img/andrea_graham.png", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=41225"}]
 ---
 
@@ -26,7 +26,14 @@ The project explores the acceptability of obfuscation techniques on varied activ
 
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
 
-### 2. Publications
+
+### 2. Device Firmware and Software Github
+ActiSight Hardware/Firmware: https://github.com/HAbitsLab/ActiSight
+SenseWhy Hardware/Firmware: https://github.com/HAbitsLab/R03-Wildcam
+WildCam Hardware/Firmware: https://github.com/HAbitsLab/R03-Wildcam
+SmartAct Hardware/Firmware: https://github.com/HAbitsLab/BSN22Trigger
+
+### 3. Publications
 
 1. Zhang, Shibo and Zhao, Yuqi and Nguyen, Dzung Tri and Xu, Runsheng and Sen, Sougata and Hester, Josiah and Alshurafa, Nabil "NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions" Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies , v.4 , 2020 10.1145/3397313
 
