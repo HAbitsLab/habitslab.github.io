@@ -64,7 +64,7 @@
     }
     .hero_2 {
         padding-right: 55px;
-        padding-top: 215px;
+        padding-top: 100px;
     }
     .hero__text h2 {
         font-size: 42px;
@@ -212,7 +212,7 @@
     }
     .hero_2 {
         padding-right: 30px;
-        padding-top: 180px;
+        padding-top: 100px;
     }
     .hero__text h2 {
         font-size: 38px;
@@ -945,7 +945,7 @@
     }
     .hero_2 {
         padding-right: 29px;
-        padding-top: 165px;
+        padding-top: 100px;
     }
     .video__Play__btn a {
         max-width: 47px;
@@ -1215,7 +1215,8 @@
     }
     .hero_2 {
         padding-right: 20px;
-        padding-top: 120px;
+        padding-top: 60px;
+        font-size: 0.7rem;
     }
     .ss {
         right: -20px;
