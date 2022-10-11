@@ -82,7 +82,7 @@ WildCam Hardware/Firmware: https://github.com/HAbitsLab/R03-Wildcam
 HeatSight is (A) a chest-worn wearable system consisting of five independent low-power thermal sensing arrays allowing a thermal Omni capture (180◦) of the wearer’s surroundings, including (B) the thermal radiation emitted from objects around the wearer, and (C) the human thermal signature emitted from the wearer’s body over time. These thermal human-object interaction signatures can be used for human activity detection. 
 ![image](/img/eager/hs1f.png) 
 ## SmartAct: A wearable smartcam
-Finally, we developed SmartAct:
+Diagram of the methodological framework; (a) We use a low-powered RGB-T wearable device to collect data. (b) The device stays in low power mode by only obtaining thermal images from a thermal sensor (c) The activation algorithm selects a candidate from the live stream of thermal images. (d) The candidates are further processed with a high-power task, either saving RGB correspondence to the disk or running a feeding gesture model that takes binary image motion as input. 
 ![image](/img/eager/sa1.png) 
 SmartAct Hardware/Firmware: https://github.com/HAbitsLab/BSN22Trigger  
 
