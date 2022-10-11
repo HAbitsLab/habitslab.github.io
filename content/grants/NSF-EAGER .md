@@ -18,7 +18,7 @@ College of Computing, Georgia Institute of Technology", description: "desction d
                 {name: "Andrea Graham", title: "Assistant Professor of Medical Social Sciences and Preventive Medicine", description: "desction description description", img: "/img/andrea_graham.png", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=41225"}]
 ---
 
-### 1. Introduction
+### Introduction
 
 This project is designed to advance research on problematic eating behavior. The project investigates wearable sensors to measure eating behavior and developing models of behavior that comprise multiple observable behaviors such as eating alone or with friends, or chewing speed. These data can help scientists improve upon current traditional methods such as self-reported eating diaries, which tend to be inconsistent, sparse, and rarely timely. We capture human behavior using a custom wearable augmented camera. Wearable cameras provide rich data, but raise privacy concerns. The project will address these concerns by building a framework using machine learning and information theory while including human-reported privacy concerns. The framework will address wearers' concerns that may limit recording authentic behavior in real-world settings and will optimize algorithms to enhance the detection and classification of human behavior.
 
@@ -30,7 +30,7 @@ Our system aims to provide robust and untethered monitoring of behavioral health
 This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
 
 
-### 2. Development
+### Development
 ## Prototyping the wearable
 ![image](/img/eager/PROTOTYPE.png)
 
@@ -79,7 +79,7 @@ Finally, we developed SmartAct:
 ![image](/img/eager/sa1.png) 
 SmartAct Hardware/Firmware: https://github.com/HAbitsLab/BSN22Trigger  
 
-### 3. Publications
+### Publications
 
 1. Zhang, Shibo and Zhao, Yuqi and Nguyen, Dzung Tri and Xu, Runsheng and Sen, Sougata and Hester, Josiah and Alshurafa, Nabil "NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions" Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies , v.4 , 2020 10.1145/3397313
 
