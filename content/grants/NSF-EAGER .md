@@ -79,7 +79,7 @@ We improved our alignment of the RGB and high-res thermal sensor inputs with a p
 
 WildCam Hardware/Firmware: https://github.com/HAbitsLab/R03-Wildcam  
 ## HeatSight: Thermal behavior understanding
-We experimented with thermal-only systems with HeatSight:  
+HeatSight is (A) a chest-worn wearable system consisting of five independent low-power thermal sensing arrays allowing a thermal Omni capture (180◦) of the wearer’s surroundings, including (B) the thermal radiation emitted from objects around the wearer, and (C) the human thermal signature emitted from the wearer’s body over time. These thermal human-object interaction signatures can be used for human activity detection. 
 ![image](/img/eager/hs1f.png) 
 ## SmartAct: A wearable smartcam
 Finally, we developed SmartAct:
