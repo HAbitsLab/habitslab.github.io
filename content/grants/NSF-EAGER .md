@@ -61,7 +61,7 @@ In our next iteration, we used a thermal array with a higher resolution (32x24),
 ![image](/img/eager/sw1.png)  
 We present the hardware schematic here:  
 ![image](/img/eager/sw5.png)
-### Activity Orietned Obfuscation
+### Activity Oriented Obfuscation
 ![image](/img/eager/activity-oriented-obfuscation.png)
 
 
