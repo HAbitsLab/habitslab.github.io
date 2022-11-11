@@ -3,8 +3,8 @@ title: "SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection
 date: 2022-09-29T15:09:31-06:00
 draft: false
 authors: [{name: "Soroush Shahi", profile: "/profiles/soroush"}, {name: "Mahdi Pedram", profile: "/profiles/mahdi"}, {name: "Glenn Fernandes", profile: "/profiles/glenn"}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com/"
+has_github_link: true
+github_link: "https://ieeexplore.ieee.org/abstract/document/9928492"
 
 ---
 
