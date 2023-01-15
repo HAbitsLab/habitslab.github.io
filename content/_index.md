@@ -60,6 +60,7 @@ team: {
     masters_undergrads: [
         {name: "Edward Chen", degree: "Undergrad", image: "/img/edward.JPG", profile: "/profiles/new.md"},
 	{name: "Helen Zhu", degree: "Undergrad", image: "/img/Helen.jpg", profile: "/profiles/new.md"},
+	{name: "Dwayne Morgan", degree: "Undergrad", image: "/img/Dwayne.jpg", profile: "/profiles/new.md"}
         ],
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
