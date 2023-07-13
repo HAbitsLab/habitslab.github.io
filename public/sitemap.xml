@@ -2,115 +2,273 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HAbitsLab.github.io/publications/</loc>
+    <lastmod>2023-01-13T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/smokemon/</loc>
+    <lastmod>2023-01-13T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/experience/</loc>
+    <lastmod>2023-01-01T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/news/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <lastmod>2023-01-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news6-copy/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/news/smokemon/</loc>
+    <lastmod>2022-11-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news6/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/screen-detection/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news7-copy/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/impact-of-image-obfuscation/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news7/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/smartact/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news8-copy/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/news/news10/</loc>
+    <lastmod>2022-09-28T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news8/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/prenatal-stress/</loc>
+    <lastmod>2022-09-07T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news4/</loc>
-    <lastmod>2022-01-07T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/news/explainability/</loc>
+    <lastmod>2022-08-02T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news5/</loc>
-    <lastmod>2022-01-06T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/predicting-the-next-day/</loc>
+    <lastmod>2022-08-02T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news3/</loc>
-    <lastmod>2022-01-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/activesense/</loc>
+    <lastmod>2022-05-06T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news2/</loc>
-    <lastmod>2022-01-03T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/actisight/</loc>
+    <lastmod>2022-03-21T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-2/</loc>
+    <loc>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</loc>
+    <lastmod>2022-02-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/profiles/chris/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/facebit/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/profiles/mahdi/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/profiles/new/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/profiles/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-3/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-4/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-5/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-6/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-7/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-8/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-9/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1/</loc>
+    <loc>https://HAbitsLab.github.io/publications/heatsight/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news1/</loc>
+    <loc>https://HAbitsLab.github.io/publications/vibroscale/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/projects/project1/</loc>
+    <loc>https://HAbitsLab.github.io/publications/wristsense-2021/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/projects/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</loc>
+    <lastmod>2021-12-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/coughtrigger/</loc>
+    <lastmod>2021-11-07T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/comparative-validity-of-mostly-unprocessed/</loc>
+    <lastmod>2021-10-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news9/</loc>
+    <lastmod>2021-08-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/grants/eat/</loc>
+    <lastmod>2021-07-27T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/grants/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <lastmod>2021-07-27T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-2/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/moving-the-dial-on-prenatal-stress-mechanisms/</loc>
+    <lastmod>2021-05-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-3/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/news/news11/</loc>
+    <lastmod>2021-04-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-4/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/unprotected-sun-exposure/</loc>
+    <lastmod>2021-04-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-5/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/projects/project5/</loc>
+    <lastmod>2021-03-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-6/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/projects/</loc>
+    <lastmod>2021-03-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-7/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/development-and-feasibility-of-a-configurable-assessment-messaging/</loc>
+    <lastmod>2021-03-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-8/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/grants/wildcam/</loc>
+    <lastmod>2021-01-29T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/ehealth-practices-in-cancer-survivors/</loc>
+    <lastmod>2020-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/towards-battery-free-body-sensor-networks/</loc>
+    <lastmod>2020-12-03T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news4/</loc>
+    <lastmod>2020-10-07T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news5/</loc>
+    <lastmod>2020-10-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news3/</loc>
+    <lastmod>2020-10-05T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/deep-generative-cross-modal-on-body-accelerometer/</loc>
+    <lastmod>2020-09-19T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/projects/project3/</loc>
+    <lastmod>2020-09-12T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/grants/behaviorsight/</loc>
+    <lastmod>2020-09-07T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/syncwise/</loc>
+    <lastmod>2020-09-04T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/projects/project1/</loc>
+    <lastmod>2020-09-03T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/necksense/</loc>
+    <lastmod>2020-06-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/projects/project2/</loc>
+    <lastmod>2020-06-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/projects/project4/</loc>
+    <lastmod>2020-06-12T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/panel/</loc>
+    <lastmod>2020-03-23T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/sensor-self-report-alignment-ssra/</loc>
+    <lastmod>2020-03-23T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/the-3rd-wristsense-panel/</loc>
+    <lastmod>2020-03-23T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/automatic-wearable-based-in-field-eating-detection/</loc>
+    <lastmod>2020-03-13T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/wristsense-2020/</loc>
+    <lastmod>2020-03-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/assessing-recall-of-personal-sun-exposure/</loc>
+    <lastmod>2019-12-04T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/counting-bites-with-bits/</loc>
+    <lastmod>2019-12-04T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/toward-a-precision-behavioral-medicine/</loc>
+    <lastmod>2019-12-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/young-african-american-womens-participation/</loc>
+    <lastmod>2019-10-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/micro-stress-ema/</loc>
+    <lastmod>2019-09-09T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/to-mask-or-not-to-mask/</loc>
+    <lastmod>2019-09-09T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news8/</loc>
+    <lastmod>2019-09-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news1/</loc>
+    <lastmod>2019-09-03T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news2/</loc>
+    <lastmod>2019-06-03T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/variation-in-daily-ultraviolet-light-exposure/</loc>
+    <lastmod>2019-02-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/is-more-always-better/</loc>
+    <lastmod>2018-12-27T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/predictors-of-cardiovascular-health-trends/</loc>
+    <lastmod>2018-11-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/habits-necklace/</loc>
+    <lastmod>2018-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/predicting-perceived-stress/</loc>
+    <lastmod>2018-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/estimating-caloric-intake-in-bedridden-hospital/</loc>
+    <lastmod>2018-09-26T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/i-cant-be-myself/</loc>
+    <lastmod>2018-09-18T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news6/</loc>
+    <lastmod>2018-09-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</loc>
+    <lastmod>2018-09-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/news7/</loc>
+    <lastmod>2018-07-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/i-sense-overeating/</loc>
+    <lastmod>2018-05-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/grants/sensewhy/</loc>
+    <lastmod>2017-12-05T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/wearable-food-intake-monitoring-technologies/</loc>
+    <lastmod>2017-03-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/a-robust-remote-health-monitoring/</loc>
+    <lastmod>2016-12-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/monitoring-eating-habits/</loc>
+    <lastmod>2015-03-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/a-framework-for-predicting-adherence/</loc>
+    <lastmod>2014-10-29T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/non-invasive-monitoring-of-eating/</loc>
+    <lastmod>2014-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/spectrogram-based-audio/</loc>
+    <lastmod>2014-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/breathsens/</loc>
+    <lastmod>2014-07-31T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/determining-the-single-best-axis-for-exercise/</loc>
+    <lastmod>2014-06-16T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/designing-a-robust-activity-recognition-framework/</loc>
+    <lastmod>2013-10-25T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/robust-human-intensity-varying/</loc>
+    <lastmod>2013-05-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/opportunistic-hierarchical-classification/</loc>
+    <lastmod>2012-06-20T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/categories/</loc>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/grants/nsf-eager-/</loc>
   </url><url>
     <loc>https://HAbitsLab.github.io/tags/</loc>
   </url>
