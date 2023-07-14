@@ -6,509 +6,94 @@
     <description>Recent content in Publications on HabitsLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal</title>
-      <link>https://HAbitsLab.github.io/publications/smokemon/</link>
-      <pubDate>Fri, 13 Jan 2023 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/smokemon/</guid>
-      <description>Abstract Smoking is the leading cause of preventable death worldwide. Cigarette smoke includes thousands of chemicals that are harmful and cause tobacco-related diseases. To date, the causality between human exposure to specific compounds and the harmful effects is unknown. A first step in closing the gap in knowledge has been measuring smoking topography, or how the smoker smokes the cigarette (puffs, puff volume, and duration). However, current gold-standard approaches to smoking topography involve expensive, bulky, and obtrusive sensor devices, creating unnatural smoking behavior and preventing their potential for real-time interventions in the wild.</description>
-    </item>
-    
-    <item>
-      <title>Detecting Screen Presence with Activity-Oriented RGB Camera in Egocentric Videos</title>
-      <link>https://HAbitsLab.github.io/publications/screen-detection/</link>
-      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/screen-detection/</guid>
-      <description>Abstract Screen time is associated with several health risk behaviors including mindless eating, sedentary behavior, and decreased academic performance. Screen time behavior is traditionally assessed with self-report measures, which are known to be burdensome, inaccurate, and imprecise. Recent methods to automatically detect screen time are geared more towards detecting television screens from wearable cameras that record high-resolution video. Activity-oriented wearable cameras (i.e., cameras oriented towards the wearer with a fisheye lens) have recently been designed and shown to reduce privacy concerns, yet pose a greater challenge in capturing screens due to their orientation and fewer pixels on target.</description>
-    </item>
-    
-    <item>
-      <title>Impacts of Image Obfuscation on Fine-grained Activity Recognition in Egocentric Video</title>
-      <link>https://HAbitsLab.github.io/publications/impact-of-image-obfuscation/</link>
-      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/impact-of-image-obfuscation/</guid>
-      <description>Abstract Automated detection and validation of fine-grained human activities from egocentric vision has gained increased attention in recent years due to the rich information afforded by RGB images. However, it is not easy to discern how much rich information is necessary to detect the activity of interest reliably. Localization of hands and objects in the image has proven helpful to distinguishing between hand-related fine-grained activities. This paper describes the design of a hand-object-based mask obfuscation method (HOBM) and assesses its effect on automated recognition of fine-grained human activities.</description>
-    </item>
-    
-    <item>
-      <title>SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T</title>
-      <link>https://HAbitsLab.github.io/publications/smartact/</link>
-      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/smartact/</guid>
-      <description>Abstract Researchers have been leveraging wearable cameras to both visually confirm and automatically detect individuals&amp;rsquo; eating habits. However, energy-intensive tasks such as continuously collecting and storing RGB images in memory, or running algorithms in real-time to automate detection of eating, greatly impacts battery life. Since eating moments are spread sparsely throughout the day, battery life can be mitigated by recording and processing data only when there is a high likelihood of eating.</description>
-    </item>
-    
-    <item>
-      <title>Lability of prenatal stress during the COVID19 pandemic links to negative affect in infancy</title>
-      <link>https://HAbitsLab.github.io/publications/prenatal-stress/</link>
-      <pubDate>Wed, 07 Sep 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/prenatal-stress/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Predicting the Next-Day Perceived and Physiological Stress of Pregnant Women by Using Machine Learning and Explainability: Algorithm Development and Validation</title>
-      <link>https://HAbitsLab.github.io/publications/predicting-the-next-day/</link>
-      <pubDate>Tue, 02 Aug 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/predicting-the-next-day/</guid>
-      <description>1. Background Cognitive behavioral therapy–based interventions are effective in reducing prenatal stress, which can have severe adverse health effects on mothers and newborns if unaddressed. Predicting next-day physiological or perceived stress can help to inform and enable pre-emptive interventions for a likely physiologically and perceptibly stressful day. Machine learning models are useful tools that can be developed to predict next-day physiological and perceived stress by using data collected from the previous day.</description>
-    </item>
-    
-    <item>
-      <title>ActiveSense: A Novel Active Learning Framework for Human Activity Recognition</title>
-      <link>https://HAbitsLab.github.io/publications/activesense/</link>
-      <pubDate>Fri, 06 May 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/activesense/</guid>
-      <description>Abstract One of the persistent challenges in building machine-learned models for mobile health applications of fine-grained activity is the generation of accurate annotations with well-defined start/end time labels. Large amounts of unlabeled data exist, and annotation is often labor-intensive and costly. Moreover, it is not clear whether labeling all the data is even necessary to building the most effective machine-learned model. Active learning approaches harness model uncertainty by selecting the most informative samples, reducing the time and effort in labeling unnecessary segments of the data.</description>
-    </item>
-    
-    <item>
-      <title>ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable</title>
-      <link>https://HAbitsLab.github.io/publications/actisight/</link>
-      <pubDate>Mon, 21 Mar 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/actisight/</guid>
-      <description>Wearable cameras provide an informative view of wearer activities, context, and interactions. Video obtained from wearable cameras is useful for life-logging, human activity recognition, visual confirmation, and other tasks widely utilized in mobile computing today. Extracting foreground information related to the wearer and separating irrelevant background pixels is the fundamental operation underlying these tasks. However, current wearer foreground extraction methods that depend on image data alone are slow, energy-inefficient, and even inaccurate in some cases, making many tasks–like activity recognition–challenging to implement in the absence of significant computational resources.</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning in Human Activity Recognition with Wearable Sensors: A Review on Advances</title>
-      <link>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</link>
-      <pubDate>Mon, 14 Feb 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</guid>
-      <description>Abstract Mobile and wearable devices have enabled numerous applications, including activity tracking, wellness monitoring, and human–computer interaction, that measure and improve our daily lives. Many of these applications are made possible by leveraging the rich collection of low-power sensors found in many mobile and wearable devices to perform human activity recognition (HAR). Recently, deep learning has greatly pushed the boundaries of HAR on mobile and wearable devices. This paper systematically categorizes and summarizes existing work that introduces deep learning methods for wearables-based HAR and provides a comprehensive analysis of the current advancements, developing trends, and major challenges.</description>
-    </item>
-    
-    <item>
-      <title>FaceBit: Smart Face Masks Platform</title>
-      <link>https://HAbitsLab.github.io/publications/facebit/</link>
-      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/facebit/</guid>
-      <description>1. Abstract The COVID-19 pandemic has dramatically increased the use of face masks across the world. Aside from physical distancing, they are among the most effective protection for healthcare workers and the general population. Face masks are passive devices, however, and cannot alert the user in case of improper fit or mask degradation. Additionally, face masks are optimally positioned to give unique insight into some personal health metrics. Recognizing this limitation and opportunity, we present FaceBit: an open-source research platform for smart face mask applications.</description>
-    </item>
-    
-    <item>
-      <title>Association of number of bites and eating speed with energy intake: Wearable technology results under free-living conditions</title>
-      <link>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</link>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-2/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</guid>
-      <description>1. Introduction Personalized weight management strategies are gaining interest. However, knowledge is limited regarding eating habits and association with energy intake, and current technologies limit assessment in free-living situations. We assessed associations between eating behavior and time of day with energy intake using a wearable camera under free-living conditions and explored if obesity modifies the associations
-RQ1: What associations are there between eating behaviors and energy intake among individuals with and without obesity?</description>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-2/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>HeatSight: Wearable Low-power Omni Thermal Sensing</title>
-      <link>https://HAbitsLab.github.io/publications/heatsight/</link>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-3/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/heatsight/</guid>
-      <description>Abstract Thermal information surrounding a person is a rich source for understanding and identifying personal activities. Different daily activities naturally emit distinct thermal signatures from both the human body and surrounding objects; these signatures exhibit both spatial and temporal components as objects move and thermal energy dissipates, for example, when drinking a cold beverage or smoking a cigarette. We present HeatSight, a wearable system that captures the thermal environment of the wearer and uses machine learning to infer human activity from thermal, spatial, and temporal information in that environment.</description>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-3/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>VibroScale: turning your smartphone into a weighing scale</title>
-      <link>https://HAbitsLab.github.io/publications/vibroscale/</link>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-4/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/vibroscale/</guid>
-      <description>1. Abstract Smartphones, with their ubiquity and plethora of embedded sensors enable on-the-go measurement. Here, we describe one novel measurement potential, weight measurement, by turning an everyday smartphone into a weighing scale. We describe VibroScale, our vibration-based approach to measuring the weight of objects that are small in size. Being able to objectively measure the weight of objects in free-living settings, without the burden of carrying a scale, has several possible uses, particularly in weighing small food items.</description>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-4/</guid>
+      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>WristSense 2021: Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices</title>
-      <link>https://HAbitsLab.github.io/publications/wristsense-2021/</link>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-5/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/wristsense-2021/</guid>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-5/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>Digitally characterizing the dynamics of multiple health behavior change.</title>
-      <link>https://HAbitsLab.github.io/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</link>
-      <pubDate>Wed, 01 Dec 2021 15:09:31 -0600</pubDate>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-6/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</guid>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-6/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>CoughTrigger: Earbuds IMU Based Cough Detection Activator Using An Energy-efficient Sensitivity-prioritized Time Series Classifier</title>
-      <link>https://HAbitsLab.github.io/publications/coughtrigger/</link>
-      <pubDate>Sun, 07 Nov 2021 15:09:31 -0600</pubDate>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-7/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/coughtrigger/</guid>
-      <description>Abstract Persistent coughs are a major symptom of respiratory-related diseases. Increasing research attention has been paid to detecting coughs using wearables, especially during the COVID-19 pandemic. Microphone is most widely used sensor to detect coughs. However, the intense power consumption needed to process audio hinders continuous audio-based cough detection on battery-limited commercial wearables, such as earbuds. We present CoughTrigger, which utilizes a lower-power sensor, inertial measurement unit (IMU), in earbuds as a cough detection activator to trigger a higher-power sensor for audio processing and classification.</description>
-    </item>
-    
-    <item>
-      <title>Comparative Validity of Mostly Unprocessed and Minimally Processed Food Items Differs Among Popular Commercial Nutrition Apps Compared with a Research Food Database</title>
-      <link>https://HAbitsLab.github.io/publications/comparative-validity-of-mostly-unprocessed/</link>
-      <pubDate>Fri, 15 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/comparative-validity-of-mostly-unprocessed/</guid>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-7/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>Moving the dial on prenatal stress mechanisms of neurodevelopmental vulnerability to mental health problems: A personalized prevention proof of concept</title>
-      <link>https://HAbitsLab.github.io/publications/moving-the-dial-on-prenatal-stress-mechanisms/</link>
-      <pubDate>Sat, 01 May 2021 15:09:31 -0600</pubDate>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-8/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/moving-the-dial-on-prenatal-stress-mechanisms/</guid>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-8/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>UNPROTECTED SUN EXPOSURE AND PHYSICAL ACTIVITY AMONG MELANOMA SURVIVORS AND FIRST-DEGREE RELATIVES</title>
-      <link>https://HAbitsLab.github.io/publications/unprotected-sun-exposure/</link>
-      <pubDate>Thu, 01 Apr 2021 15:09:31 -0600</pubDate>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy-9/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/unprotected-sun-exposure/</guid>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy-9/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>Development and feasibility of a Configurable Assessment Messaging Platform for Interventions (CAMPI)</title>
-      <link>https://HAbitsLab.github.io/publications/development-and-feasibility-of-a-configurable-assessment-messaging/</link>
-      <pubDate>Mon, 01 Mar 2021 15:09:31 -0600</pubDate>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1-copy/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/development-and-feasibility-of-a-configurable-assessment-messaging/</guid>
+      <guid>https://HAbitsLab.github.io/publications/publication1-copy/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
     <item>
-      <title>eHealth practices in cancer survivors with BMI in overweight or obese categories: Latent class analysis study</title>
-      <link>https://HAbitsLab.github.io/publications/ehealth-practices-in-cancer-survivors/</link>
-      <pubDate>Thu, 03 Dec 2020 15:09:31 -0600</pubDate>
+      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
+      <link>https://HAbitsLab.github.io/publications/publication1/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       
-      <guid>https://HAbitsLab.github.io/publications/ehealth-practices-in-cancer-survivors/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Towards Battery-Free Body Sensor Networks</title>
-      <link>https://HAbitsLab.github.io/publications/towards-battery-free-body-sensor-networks/</link>
-      <pubDate>Thu, 03 Dec 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/towards-battery-free-body-sensor-networks/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Deep generative cross-modal on-body accelerometer data synthesis from videos</title>
-      <link>https://HAbitsLab.github.io/publications/deep-generative-cross-modal-on-body-accelerometer/</link>
-      <pubDate>Sat, 19 Sep 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/deep-generative-cross-modal-on-body-accelerometer/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>SyncWISE: Window induced shift estimation for synchronization of video and Accelerometry from wearable sensors</title>
-      <link>https://HAbitsLab.github.io/publications/syncwise/</link>
-      <pubDate>Fri, 04 Sep 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/syncwise/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Necksense: A multi-sensor necklace for detecting eating activities in free-living conditions</title>
-      <link>https://HAbitsLab.github.io/publications/necksense/</link>
-      <pubDate>Mon, 15 Jun 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/necksense/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Panel: Evolving IoT Tech Enables Aging in Place</title>
-      <link>https://HAbitsLab.github.io/publications/panel/</link>
-      <pubDate>Mon, 23 Mar 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/panel/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Sensor Self-Report Alignment (SSRA): Reducing Sun Exposure Assessment Error</title>
-      <link>https://HAbitsLab.github.io/publications/sensor-self-report-alignment-ssra/</link>
-      <pubDate>Mon, 23 Mar 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/sensor-self-report-alignment-ssra/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>The 3rd WristSense Panel for Discussion Regarding How to Establish Objective Gold Standard Measurements for Health Constructs</title>
-      <link>https://HAbitsLab.github.io/publications/the-3rd-wristsense-panel/</link>
-      <pubDate>Mon, 23 Mar 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/the-3rd-wristsense-panel/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Automatic, wearable-based, in-field eating detection approaches for public health research: a scoping review</title>
-      <link>https://HAbitsLab.github.io/publications/automatic-wearable-based-in-field-eating-detection/</link>
-      <pubDate>Fri, 13 Mar 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/automatic-wearable-based-in-field-eating-detection/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>WristSense 2020: 6th Workshop on Sensing Systems and Applications using Wrist Worn Smart Devices-Welcome and Committees</title>
-      <link>https://HAbitsLab.github.io/publications/wristsense-2020/</link>
-      <pubDate>Sun, 01 Mar 2020 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/wristsense-2020/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Assessing recall of personal sun exposure by integrating UV dosimeter and self-reported data with a network flow framework</title>
-      <link>https://HAbitsLab.github.io/publications/assessing-recall-of-personal-sun-exposure/</link>
-      <pubDate>Wed, 04 Dec 2019 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/assessing-recall-of-personal-sun-exposure/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Counting bites with bits: expert workshop addressing calorie and macronutrient intake monitoring</title>
-      <link>https://HAbitsLab.github.io/publications/counting-bites-with-bits/</link>
-      <pubDate>Wed, 04 Dec 2019 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/counting-bites-with-bits/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Toward a precision behavioral medicine approach to addressing high-risk sun exposure: a qualitative analysis</title>
-      <link>https://HAbitsLab.github.io/publications/toward-a-precision-behavioral-medicine/</link>
-      <pubDate>Sun, 01 Dec 2019 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/toward-a-precision-behavioral-medicine/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Young African American women’s participation in an m-Health study in cardiovascular risk reduction: Feasibility, benefits, and barriers</title>
-      <link>https://HAbitsLab.github.io/publications/young-african-american-womens-participation/</link>
-      <pubDate>Tue, 01 Oct 2019 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/young-african-american-womens-participation/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Micro-stress EMA: A passive sensing framework for detecting in-the-wild stress in pregnant mothers</title>
-      <link>https://HAbitsLab.github.io/publications/micro-stress-ema/</link>
-      <pubDate>Mon, 09 Sep 2019 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/micro-stress-ema/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>To mask or not to mask? balancing privacy with visual confirmation utility in activity-oriented wearable cameras</title>
-      <link>https://HAbitsLab.github.io/publications/to-mask-or-not-to-mask/</link>
-      <pubDate>Mon, 09 Sep 2019 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/to-mask-or-not-to-mask/</guid>
-      <description>Abstract Activity-oriented cameras are increasingly being used to provide visual confirmation of specific hand-related activities in real-world settings. However, recent studies have shown that bystander privacy concerns limit participant willingness to wear a camera. Researchers have investigated different image obfuscation methods as an approach to enhance bystander privacy; however, these methods may have varying effects on the visual confirmation utility of the image, which we define as the ability of a human viewer to interpret the activity of the wearer in the image.</description>
-    </item>
-    
-    <item>
-      <title>Variation in daily ultraviolet light exposure and sun protection behaviours of melanoma survivors: an observational single-arm pilot study with a wearable sensor</title>
-      <link>https://HAbitsLab.github.io/publications/variation-in-daily-ultraviolet-light-exposure/</link>
-      <pubDate>Fri, 01 Feb 2019 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/variation-in-daily-ultraviolet-light-exposure/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Is more always better? Discovering incentivized mHealth intervention engagement related to health behavior trends</title>
-      <link>https://HAbitsLab.github.io/publications/is-more-always-better/</link>
-      <pubDate>Thu, 27 Dec 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/is-more-always-better/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Predictors of Cardiovascular Health Trends in College Students</title>
-      <link>https://HAbitsLab.github.io/publications/predictors-of-cardiovascular-health-trends/</link>
-      <pubDate>Tue, 06 Nov 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/predictors-of-cardiovascular-health-trends/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Habits necklace: A neck-worn sensor that captures eating related behavior and more</title>
-      <link>https://HAbitsLab.github.io/publications/habits-necklace/</link>
-      <pubDate>Mon, 08 Oct 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/habits-necklace/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Predicting Perceived Stress Through Mirco-EMAs and a Flexible Wearable ECG Device</title>
-      <link>https://HAbitsLab.github.io/publications/predicting-perceived-stress/</link>
-      <pubDate>Mon, 08 Oct 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/predicting-perceived-stress/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Estimating caloric intake in bedridden hospital patients with audio and neck-worn sensors</title>
-      <link>https://HAbitsLab.github.io/publications/estimating-caloric-intake-in-bedridden-hospital/</link>
-      <pubDate>Wed, 26 Sep 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/estimating-caloric-intake-in-bedridden-hospital/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>I can&#39;t be myself: effects of wearable cameras on the capture of authentic behavior in the wild</title>
-      <link>https://HAbitsLab.github.io/publications/i-cant-be-myself/</link>
-      <pubDate>Tue, 18 Sep 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/i-cant-be-myself/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Daily Minutes of Unprotected Sun Exposure (MUSE) inventory: measure description and comparisons to UVR sensor and sun protection survey data</title>
-      <link>https://HAbitsLab.github.io/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</link>
-      <pubDate>Sat, 01 Sep 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>I sense overeating: Motif-based machine learning framework to detect overeating using wrist-worn sensing</title>
-      <link>https://HAbitsLab.github.io/publications/i-sense-overeating/</link>
-      <pubDate>Tue, 01 May 2018 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/i-sense-overeating/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Wearable food intake monitoring technologies: A comprehensive review</title>
-      <link>https://HAbitsLab.github.io/publications/wearable-food-intake-monitoring-technologies/</link>
-      <pubDate>Wed, 01 Mar 2017 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/wearable-food-intake-monitoring-technologies/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>A robust remote health monitoring and data processing system for rural area with limited internet access</title>
-      <link>https://HAbitsLab.github.io/publications/a-robust-remote-health-monitoring/</link>
-      <pubDate>Thu, 15 Dec 2016 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/a-robust-remote-health-monitoring/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Monitoring eating habits using a piezoelectric sensor-based necklace</title>
-      <link>https://HAbitsLab.github.io/publications/monitoring-eating-habits/</link>
-      <pubDate>Sun, 01 Mar 2015 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/monitoring-eating-habits/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>A framework for predicting adherence in remote health monitoring systems</title>
-      <link>https://HAbitsLab.github.io/publications/a-framework-for-predicting-adherence/</link>
-      <pubDate>Wed, 29 Oct 2014 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/a-framework-for-predicting-adherence/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Non-invasive monitoring of eating behavior using spectrogram analysis in a wearable necklace</title>
-      <link>https://HAbitsLab.github.io/publications/non-invasive-monitoring-of-eating/</link>
-      <pubDate>Wed, 08 Oct 2014 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/non-invasive-monitoring-of-eating/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Spectrogram-based audio classification of nutrition intake</title>
-      <link>https://HAbitsLab.github.io/publications/spectrogram-based-audio/</link>
-      <pubDate>Wed, 08 Oct 2014 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/spectrogram-based-audio/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Breathsens: A continuous on-bed respiratory monitoring system with torso localization using an unobtrusive pressure sensing array</title>
-      <link>https://HAbitsLab.github.io/publications/breathsens/</link>
-      <pubDate>Thu, 31 Jul 2014 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/breathsens/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Determining the single best axis for exercise repetition recognition and counting on smartwatches</title>
-      <link>https://HAbitsLab.github.io/publications/determining-the-single-best-axis-for-exercise/</link>
-      <pubDate>Mon, 16 Jun 2014 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/determining-the-single-best-axis-for-exercise/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Designing a robust activity recognition framework for health and exergaming using wearable sensors</title>
-      <link>https://HAbitsLab.github.io/publications/designing-a-robust-activity-recognition-framework/</link>
-      <pubDate>Fri, 25 Oct 2013 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/designing-a-robust-activity-recognition-framework/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Robust human intensity-varying activity recognition using stochastic approximation in wearable sensors</title>
-      <link>https://HAbitsLab.github.io/publications/robust-human-intensity-varying/</link>
-      <pubDate>Mon, 06 May 2013 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/robust-human-intensity-varying/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>Opportunistic hierarchical classification for power optimization in wearable movement monitoring systems</title>
-      <link>https://HAbitsLab.github.io/publications/opportunistic-hierarchical-classification/</link>
-      <pubDate>Wed, 20 Jun 2012 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/opportunistic-hierarchical-classification/</guid>
+      <guid>https://HAbitsLab.github.io/publications/publication1/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
     
