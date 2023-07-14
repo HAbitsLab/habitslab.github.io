@@ -130,42 +130,13 @@
                         <div class="article__left  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                             
                             <p><h3 id="1-introduction">1. Introduction</h3>
-<p>Obesity, caused primarily by overeating relative to need, is a preventable chronic disease that affects 42.4% of US adults, increasing their risk of cardiovascular disease. Obesity also exacts staggering costs on the US healthcare system.</p>
-<p>A challenge in treating obesity is that, unlike substance abuse, the treatment goal cannot be simply to extinguish the ingestive behavior, as eating is necessary to sustain life. Obesity treatment would benefit greatly from an ability to discriminate between and intervene upon the specific problematic eating behavioral phenotypes that foster obesity.</p>
-<p>In the SenseWhy project, our approach is to identify eating patterns via wearable sensor data that characterize episodes of excess calorie intake. This approach may facilitate detection of known (e.g., emotional eating, impulsive eating in response to cues, hedonic eating) and novel eating phenotypes that have different treatment implications. A wearable system designed to detect overeating objectively and passively and then intervene in a manner that adapts to an individual’s problematic overeating profile
-paves the way toward personalized behavioral medicine interventions.</p>
-<h3 id="the-wearable-system">The wearable system</h3>
-<p>We first develop 3 wearables, each designed to capture different features of eating behavior.</p>
-<h4 id="chest-worn-infrared-activity-oriented-device-ir-aod">Chest-worn Infrared Activity-Oriented Device (IR-AOD)</h4>
-<p>The IRAOD is a chest-worn camera and thermal imager designed to visually capture the occurrence and context of eating episodes, providing ground truth against which other sensor metrics can be confirmed.</p>
-<h5 id="components-and-enclosure">Components and enclosure:</h5>
-<p><img src="/img/eager/sw1.png" alt="IR-AOD Schematica"></p>
-<h5 id="data-streams">Data streams</h5>
-<p>The IR-AOD is positioned on the center of the chest and points upward, orienting both sensors towards the face and mouth. RGB and thermal frames are shown below:</p>
-<p><img src="/img/eager/swcrop.png" alt="IR-AOD Preview"></p>
-<h4 id="necksense-necklace-device">NeckSense necklace device</h4>
-<p><img src="/img/eager/ns-fig1.png" alt="NeckSense System"></p>
-<p><a href="https://dl.acm.org/doi/pdf/10.1145/3397313">NeckSense</a> is a necklace with several onboard sensors, including proximity, ambient light, and IMU.</p>
-<p>The proximity sensor enables chew detection by capturing jaw movement. The ambient light sensor complements the proximity sensor and gives additional information about the eating environment. The IMU&rsquo;s gyroscope signal encodes the lean angle of the wearer, namely leaning forward (generally associated with eating) and leaning backwards (generally associated with drinking).</p>
-<p>Recording these signals in tandem allows us to characterize masticulation during eating in much greater detail than in typically possible, illuminating new features of eating behavior that may prove useful in our effort to define behavioral phenotypes.</p>
-<h4 id="smartwatch">Smartwatch</h4>
-<p>Using a custom application on a Fossil Sport smartwatch (AndroidOS), we record IMU and PPG data from the dominant wrist. Wrist IMU captures hand-to-mouth gestures (integral to eating) and also provides a proxy to physical activity/energy expenditure, the caloric counterbalance to eating/energy intake. Wrist PPG—a continuous measure of capillary blood oxygenation—serves as a proxy to heart rate and blood pressure, indicative of stress as well as general cardiovascular health.</p>
-<h5 id="wearable-system-overview">Wearable System Overview</h5>
-<p>Pictured below is a high-level example of how the SenseWhy wearable system characterizes an eating episode through the use of 3 multi-sensing devices worn concurrently and continuously:</p>
-<p><img src="/img/eager/sysov.png" alt="sys overview"></p>
-<h3 id="ema-self-reporting-and-24-hr-diet-recall">EMA, self-reporting, and 24-hr diet recall</h3>
-<p>In addition to passive sensing, we developed FoodTrck, a mobile application that participants use to record meals by photographing them and inputting affective and contextual information associated with the meal, both before and after eating occurs.</p>
-<p>We also utilize 24-hr diet recalls in which a trained dietitian contacts participants by telephone daily to ascertain via interview the food types and portions consumed on the prior day.</p>
-<h4 id="foodtrck">FoodTrck</h4>
-<p>A FoodTrck entry consists of 3 survey pages, each with its own unique prompts and collection instruments relevant to a given meal:</p>
-<p><img src="/img/eager/ft-ov.png" alt="FoodTrck overview"></p>
-<h4 id="diet-recall">Diet recall</h4>
-<p>In our proposed study, dietitans are able to supplement the standard 24-hr recall technique by viewing the meals recorded via FoodTrck. This allows dietitians to begin some of their inquiries into a participants diet from objective data rather than pure memory recall reporting.</p>
-<h3 id="sensewhy-study">SenseWhy Study</h3>
-<p>We recruited 60 participants with BMI &gt; 30 (obese) to record their eating intake with the SenseWhy wearable sensor, EMA, and diet recall system for 14 days. Sensors were worn during all waking hours, EMAs completed with every meal/snack, and diet recalls were completed daily.</p>
-<p>For a detailed explanation of our methodology, see our <a href="https://journals.sagepub.com/doi/10.1177/20552076231158314">study design paper</a>, published in Digital Health.</p>
-<h4 id="results">Results</h4>
-<p>Coming soon&hellip;</p>
+<p>Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</p>
+<p>Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed</p>
+<h3 id="rq1-how-do-different-activity-oriented-partial-obfuscation-filters-affect-the-visual-confirmation-utility-of-identifying-hand-related-activities-that-involve-hand-to-head-gestures-by-a-human-viewer">RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?</h3>
+<p>In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.</p>
+<p><img src="/img/ht.png" alt="Example image"></p>
+<h3 id="rq1-how-do-different-activity-oriented-partial-obfuscation-filters-affect-the-visual-confirmation-utility-of-identifying-hand-related-activities-that-involve-hand-to-head-gestures-by-a-human-viewer-1">RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?</h3>
+<p>In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.</p>
 </p>
                         </div>
                     </div>
@@ -179,7 +150,10 @@ paves the way toward personalized behavioral medicine interventions.</p>
        <p>Nabil Alshurafa<br>
               <b>Ph.D., Director of HABits Lab</b>
        </p>
-       <p>Assistant Professor of Preventive Medicine and of Computer Science, Northwestern University</p>
+       <p>Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.</p>
+       
+        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
+           href=https://www.github.com>Profile page</i></a>
        
        
 </div>
@@ -189,20 +163,23 @@ paves the way toward personalized behavioral medicine interventions.</p>
                                 
                                     <div class="investigator__wrapper">
        <div class="investigator__thumb">
-              <img src="/img/bonnie_spring.png" alt="image here">
+              <img src="/img/im-8.png" alt="image here">
        </div>
-       <p>Bonnie Spring<br>
-              <b>Director, Institute for Public Health and Medicine (IPHAM)</b>
+       <p>Name1<br>
+              <b>Researcher</b>
        </p>
+       
+       <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
+          href=https://www.github.com>Profile</i></a>
        
 </div>
                                 
                                     <div class="investigator__wrapper">
        <div class="investigator__thumb">
-              <img src="/img/tammy-stump.jpg" alt="image here">
+              <img src="/img/im-7.png" alt="image here">
        </div>
-       <p>Tammy Stump<br>
-              <b>Research Associate, Huntsman Cancer Institute, University of Utah</b>
+       <p>Name2<br>
+              <b>Researcher</b>
        </p>
        
        <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
