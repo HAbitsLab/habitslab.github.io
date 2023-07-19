@@ -63,7 +63,7 @@ team: {
 	{name: "Dwayne Morgan", degree: "Undergrad", image: "/img/Dwayne.jpg", profile: "/profiles/new.md"},
  	{name: "Tanmeet Butani", degree: "Masters", image: "/img/tanmeet.jpeg", profile: "/profiles/new.md"},
   	{name: "Gracelyn Shi", degree: "Undergrad", image: "/img/grace.jpg", profile: "/profiles/new.md"},
-  	{name: "Jiayi (Joey) Zheng", degree: "Masters", image: "/img/jiayi.png", profile: "/profiles/new.md"}
+  	{name: "Jiayi (Joey) Zheng", degree: "Masters", image: "/img/jiayi.png", profile: "/profiles/jiayi.md"}
         ],
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
