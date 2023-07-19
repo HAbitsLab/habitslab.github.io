@@ -12,7 +12,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        img: "/img/pro-big.png" ,
                        }
 coinvestigators: [{name: "Bonnie Spring", title: "Director, Institute for Public Health and Medicine (IPHAM)", description: "Professor of Preventive Medicine (Behavioral Medicine), Northwestern University", img: "/img/bonnie_spring.png"}, 
-                {name: "Tammy Stump", title: "Research Associate, Huntsman Cancer Institute, University of Utah", description: "desction description description", img: "/img/tammy-stump.jpg", profile: "https://www.github.com"}]
+                {name: "Tammy Stump", title: "Research Associate, Huntsman Cancer Institute, University of Utah", description: "desction description description", img: "/img/p-2.png"}]
 ---
 
 ### 1. Introduction

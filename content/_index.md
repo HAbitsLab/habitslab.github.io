@@ -41,10 +41,9 @@ team: {
     description: "We’re are a friendly , forward thinking collective, an approachable team with a can-do
                     attitude. Our curiosity and breadth of experience means we can turn our minds to new
                     challenges, combining the need for functionality with a desire for aesthetic value.",
-    researchers: [
-        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png", profile: "/profiles/mahdi"},
-        {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png", profile: ""},
-        ],
+    # researchers: [
+    #     {name: "Tas Hussain", degree: "Medicine Physician", image: "/img/tas.png", profile: ""},
+    #     ],
     phds: [
         {name: "Soroush Shahi", degree: "Ph.D Student", image: "/img/im-7.png", profile: "/profiles/soroush"},
         {name: "Glenn Fernandes", degree: "Ph.D Student", image: "/img/im-6.png", profile: "/profiles/glenn"},
@@ -53,6 +52,7 @@ team: {
 	    {name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg", profile: "/profiles/saki"},
         ],
     research_staff: [
+        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png", profile: "/profiles/mahdi"},
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png", profile: "/profiles/chris"},
         {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png", profile: "/profiles/jeb"},
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png", profile: "/profiles/bonnie"},        
