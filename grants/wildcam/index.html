@@ -129,14 +129,43 @@
                     <div class="col-lg-8 col-xl-9 col-md-8">
                         <div class="article__left  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                             
-                            <p><h3 id="1-introduction">1. Introduction</h3>
-<p>Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</p>
-<p>Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed</p>
-<h3 id="rq1-how-do-different-activity-oriented-partial-obfuscation-filters-affect-the-visual-confirmation-utility-of-identifying-hand-related-activities-that-involve-hand-to-head-gestures-by-a-human-viewer">RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?</h3>
+                            <p><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="background">Background</h3>
+<p>The research, assessment, and treatment of unhealthy eating habits all rely on self reporting. That is, the patient or client must record their own dietary intake by using a food journal. This method of diet tracking has <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/">proven problematic</a>, as much dietary information is lost due forgetting, non-adherence, dishonesty, and so forth. Because diet information is critical to the work of behavioral clinicians and researchers, a better method for diet monitoring is needed. In our project, &ldquo;WildCam&rdquo;, we aim to develop such a method via a wearable camera system, accounting for known user-experience issues associated with wearable cameras, including comfort, privacy concerns, and social stigma.</p>
+<h3 id="system-development">System Development</h3>
+<p>We develop &ldquo;WildCam&rdquo;, a wearable camera that sits on the chest and hosts an upward-facing sensor array that captures the user&rsquo;s face and mouth area with both RGB and infrared thermal imaging.</p>
+<h5 id="internal-design-schematics">Internal design schematics:</h5>
+<p><img src="/img/wc-sch-crop.gif" alt="Schematics GIF"></p>
+<!-- raw HTML omitted -->
+<p>A master PCB (light green) houses the MCU, which controls the attached thermal (red), RGB (dark green), and night vision (purple) modules. Users power the device on and off via a switch (black and grey). When the device is on, input from the thermal and RGB sensors is written to the onboard SD card (red and gold) in an encrypted format.</p>
+<h5 id="enclosure-design">Enclosure design</h5>
+<p><img src="/img/eager/wc2.gif" alt="Enclosure gif"></p>
+<p>WildCam&rsquo;s enclosure is a drop-safe 3D-printed casing made of a rigid filament. To account for different body shapes across the patient population, the backplate is removable and swappable with several other backplates of varying angles.</p>
+<h5 id="photo">Photo</h5>
+<p><img src="/img/wc-dummy.jpg" alt="Photo of device on dummy"></p>
+<p>The device on a mannequin. The neckband is adjustable to correct for height differences between patients.</p>
+<h5 id="obfuscation">Obfuscation</h5>
+<p>Wearable cameras raise obvious privacy concerns among users. Obfuscation—the automatic censoring of visual data that are not essential to the assessment of dietary behaviors—can protect patients from the unwanted capture of sensitive information, reducing privacy concern and increasing acceptability (AKA willingness to wear) of the device.</p>
+<p>In this project, we test 4 different obfuscation techniques in a randomized clinical trial:</p>
+<ol>
+<li>raw (no obfuscation)</li>
+<li>blur (sensitive information is blurred/pixelated)</li>
+<li>edge (sensitive information is blacked out)</li>
+<li>cartoon/avatar (a cartoon face covers the wearer&rsquo;s face)</li>
+</ol>
+<p><em>Examples:</em>
+<img src="/img/obf.gif" alt="Gif of obfuscation techniques"></p>
+<!-- raw HTML omitted -->
+<h3 id="research-approach">Research Approach</h3>
+<h5 id="research-question-1-how-do-different-activity-oriented-partial-obfuscation-filters-affect-the-visual-confirmation-utility-of-identifying-hand-related-activities-that-involve-hand-to-head-gestures-by-a-human-viewer">Research Question 1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?</h5>
+<p>We investigate the <em>visual confirmation utility</em> of obfuscated video frames. That is, we apply obfuscation to videos and then check whether the desired dietary information is still intact.</p>
 <p>In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.</p>
-<p><img src="/img/ht.png" alt="Example image"></p>
-<h3 id="rq1-how-do-different-activity-oriented-partial-obfuscation-filters-affect-the-visual-confirmation-utility-of-identifying-hand-related-activities-that-involve-hand-to-head-gestures-by-a-human-viewer-1">RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?</h3>
-<p>In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.</p>
+<h5 id="research-question-2-how-do-different-activity-oriented-partial-obfuscation-filters-affect-users-privacy-concerns-and-willingness-to-wear-the-device">Research Question 2: How do different activity-oriented partial obfuscation filters affect users&rsquo; privacy concerns and willingness to wear the device?</h5>
+<p>Second, we explore patient attitudes towards each of the obfuscation techniques by presenting them daily clips of the data they have collected with obfuscation applied (or, in the <em>raw</em> condition, not applied). We assess patient attitudes both through directly surveying them and by comparing the mean daily wear time of patients using each obfuscation setting.</p>
+<h4 id="results">Results</h4>
+<p>Our clinicial trial has concluded and we are now analyzing the data. A results paper is coming soon!</p>
 </p>
                         </div>
                     </div>
@@ -158,35 +187,6 @@
        
 </div>
 
-                             
-                                <h4>Co-investigator</h4>
-                                
-                                    <div class="investigator__wrapper">
-       <div class="investigator__thumb">
-              <img src="/img/im-8.png" alt="image here">
-       </div>
-       <p>Name1<br>
-              <b>Researcher</b>
-       </p>
-       
-       <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
-          href=https://www.github.com>Profile</i></a>
-       
-</div>
-                                
-                                    <div class="investigator__wrapper">
-       <div class="investigator__thumb">
-              <img src="/img/im-7.png" alt="image here">
-       </div>
-       <p>Name2<br>
-              <b>Researcher</b>
-       </p>
-       
-       <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
-          href=https://www.github.com>Profile</i></a>
-       
-</div>
-                                
                             
                             
                             
