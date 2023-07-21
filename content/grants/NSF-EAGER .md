@@ -2,7 +2,7 @@
 title: "EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models"
 date: 2019-06-05 T15:09:31-06:00
 draft: false
-logo_image: "/img/nsf.png"
+logo_image: "/img/NSF.png"
 start_year: 2019
 end_year: 2022
 funding_amount: "$299,471"

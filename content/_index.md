@@ -52,10 +52,10 @@ team: {
 	    {name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg", profile: "/profiles/saki"},
         ],
     research_staff: [
-        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.png", profile: "/profiles/mahdi"},
+        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.jpg", profile: "/profiles/mahdi"},
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png", profile: "/profiles/chris"},
-        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.png", profile: "/profiles/jeb"},
-        {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.png", profile: "/profiles/bonnie"},        
+        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.jpg", profile: "/profiles/jeb"},
+        {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.jpg", profile: "/profiles/bonnie"},        
         ],
     masters_undergrads: [
         {name: "Edward Chen", degree: "Undergrad", image: "/img/edward.JPG", profile: "/profiles/new.md"},
@@ -63,7 +63,7 @@ team: {
 	{name: "Dwayne Morgan", degree: "Undergrad", image: "/img/Dwayne.jpg", profile: "/profiles/new.md"},
  	{name: "Tanmeet Butani", degree: "Masters", image: "/img/tanmeet.jpeg", profile: "/profiles/new.md"},
   	{name: "Gracelyn Shi", degree: "Undergrad", image: "/img/grace.jpg", profile: "/profiles/new.md"},
-  	{name: "Jiayi (Joey) Zheng", degree: "Masters", image: "/img/jiayi.png", profile: "/profiles/jiayi.md"}
+  	{name: "Jiayi (Joey) Zheng", degree: "Masters", image: "/img/jiayi.jpg", profile: "/profiles/jiayi.md"}
         ],
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
