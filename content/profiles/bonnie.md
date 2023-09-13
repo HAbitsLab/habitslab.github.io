@@ -6,7 +6,7 @@ info: {name: "Bonnie Nolan",
       title: "Research Study Assistant",
       email: "bonnie.nolan@northwestern.edu",
       description: "(312) 503-1216",
-      img: "static\img\bonnie.jpg",
+      img: "img/bonnie.jpg",
       }
 ---
 
