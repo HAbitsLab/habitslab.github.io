@@ -1,20 +1,19 @@
 ---
-title: "Chris Romano"
-date: 2021-12-30T15:09:31-06:00
+title: "Bonnie Nolan"
+date: 2023-09-13
 draft: false
-info: {name: "Chris Romano",
-      title: "Research Study Coordinator",
-      email: "chris.romano@northwestern.edu",
-      description: "+1 (269) 598-1503",
-      img: "img/readme/head.jpg",}
+info: {name: "Bonnie Nolan",
+      title: "Research Study Assistant",
+      email: "bonnie.nolan@northwestern.edu",
+      description: "(312) 503-1216",
+      img: "static\img\bonnie.jpg"
+      }
 ---
 
 ### Education
 
-B.S. in Psychology, Loyola University Chicago
+B.A. in Biology, Hendrix College
 
 ### Research Interests
 
-experimental psychology, social cognition, human computer interaction, language, learning & behavior
-
-[comment]: <> (### Selected Publications)
+Animal/human behavior, mobile technology
