@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HAbitsLab.github.io/profiles/bonnie/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/profiles/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/publications/</loc>
     <lastmod>2023-01-13T15:09:31-06:00</lastmod>
   </url><url>
@@ -47,9 +53,6 @@
     <loc>https://HAbitsLab.github.io/publications/deep-learning-in-human-activity-recognition/</loc>
     <lastmod>2022-02-14T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/profiles/bonnie/</loc>
-    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
-  </url><url>
     <loc>https://HAbitsLab.github.io/profiles/chris/</loc>
     <lastmod>2021-12-30T15:09:31-06:00</lastmod>
   </url><url>
@@ -60,9 +63,6 @@
     <lastmod>2021-12-30T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/profiles/new/</loc>
-    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/profiles/</loc>
     <lastmod>2021-12-30T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</loc>
