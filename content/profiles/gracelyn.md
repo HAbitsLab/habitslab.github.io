@@ -1,17 +1,13 @@
 ---
-title: "Helen Zhu"
+title: "Gracelyn Shi"
 date: 2021-12-30T15:09:31-06:00
 draft: false
-info: {name: "Helen Zhu",
+info: {name: "Gracelyn Shi",
       title: "Undergraduate Research Assistant",
-      email: "helenzhu2025@u.northwestern.edu",
+      email: "GracelynShi2025@u.northwestern.edu",
       description: "",
-      img: "/img/Helen.jpg",}
+      img: "img/grace.jpg",}
 ---
 
-### Education
-
-
-### Research Interests
 
 [comment]: <> (### Selected Publications)

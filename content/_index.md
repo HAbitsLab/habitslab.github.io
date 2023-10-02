@@ -17,10 +17,10 @@ director:
        name: "Nabil Alshurafa",
        title: "Ph.D., Director of HABits Lab",
        university: "Northwestern University",
-       linkedIn: "https://www.linkedin.com/",
+       linkedIn: "https://www.linkedin.com/in/nabil-alshurafa-00380523/",
        twitter: "https://twitter.com/habitslab",
        email: "mailto:nabil@northwestern.edu",
-       profile: "/profiles/firstname_lastname"
+       profile: "/profiles/nabil"
     }
 
 # Missions section
@@ -53,17 +53,16 @@ team: {
         ],
     research_staff: [
         {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.jpg", profile: "/profiles/mahdi"},
-        {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/im-4.png", profile: "/profiles/chris"},
-        {name: "Jeb Sumeracki", degree: "Software Engineer", image: "/img/jeb.jpg", profile: "/profiles/jeb"},
+        {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/readme/head.jpg", profile: "/profiles/chris"},
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.jpg", profile: "/profiles/bonnie"},        
         ],
     masters_undergrads: [
-        {name: "Edward Chen", degree: "Undergrad", image: "/img/edward.JPG", profile: "/profiles/new.md"},
-	{name: "Helen Zhu", degree: "Undergrad", image: "/img/Helen.jpg", profile: "/profiles/new.md"},
-	{name: "Dwayne Morgan", degree: "Undergrad", image: "/img/Dwayne.jpg", profile: "/profiles/new.md"},
- 	{name: "Tanmeet Butani", degree: "Masters", image: "/img/tanmeet.jpeg", profile: "/profiles/new.md"},
-  	{name: "Gracelyn Shi", degree: "Undergrad", image: "/img/grace.jpg", profile: "/profiles/new.md"},
-  	{name: "Jiayi (Joey) Zheng", degree: "Masters", image: "/img/jiayi.jpg", profile: "/profiles/jiayi.md"}
+        {name: "Edward Chen", degree: "Undergrad", image: "/img/edward.JPG", profile: "/profiles/edward"},
+	{name: "Helen Zhu", degree: "Undergrad", image: "/img/Helen.jpg", profile: "/profiles/helen"},
+	{name: "Dwayne Morgan", degree: "Undergrad", image: "/img/Dwayne.jpg", profile: "/profiles/dwayne"},
+ 	{name: "Tanmeet Butani", degree: "Masters", image: "/img/tanmeet.jpeg", profile: "/profiles/tanmeet"},
+  	{name: "Gracelyn Shi", degree: "Undergrad", image: "/img/grace.jpg", profile: "/profiles/gracelyn"},
+  	{name: "Jiayi (Joey) Zheng", degree: "Masters", image: "/img/jiayi.jpg", profile: "/profiles/jiayi"}
         ],
     collaborators: [
 	{name: "Bonnie J Spring", degree: "Director, Institute for Public Health and Medicine (IPHAM) - Center for Behavior and Health. Professor in Preventive Medicine-Behavioral Medicine, Psychiatry and Behavioral Sciences and Weinberg College of Art", profile: "/profiles/firstname_lastname"},
@@ -75,10 +74,10 @@ team: {
         {name: "Lauren Wakschlag", degree: "Vice Chair for Scientific & Faculty Development, Department of Medical Social Sciences Director, Institute for Innovations in Developmental Sciences Professor of Medical Social Sciences,", profile: ""},                    
          ],
     former_students: [
-    		{name: "Rawan Alharbi", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
-		{name: "Yang Gao", degree: "Postdoc", profile: "/profiles/firstname_lastname"},
-		{name: "Shibo Zhang", degree: "Ph.D", profile: "/profiles/firstname_lastname"},
-		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc", profile: "/profiles/firstname_lastname"},
+    		{name: "Rawan Alharbi", degree: "Ph.D", profile: ""},
+		{name: "Yang Gao", degree: "Postdoc", profile: ""},
+		{name: "Shibo Zhang", degree: "Ph.D", profile: ""},
+		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc", profile: ""},
 		{name: "Sougata Sen", degree: "Postdoc", profile: ""},
 		{name: "Sal Aguinaga", degree: "Postdoc", profile: ""},
 		{name: "Shengjie Bi", degree: "Ph.D.", profile: ""},

@@ -11,7 +11,7 @@ info: {name: "Soroush Shahi",
 
 ### Education
 
-B.Sc. in Computer Engineering
+B.Sc. in Computer Engineering, University of Tehran
 
 ### Research Interests
 
