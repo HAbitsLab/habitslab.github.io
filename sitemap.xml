@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HAbitsLab.github.io/news/casmi/</loc>
+    <lastmod>2023-09-22T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/glenn-qual/</loc>
+    <lastmod>2023-09-22T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/</loc>
+    <lastmod>2023-09-22T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/profiles/bonnie/</loc>
     <lastmod>2023-09-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,14 +20,32 @@
     <loc>https://HAbitsLab.github.io/news/mahdidu/</loc>
     <lastmod>2023-08-15T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/</loc>
-    <lastmod>2023-08-15T15:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/publications/detecteatingsocialpresence/</loc>
+    <lastmod>2023-07-21T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/</loc>
+    <lastmod>2023-07-21T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/primo/</loc>
+    <lastmod>2023-06-09T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/news/glennjmir/</loc>
     <lastmod>2023-06-09T15:09:31-06:00</lastmod>
   </url><url>
+    <loc>https://HAbitsLab.github.io/publications/endtoendintake/</loc>
+    <lastmod>2023-05-16T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/news/palbud/</loc>
     <lastmod>2023-05-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/experience/</loc>
+    <lastmod>2023-04-28T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/iscartoonization/</loc>
+    <lastmod>2023-04-28T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/publications/sensewhydesign/</loc>
+    <lastmod>2023-04-27T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/news/cartoonchi/</loc>
     <lastmod>2023-04-09T15:09:31-06:00</lastmod>
@@ -31,9 +58,6 @@
   </url><url>
     <loc>https://HAbitsLab.github.io/news/wgn9smokemon/</loc>
     <lastmod>2023-02-14T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/publications/</loc>
-    <lastmod>2023-01-13T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/publications/smokemon/</loc>
     <lastmod>2023-01-13T15:09:31-06:00</lastmod>
@@ -84,6 +108,9 @@
     <lastmod>2021-12-30T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/publications/facebit/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/profiles/helen/</loc>
     <lastmod>2021-12-30T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/profiles/mahdi/</loc>

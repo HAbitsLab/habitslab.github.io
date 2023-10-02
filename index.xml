@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Dec 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Drs. Alshurafa &amp; Jacobs&#39; Prenatal Stress Work Profiled by CASMI</title>
+      <link>https://HAbitsLab.github.io/news/casmi/</link>
+      <pubDate>Fri, 22 Sep 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/casmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HABits Lab Student Glenn Fernandes Passes Qualifying Exam</title>
+      <link>https://HAbitsLab.github.io/news/glenn-qual/</link>
+      <pubDate>Fri, 22 Sep 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/news/glenn-qual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bonnie Nolan</title>
       <link>https://HAbitsLab.github.io/profiles/bonnie/</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
@@ -27,6 +45,24 @@ Research Interests Animal/human behavior, mobile technology</description>
     </item>
     
     <item>
+      <title>Detecting Eating and Social Presence with All Day Wearable RGB-T</title>
+      <link>https://HAbitsLab.github.io/publications/detecteatingsocialpresence/</link>
+      <pubDate>Fri, 21 Jul 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/detecteatingsocialpresence/</guid>
+      <description>Abstract Social presence has been known to impact eating behavior among people with obesity; however, the dual study of eating behavior and social presence in real-world settings is challenging due to the inability to reliably confirm the co-occurrence of these important factors. High-resolution video cameras can detect timing while providing visual confirmation of behavior; however, their potential to capture all-day behavior is limited by short battery lifetime and lack of autonomy in detection.</description>
+    </item>
+    
+    <item>
+      <title>An Explainable Artificial Intelligence Software Tool for Weight Management Experts (PRIMO): Mixed Methods Study</title>
+      <link>https://HAbitsLab.github.io/publications/primo/</link>
+      <pubDate>Fri, 09 Jun 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/primo/</guid>
+      <description>Abstract Background: Predicting the likelihood of success of weight loss interventions using machine learning (ML) models may enhance intervention effectiveness by enabling timely and dynamic modification of intervention components for nonresponders to treatment. However, a lack of understanding and trust in these ML models impacts adoption among weight management experts. Recent advances in the field of explainable artificial intelligence enable the interpretation of ML models, yet it is unknown whether they enhance model understanding, trust, and adoption among weight management experts.</description>
+    </item>
+    
+    <item>
       <title>Glenn Fernandes&#39; paper on explainable AI accepted by JMIR</title>
       <link>https://HAbitsLab.github.io/news/glennjmir/</link>
       <pubDate>Fri, 09 Jun 2023 15:09:31 -0600</pubDate>
@@ -36,12 +72,49 @@ Research Interests Animal/human behavior, mobile technology</description>
     </item>
     
     <item>
+      <title>An End-to-End Energy-Efficient Approach for Intake Detection With Low Inference Time Using Wrist-Worn Sensor</title>
+      <link>https://HAbitsLab.github.io/publications/endtoendintake/</link>
+      <pubDate>Tue, 16 May 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/endtoendintake/</guid>
+      <description>Abstract Automated detection of intake gestures with wearable sensors has been a critical area of research for advancing our understanding and ability to intervene in people’s eating behavior. Numerous algorithms have been developed and evaluated in terms of accuracy. However, ensuring the system is not only accurate in making predictions but also efficient in doing so is critical for real world deployment. Despite the growing research on accurate detection of intake gestures using wearables, many of these algorithms are often energy inefficient, impeding on-device deployment for continuous and real-time monitoring of diet.</description>
+    </item>
+    
+    <item>
       <title>HABits Lab partners with Palbud Inc. on autism wearable project</title>
       <link>https://HAbitsLab.github.io/news/palbud/</link>
       <pubDate>Mon, 01 May 2023 15:09:31 -0600</pubDate>
       
       <guid>https://HAbitsLab.github.io/news/palbud/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Experience: Barriers and Opportunities of Wearables for Eating Research</title>
+      <link>https://HAbitsLab.github.io/publications/experience/</link>
+      <pubDate>Fri, 28 Apr 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/experience/</guid>
+      <description>Abstract Wearable devices have long held the potential to provide real-time objective measures of behavior. However, due to challenges in real-world deployment, these systems are rarely tested rigorously in free-living settings. To reduce this challenge for future researchers, in this paper, we describe our experience developing several generations of a multi-sensor, neck-worn eating-detection system that has been tested with 130 participants across multiple studies in both laboratory and free-living settings. We describe the challenges faced in the development and deployment of the system by (1) presenting example deployment details captured either by the sensing system or the ground truth collector and (2) using structured interviews and surveys with developers and stakeholders of the system, collecting qualitative data on their experience.</description>
+    </item>
+    
+    <item>
+      <title>Is cartoonized life-vlogging the key to increasing adoption of activity-oriented wearable camera systems? </title>
+      <link>https://HAbitsLab.github.io/publications/iscartoonization/</link>
+      <pubDate>Fri, 28 Apr 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/iscartoonization/</guid>
+      <description>Abstract Health science researchers studying human behavior rely on wearable cameras to visually confirm behaviors in real-world settings. However, privacy concerns significantly impede their adoption. Lens orientation and activity-oriented cameras have potential in balancing the need to visually validate the wearers’ activities while reducing privacy concerns. To increase adoption and further alleviate privacy concerns while maintaining utility, generative stylizing approaches, like cartooning using generative adversarial networks (GANs), have recently shown promise.</description>
+    </item>
+    
+    <item>
+      <title>Rationale and design of the SenseWhy project: A passive sensing and ecological momentary assessment study on characteristics of overeating episodes</title>
+      <link>https://HAbitsLab.github.io/publications/sensewhydesign/</link>
+      <pubDate>Thu, 27 Apr 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/sensewhydesign/</guid>
+      <description>Abstract Objectives Overeating interventions and research often focus on single determinants and use subjective or nonpersonalized measures. We aim to (1) identify automatically detectable features that predict overeating and (2) build clusters of eating episodes that identify theoretically meaningful and clinically known problematic overeating behaviors (e.g., stress eating), as well as new phenotypes based on social and psychological features.
+Method Up to 60 adults with obesity in the Chicagoland area will be recruited for a 14-day free-living observational study.</description>
     </item>
     
     <item>
@@ -232,6 +305,15 @@ Research Interests experimental psychology, social cognition, human computer int
       
       <guid>https://HAbitsLab.github.io/publications/facebit/</guid>
       <description>1. Abstract The COVID-19 pandemic has dramatically increased the use of face masks across the world. Aside from physical distancing, they are among the most effective protection for healthcare workers and the general population. Face masks are passive devices, however, and cannot alert the user in case of improper fit or mask degradation. Additionally, face masks are optimally positioned to give unique insight into some personal health metrics. Recognizing this limitation and opportunity, we present FaceBit: an open-source research platform for smart face mask applications.</description>
+    </item>
+    
+    <item>
+      <title>Helen Zhu</title>
+      <link>https://HAbitsLab.github.io/profiles/helen/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/profiles/helen/</guid>
+      <description>Education Research Interests </description>
     </item>
     
     <item>
