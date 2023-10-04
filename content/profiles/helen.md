@@ -10,8 +10,6 @@ info: {name: "Helen Zhu",
 ---
 
 ### Education
-
-
-### Research Interests
+B.S. Computer Science & Biological Sciences, expected 2025, Northwestern University
 
 [comment]: <> (### Selected Publications)
