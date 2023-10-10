@@ -78,7 +78,9 @@
     
     <div class="header__area  wow fadeInDown" data-wow-duration="1100ms" data-wow-delay="400ms">
         <div class="logo__main">
-            <a href=""><img src=/img/logo-main.svg alt=""></a>
+            
+            
+            <a href="../../#home"><img src=/img/logo-main.svg alt=""></a>
         </div>
         <div class="main__menu">
             <ul>
@@ -130,13 +132,30 @@
                         <div class="article__left  wow fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
                             
                             <p><h3 id="1-introduction">1. Introduction</h3>
-<p>Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</p>
-<p>Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed</p>
-<h3 id="rq1-how-do-different-activity-oriented-partial-obfuscation-filters-affect-the-visual-confirmation-utility-of-identifying-hand-related-activities-that-involve-hand-to-head-gestures-by-a-human-viewer">RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?</h3>
-<p>In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.</p>
-<p><img src="/img/img-area.jpg" alt="Example image"></p>
-<h3 id="rq1-how-do-different-activity-oriented-partial-obfuscation-filters-affect-the-visual-confirmation-utility-of-identifying-hand-related-activities-that-involve-hand-to-head-gestures-by-a-human-viewer-1">RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?</h3>
-<p>In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.</p>
+<p>Many health-risk behaviors—such as overeating, smoking, drinking, substance abuse, and medication non-adherence—correlate with increased morbidity and mortality. Eliminating these behaviors can help prevent several diseases. However, this requires understanding, knowing, and altering what people put into their mouth. Current efforts to understand behaviors associated with detecting what people put in their mouth are limited and rely on inaccurate and biased self-reports. Detecting these behaviors objectively and in real time, learning to automatically predict them, and adaptively intervening to problematic behaviors will pave the way for novel behavioral interventions.</p>
+<p>Wearable video cameras can automatically detect these health-risk behaviors in real time, enabling personalized and adaptive interventions, while providing valuable visual confirmation of wearer’s activities to an end user (e.g., clinical team, health coach, and dietitian). However, video recordings pose serious bystander privacy concerns, which is a leading cause for people’s inhibition to wearing cameras in daily life. To address this concern, new methods must be developed to automatically detect health-risk behaviors and record videos of only the wearer and objects in close proximity to the wearer, while de-identifying distant objects or bystanders. Infrared (IR) sensor arrays have the potential to provide independent temperature readings, which allows determining whether an object is near or far. Applying machine learning algorithms to IR sensor array data enables detection of nearby objects (e.g., wearer’s hand, objects in the hand). These algorithms can further infer what the wearer is putting in his or her mouth.</p>
+<h3 id="aim-1-develop-a-new-lightweight-power-efficient-wearable-device-where-the-ir-sensor-controls-camera-recording">Aim 1: Develop a new, lightweight, power-efficient wearable device where the IR sensor controls camera recording</h3>
+<h4 id="__components__"><strong>Components</strong></h4>
+<p>We aimed for modularity in designing our component schematic, future-proofing the device against the removal of specific components from the market. We also prioritized energy-efficient components to reduce power draw of the device.</p>
+<h5 id="habitsense-components">HabitSense Components:</h5>
+<p><img src="/img/r21-components.png" alt="Example image"></p>
+<!-- raw HTML omitted -->
+<h4 id="__form-factor__"><strong>Form-Factor</strong></h4>
+<p>We iterated through several designs of the 3D-printed enclosure before arriving at our final design. We sought to devise a casing that is lightweight, slim, aesthetically pleasing, and composed of product-quality material.</p>
+<h5 id="habitsense-enclosure-iterations">HabitSense Enclosure Iterations:</h5>
+<p><img src="/img/r21-case.png" alt="Example image"></p>
+<!-- raw HTML omitted -->
+<h4 id="__comparison-to-past-iterations__"><strong>Comparison to past iterations</strong></h4>
+<p>This wasn&rsquo;t our first rodeo! Here is what earlier wearable camera systems we developed look like, to give a sense of how we found our way to the present design.</p>
+<h5 id="habitsense-generations">HabitSense Generations:</h5>
+<p><img src="/img/r21-generations.jpg" alt="Example image"></p>
+<!-- raw HTML omitted -->
+<h4 id="__thermal-rgb-triggering-system__"><strong>Thermal-RGB Triggering System</strong></h4>
+<h5 id="trigger-system-overview">Trigger System Overview:</h5>
+<p><img src="/img/r21-trigger.png" alt="Example image"></p>
+<!-- raw HTML omitted -->
+<h3 id="aim-2-develop-machine-learning-algorithms-to-reliably-detect-eating-and-smoking">Aim 2: Develop machine learning algorithms to reliably detect eating and smoking</h3>
+<h3 id="aim-3-validate-the-systems-ability-to-detect-and-visually-confirm-eating-and-smoking-in-real-time">Aim 3: Validate the system’s ability to detect and visually confirm eating and smoking in real time</h3>
 </p>
                         </div>
                     </div>
@@ -163,27 +182,11 @@
                                 
                                     <div class="investigator__wrapper">
        <div class="investigator__thumb">
-              <img src="/img/im-8.png" alt="image here">
+              <img src="/img/aggelos.png" alt="image here">
        </div>
-       <p>Name1<br>
-              <b>Researcher</b>
+       <p>Aggelos Katsaggelos<br>
+              <b>Assistant Professor of Computer Science</b>
        </p>
-       
-       <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
-          href=https://www.github.com>Profile</i></a>
-       
-</div>
-                                
-                                    <div class="investigator__wrapper">
-       <div class="investigator__thumb">
-              <img src="/img/im-7.png" alt="image here">
-       </div>
-       <p>Name2<br>
-              <b>Researcher</b>
-       </p>
-       
-       <a style="color: #4E2A84; margin-top: 0.5rem; border-bottom: 1px dotted #B6ACD1;" 
-          href=https://www.github.com>Profile</i></a>
        
 </div>
                                 
