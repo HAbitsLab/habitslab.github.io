@@ -27,7 +27,9 @@
     <!--------- Header area start --------->
     <div class="header__area  wow fadeInDown" data-wow-duration="1100ms" data-wow-delay="400ms">
         <div class="logo__main">
-            <a href=""><img src={{"/img/logo-main.svg" | relURL}} alt=""></a>
+            <!-- Logo with href "../../#home" meant to return user to homepage from anywhere on site -->
+            <!-- If homepage link causing issues, revert to blank -->
+            <a href="../../#home"><img src={{"/img/logo-main.svg" | relURL}} alt=""></a>
         </div>
         <div class="main__menu">
             <ul>

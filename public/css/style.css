@@ -320,6 +320,8 @@ a:hover {
 
 /*---------------------- Hero area start ----------------------*/
 
+/* Original bg image = ../img/hero-bg-1.png  */
+
 .hero__area {
     background: url(../img/hero-bg-1.png);
     background-position: center;
