@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HAbitsLab.github.io/news/ubicomp23/</loc>
+    <lastmod>2023-10-10T06:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/</loc>
+    <lastmod>2023-10-10T06:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/news/casmi/</loc>
     <lastmod>2023-09-22T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/news/glenn-qual/</loc>
-    <lastmod>2023-09-22T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/news/</loc>
     <lastmod>2023-09-22T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/profiles/bonnie/</loc>
