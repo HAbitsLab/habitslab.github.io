@@ -4,11 +4,11 @@ date: 2021-12-03T15:09:31-06:00
 draft: false
 cover:
     {
-        title: "We Are HABits <br> Lab",
-        image: "/img/s-1.png",
-        video_link: "https://www.youtube.com/watch?v=SMtumZNy4-Y",
+        title: "We Are <br> HABits Lab",
+        # image: "/img/s-1.png",
+        video_link: "https://www.youtube-nocookie.com/embed/bm6UjVNdwuM?si=6LYQppCOQzBd5__M",
         subtitle_left: "Where Preventive Medicine <br> Meets Computer Science",
-        subtitle_right: "we design, build and analyze end-to-end mhealth <br> systems, while focusing on processing its data to help <br> answer health-related questions.",
+        subtitle_right: "Designing, building and analyzing end-to-end mhealth <br> systems to help answer health-related questions.",
     }
 director:
     {
