@@ -323,33 +323,46 @@ a:hover {
 /* Original background image = ../img/hero-bg-1.jpg */
 
 .hero__area {
-    background: url(../img/hero-bg-1.jpg);
+    background: url(../img/hl-ps2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding-top: 380px;
+    padding-top: 485px;
     overflow: hidden;
 }
 
 .hero__content__wrapper h2 {
+    width: 63.78%;
     font-size: 80px;
     font-weight: 600;
     line-height: 1;
     color: #fff;
-    margin-bottom: 25px;
-    padding-bottom: 22px;
-    border-bottom: 1px solid #fff;
+    margin-bottom: 60px;
+    padding-bottom: 0px;
+    /* background-color: #422571; */
+    /* box-shadow: -100px 0 0 0 #422571, 0 -20px 0 #422571, -100px -20px 0 #422571, 15px 0 0 0 #422571, 35px -20px 0 0 #422571, 0 10px 0 #422571, -100px 10px 0 #422571, 35px 10px 0 #422571; */
+    /* outline: 20px solid #422571; */
+    /* border-bottom: 1px solid #fff; */
+}
+
+.hero__content__wrapper a {
+    max-width: 60px;
+    max-height: 56px;
+    display: inline-block;
 }
 
 .video__Play__btn {
     text-align: right;
     margin-bottom: 54px;
-    padding-right: 220px;
+    margin-right: 50%;
+    /* padding-right: 220px; */
+    margin-left: 38.5px;
 }
 
 .hero__content__wrapper {
-    padding-bottom: 62px;
+    padding-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .video__Play__btn a {
