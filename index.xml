@@ -45,6 +45,15 @@ Research Interests Animal/human behavior, mobile technology</description>
     </item>
     
     <item>
+      <title>An Explainable Artificial Intelligence Software Tool for Weight Management Experts (PRIMO): Mixed Methods Study</title>
+      <link>https://HAbitsLab.github.io/publications/primo/</link>
+      <pubDate>Wed, 06 Sep 2023 15:09:31 -0600</pubDate>
+      
+      <guid>https://HAbitsLab.github.io/publications/primo/</guid>
+      <description>Abstract Background: Predicting the likelihood of success of weight loss interventions using machine learning (ML) models may enhance intervention effectiveness by enabling timely and dynamic modification of intervention components for nonresponders to treatment. However, a lack of understanding and trust in these ML models impacts adoption among weight management experts. Recent advances in the field of explainable artificial intelligence enable the interpretation of ML models, yet it is unknown whether they enhance model understanding, trust, and adoption among weight management experts.</description>
+    </item>
+    
+    <item>
       <title>HABits Lab postdoc Mahdi Pedram accepts faculty position at Depaul University</title>
       <link>https://HAbitsLab.github.io/news/mahdidu/</link>
       <pubDate>Tue, 15 Aug 2023 15:09:31 -0600</pubDate>
@@ -60,15 +69,6 @@ Research Interests Animal/human behavior, mobile technology</description>
       
       <guid>https://HAbitsLab.github.io/publications/detecteatingsocialpresence/</guid>
       <description>Abstract Social presence has been known to impact eating behavior among people with obesity; however, the dual study of eating behavior and social presence in real-world settings is challenging due to the inability to reliably confirm the co-occurrence of these important factors. High-resolution video cameras can detect timing while providing visual confirmation of behavior; however, their potential to capture all-day behavior is limited by short battery lifetime and lack of autonomy in detection.</description>
-    </item>
-    
-    <item>
-      <title>An Explainable Artificial Intelligence Software Tool for Weight Management Experts (PRIMO): Mixed Methods Study</title>
-      <link>https://HAbitsLab.github.io/publications/primo/</link>
-      <pubDate>Fri, 09 Jun 2023 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/primo/</guid>
-      <description>Abstract Background: Predicting the likelihood of success of weight loss interventions using machine learning (ML) models may enhance intervention effectiveness by enabling timely and dynamic modification of intervention components for nonresponders to treatment. However, a lack of understanding and trust in these ML models impacts adoption among weight management experts. Recent advances in the field of explainable artificial intelligence enable the interpretation of ML models, yet it is unknown whether they enhance model understanding, trust, and adoption among weight management experts.</description>
     </item>
     
     <item>
