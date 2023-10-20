@@ -1,6 +1,6 @@
 ---
 title: "An Explainable Artificial Intelligence Software Tool for Weight Management Experts (PRIMO): Mixed Methods Study"
-date: 2023-06-09T15:09:31-06:00
+date: 2023-09-06T15:09:31-06:00
 draft: false
 authors: [{name: "Glenn Fernandes", profile: "/profiles/glenn"}, {name: "Arthur Choi", profile: ""}, {name: "Jacob Schauer", profile: ""}, {name: "Angela F Pfammatter", profile: ""}, {name: "Bonnie Spring", profile: ""},{name: "Adnan Darwiche", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
 has_github_link: false
