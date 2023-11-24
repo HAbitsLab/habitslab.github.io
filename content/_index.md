@@ -38,7 +38,7 @@ mission5_points: ["Behaviorist", "Interventionist", "Medical Expert"]
 # Team section
 team_image: "/img/groupv2.jpg"
 team: {
-    description: "We’re are a friendly , forward thinking collective, an approachable team with a can-do
+    description: "We’re are a friendly, forward thinking collective, an approachable team with a can-do
                     attitude. Our curiosity and breadth of experience means we can turn our minds to new
                     challenges, combining the need for functionality with a desire for aesthetic value.",
     # researchers: [
@@ -52,7 +52,7 @@ team: {
 	    {name: "Saki Amagai", degree: "Ph.D Student", image: "/img/saki.jpg", profile: "/profiles/saki"},
         ],
     research_staff: [
-        {name: "Mahdi Pedram", degree: "Ph.D., Lab Manager", image: "/img/mahdi.jpg", profile: "/profiles/mahdi"},
+        {name: "Mahdi Pedram", degree: "Ph.D., Adjunct Assistant Professor", image: "/img/mahdi.jpg", profile: "/profiles/mahdi"},
         {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/readme/head.jpg", profile: "/profiles/chris"},
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.jpg", profile: "/profiles/bonnie"},        
         ],
