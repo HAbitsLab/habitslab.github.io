@@ -6,52 +6,43 @@
     <description>Recent content in Grants on HabitsLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jul 2021 15:09:31 -0600</lastBuildDate>
+    <atom:link href="https://HAbitsLab.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EAT: A Reliable Eating Assessment Technology for Free-living Individuals</title>
       <link>https://HAbitsLab.github.io/grants/eat/</link>
       <pubDate>Tue, 27 Jul 2021 15:09:31 -0600</pubDate>
-      
       <guid>https://HAbitsLab.github.io/grants/eat/</guid>
       <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
     </item>
-    
     <item>
       <title>WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild</title>
       <link>https://HAbitsLab.github.io/grants/wildcam/</link>
       <pubDate>Fri, 29 Jan 2021 15:09:31 -0600</pubDate>
-      
       <guid>https://HAbitsLab.github.io/grants/wildcam/</guid>
       <description>Background The research, assessment, and treatment of unhealthy eating habits all rely on self reporting. That is, the patient or client must record their own dietary intake by using a food journal. This method of diet tracking has proven problematic, as much dietary information is lost due forgetting, non-adherence, dishonesty, and so forth. Because diet information is critical to the work of behavioral clinicians and researchers, a better method for diet monitoring is needed.</description>
     </item>
-    
     <item>
       <title>BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time</title>
       <link>https://HAbitsLab.github.io/grants/behaviorsight/</link>
       <pubDate>Mon, 07 Sep 2020 15:09:31 -0600</pubDate>
-      
       <guid>https://HAbitsLab.github.io/grants/behaviorsight/</guid>
       <description>1. Introduction Many health-risk behaviors—such as overeating, smoking, drinking, substance abuse, and medication non-adherence—correlate with increased morbidity and mortality. Eliminating these behaviors can help prevent several diseases. However, this requires understanding, knowing, and altering what people put into their mouth. Current efforts to understand behaviors associated with detecting what people put in their mouth are limited and rely on inaccurate and biased self-reports. Detecting these behaviors objectively and in real time, learning to automatically predict them, and adaptively intervening to problematic behaviors will pave the way for novel behavioral interventions.</description>
     </item>
-    
     <item>
       <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
       <link>https://HAbitsLab.github.io/grants/sensewhy/</link>
       <pubDate>Tue, 05 Dec 2017 15:09:31 -0600</pubDate>
-      
       <guid>https://HAbitsLab.github.io/grants/sensewhy/</guid>
       <description>1. Introduction Obesity, caused primarily by overeating relative to need, is a preventable chronic disease that affects 42.4% of US adults, increasing their risk of cardiovascular disease. Obesity also exacts staggering costs on the US healthcare system.
 A challenge in treating obesity is that, unlike substance abuse, the treatment goal cannot be simply to extinguish the ingestive behavior, as eating is necessary to sustain life. Obesity treatment would benefit greatly from an ability to discriminate between and intervene upon the specific problematic eating behavioral phenotypes that foster obesity.</description>
     </item>
-    
     <item>
       <title>EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models</title>
       <link>https://HAbitsLab.github.io/grants/nsf-eager-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://HAbitsLab.github.io/grants/nsf-eager-/</guid>
       <description>Introduction Studying human behavior has traditionally been theory-based, deriving a set of constructs or complex concepts (e.g., self-efficacy or attitude towards behavior) and relationships between variables to explain or predict behavior and then subjecting components of the theory to empirical testing. Ecological momentary assessments (EMAs) allow participants to report behavior when events occur using their smartphones. However, they are still prone to bias and prevent contextual understanding of behavior in free-living settings.</description>
     </item>
-    
   </channel>
 </rss>
