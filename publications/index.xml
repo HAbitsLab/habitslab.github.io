@@ -4,7 +4,7 @@
     <title>Publications on HabitsLab</title>
     <link>https://HAbitsLab.github.io/publications/</link>
     <description>Recent content in Publications on HabitsLab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Sep 2023 15:09:31 -0600</lastBuildDate>
     <atom:link href="https://HAbitsLab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
@@ -48,8 +48,7 @@
       <link>https://HAbitsLab.github.io/publications/sensewhydesign/</link>
       <pubDate>Thu, 27 Apr 2023 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/publications/sensewhydesign/</guid>
-      <description>Abstract Objectives Overeating interventions and research often focus on single determinants and use subjective or nonpersonalized measures. We aim to (1) identify automatically detectable features that predict overeating and (2) build clusters of eating episodes that identify theoretically meaningful and clinically known problematic overeating behaviors (e.g., stress eating), as well as new phenotypes based on social and psychological features.
-Method Up to 60 adults with obesity in the Chicagoland area will be recruited for a 14-day free-living observational study.</description>
+      <description>Abstract Objectives Overeating interventions and research often focus on single determinants and use subjective or nonpersonalized measures. We aim to (1) identify automatically detectable features that predict overeating and (2) build clusters of eating episodes that identify theoretically meaningful and clinically known problematic overeating behaviors (e.g., stress eating), as well as new phenotypes based on social and psychological features.&#xA;Method Up to 60 adults with obesity in the Chicagoland area will be recruited for a 14-day free-living observational study.</description>
     </item>
     <item>
       <title>SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal</title>
@@ -126,8 +125,7 @@ Method Up to 60 adults with obesity in the Chicagoland area will be recruited fo
       <link>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/publications/association-of-number-of-bites/</guid>
-      <description>1. Introduction Personalized weight management strategies are gaining interest. However, knowledge is limited regarding eating habits and association with energy intake, and current technologies limit assessment in free-living situations. We assessed associations between eating behavior and time of day with energy intake using a wearable camera under free-living conditions and explored if obesity modifies the associations
-RQ1: What associations are there between eating behaviors and energy intake among individuals with and without obesity?</description>
+      <description>1. Introduction Personalized weight management strategies are gaining interest. However, knowledge is limited regarding eating habits and association with energy intake, and current technologies limit assessment in free-living situations. We assessed associations between eating behavior and time of day with energy intake using a wearable camera under free-living conditions and explored if obesity modifies the associations&#xA;RQ1: What associations are there between eating behaviors and energy intake among individuals with and without obesity?</description>
     </item>
     <item>
       <title>HeatSight: Wearable Low-power Omni Thermal Sensing</title>
