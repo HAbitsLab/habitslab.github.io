@@ -53,7 +53,7 @@ team: {
         ],
     research_staff: [
         {name: "Mahdi Pedram", degree: "Ph.D., Adjunct Assistant Professor", image: "/img/mahdi.jpg", profile: "/profiles/mahdi"},
-        {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/readme/head.jpg", profile: "/profiles/chris"},
+        {name: "Chris Romano", degree: "Research Study Coordinator", image: "/img/readme/csr.jpg", profile: "/profiles/chris"},
         {name: "Bonnie Nolan", degree: "Research Study Assistant", image: "/img/bonnie.jpg", profile: "/profiles/bonnie"},        
         ],
     masters_undergrads: [

@@ -6,7 +6,7 @@ info: {name: "Chris Romano",
       title: "Research Study Coordinator",
       email: "chris.romano@northwestern.edu",
       description: "+1 (269) 598-1503",
-      img: "img/readme/head.jpg",}
+      img: "img/readme/csr.jpg",}
 ---
 
 ### Education
