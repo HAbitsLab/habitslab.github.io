@@ -2,91 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grants on HabitsLab</title>
-    <link>https://HAbitsLab.github.io/grants/</link>
+    <link>http://localhost:1313/grants/</link>
     <description>Recent content in Grants on HabitsLab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jul 2021 15:09:31 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/grants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EAT: A Reliable Eating Assessment Technology for Free-living Individuals</title>
+      <link>http://localhost:1313/grants/eat/</link>
+      <pubDate>Tue, 27 Jul 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/eat/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild</title>
+      <link>http://localhost:1313/grants/wildcam/</link>
+      <pubDate>Fri, 29 Jan 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/wildcam/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;p&gt;The research, assessment, and treatment of unhealthy eating habits all rely on self reporting. That is, the patient or client must record their own dietary intake by using a food journal. This method of diet tracking has &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/&#34;&gt;proven problematic&lt;/a&gt;, as much dietary information is lost due forgetting, non-adherence, dishonesty, and so forth. Because diet information is critical to the work of behavioral clinicians and researchers, a better method for diet monitoring is needed. In our project, &amp;ldquo;WildCam&amp;rdquo;, we aim to develop such a method via a wearable camera system, accounting for known user-experience issues associated with wearable cameras, including comfort, privacy concerns, and social stigma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time</title>
+      <link>http://localhost:1313/grants/behaviorsight/</link>
+      <pubDate>Mon, 07 Sep 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/behaviorsight/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Many health-risk behaviors—such as overeating, smoking, drinking, substance abuse, and medication non-adherence—correlate with increased morbidity and mortality. Eliminating these behaviors can help prevent several diseases. However, this requires understanding, knowing, and altering what people put into their mouth. Current efforts to understand behaviors associated with detecting what people put in their mouth are limited and rely on inaccurate and biased self-reports. Detecting these behaviors objectively and in real time, learning to automatically predict them, and adaptively intervening to problematic behaviors will pave the way for novel behavioral interventions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-2/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-2/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <link>http://localhost:1313/grants/sensewhy/</link>
+      <pubDate>Tue, 05 Dec 2017 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/sensewhy/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Obesity, caused primarily by overeating relative to need, is a preventable chronic disease that affects 42.4% of US adults, increasing their risk of cardiovascular disease. Obesity also exacts staggering costs on the US healthcare system.&lt;/p&gt;&#xA;&lt;p&gt;A challenge in treating obesity is that, unlike substance abuse, the treatment goal cannot be simply to extinguish the ingestive behavior, as eating is necessary to sustain life. Obesity treatment would benefit greatly from an ability to discriminate between and intervene upon the specific problematic eating behavioral phenotypes that foster obesity.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-3/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-3/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models</title>
+      <link>http://localhost:1313/grants/nsf-eager-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/grants/nsf-eager-/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Studying human behavior has traditionally been theory-based, deriving a set of constructs or complex concepts (e.g., self-efficacy or attitude towards behavior) and relationships between variables to explain or predict behavior and then subjecting components of the theory to empirical testing. Ecological momentary assessments (EMAs) allow participants to report behavior when events occur using their smartphones. However, they are still prone to bias and prevent contextual understanding of behavior in free-living settings. Wearable mobile sensors enable quantitative representation of coarse (e.g., a person eating alone or with friends) and fine-grained behaviors (e.g., number of feeding gestures), facilitating the development of new behavioral models that explain and predict problematic behavior such as overeating. This will allow the behaviorist to construct models that more closely represent reality and enable the improved design of interventions that change behavior. However, building models of these behaviors requires a reliable, consistent, and constant source of ground truth for development and verification. Researchers can automatically uncover contextual information about human behavior in their natural habitat using wearable cameras combined with IR-sensor arrays and advanced computational methods. However, wearers&amp;rsquo; perception of the bystanders&amp;rsquo; privacy concerns is reported to be the leading reason people are not willing to wear cameras in daily life continuously.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-4/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-4/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-5/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-5/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-6/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-6/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-7/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-7/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-8/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-8/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
-    <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
-    </item>
-    
   </channel>
 </rss>

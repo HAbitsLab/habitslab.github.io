@@ -2,116 +2,376 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://HAbitsLab.github.io/news/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/nirsighted/</loc>
+    <lastmod>2024-09-11T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news6-copy/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/</loc>
+    <lastmod>2024-09-11T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news6/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/habitsense/</loc>
+    <lastmod>2024-09-09T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news7-copy/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/shibosensors/</loc>
+    <lastmod>2024-06-04T12:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news7/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-06-04T12:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news8-copy/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/ubicomp23/</loc>
+    <lastmod>2023-10-10T06:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news8/</loc>
-    <lastmod>2022-01-08T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/casmi/</loc>
+    <lastmod>2023-09-22T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news4/</loc>
-    <lastmod>2022-01-07T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/glenn-qual/</loc>
+    <lastmod>2023-09-22T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news5/</loc>
-    <lastmod>2022-01-06T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/profiles/bonnie/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news3/</loc>
-    <lastmod>2022-01-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/profiles/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news2/</loc>
-    <lastmod>2022-01-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/primo/</loc>
+    <lastmod>2023-09-06T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-2/</loc>
+    <loc>http://localhost:1313/news/mahdidu/</loc>
+    <lastmod>2023-08-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/detecteatingsocialpresence/</loc>
+    <lastmod>2023-07-21T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/glennjmir/</loc>
+    <lastmod>2023-06-09T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/endtoendintake/</loc>
+    <lastmod>2023-05-16T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/palbud/</loc>
+    <lastmod>2023-05-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/experience/</loc>
+    <lastmod>2023-04-28T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/iscartoonization/</loc>
+    <lastmod>2023-04-28T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/sensewhydesign/</loc>
+    <lastmod>2023-04-27T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/cartoonchi/</loc>
+    <lastmod>2023-04-09T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/fox32smokemon/</loc>
+    <lastmod>2023-02-21T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/digitaltrendssmokemon/</loc>
+    <lastmod>2023-02-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/wgn9smokemon/</loc>
+    <lastmod>2023-02-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/smokemon/</loc>
+    <lastmod>2023-01-13T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/experience/</loc>
+    <lastmod>2023-01-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/rawanapple/</loc>
+    <lastmod>2022-11-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/smokemon/</loc>
+    <lastmod>2022-11-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/shibohp/</loc>
+    <lastmod>2022-10-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/screen-detection/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/impact-of-image-obfuscation/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/smartact/</loc>
+    <lastmod>2022-09-29T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news10/</loc>
+    <lastmod>2022-09-28T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/prenatal-stress/</loc>
+    <lastmod>2022-09-07T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/explainability/</loc>
+    <lastmod>2022-08-02T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/predicting-the-next-day/</loc>
+    <lastmod>2022-08-02T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/activesense/</loc>
+    <lastmod>2022-05-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/actisight/</loc>
+    <lastmod>2022-03-21T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/deep-learning-in-human-activity-recognition/</loc>
+    <lastmod>2022-02-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/boyang/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/chris/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/dwayne/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/edward/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/facebit/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/farzad/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/glenn/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/gracelyn/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/helen/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/jiayi/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/mahdi/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/new/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/nabil/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/saki/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/soroush/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/profiles/tanmeet/</loc>
+    <lastmod>2021-12-30T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/association-of-number-of-bites/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-3/</loc>
+    <loc>http://localhost:1313/publications/heatsight/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-4/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-5/</loc>
+    <loc>http://localhost:1313/publications/vibroscale/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-6/</loc>
+    <loc>http://localhost:1313/publications/wristsense-2021/</loc>
     <lastmod>2021-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-7/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</loc>
+    <lastmod>2021-12-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-8/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/coughtrigger/</loc>
+    <lastmod>2021-11-07T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy-9/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/comparative-validity-of-mostly-unprocessed/</loc>
+    <lastmod>2021-10-15T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1-copy/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/news9/</loc>
+    <lastmod>2021-08-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/publication1/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/grants/eat/</loc>
+    <lastmod>2021-07-27T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/grants/</loc>
+    <lastmod>2021-07-27T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/news1/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/moving-the-dial-on-prenatal-stress-mechanisms/</loc>
+    <lastmod>2021-05-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/projects/project1/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/news11/</loc>
+    <lastmod>2021-04-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/projects/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/unprotected-sun-exposure/</loc>
+    <lastmod>2021-04-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/publications/</loc>
-    <lastmod>2021-12-03T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/projects/project5/</loc>
+    <lastmod>2021-03-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2021-03-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-2/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/development-and-feasibility-of-a-configurable-assessment-messaging/</loc>
+    <lastmod>2021-03-01T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-3/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/grants/wildcam/</loc>
+    <lastmod>2021-01-29T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-4/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/ehealth-practices-in-cancer-survivors/</loc>
+    <lastmod>2020-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-5/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/towards-battery-free-body-sensor-networks/</loc>
+    <lastmod>2020-12-03T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-6/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/news4/</loc>
+    <lastmod>2020-10-07T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-7/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/news5/</loc>
+    <lastmod>2020-10-06T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy-8/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/news3/</loc>
+    <lastmod>2020-10-05T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1-copy/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/publications/deep-generative-cross-modal-on-body-accelerometer/</loc>
+    <lastmod>2020-09-19T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/grants/grant1/</loc>
-    <lastmod>2021-10-05T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/projects/project3/</loc>
+    <lastmod>2020-09-12T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/categories/</loc>
+    <loc>http://localhost:1313/grants/behaviorsight/</loc>
+    <lastmod>2020-09-07T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/tags/</loc>
+    <loc>http://localhost:1313/publications/syncwise/</loc>
+    <lastmod>2020-09-04T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/project1/</loc>
+    <lastmod>2020-09-03T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/necksense/</loc>
+    <lastmod>2020-06-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/project2/</loc>
+    <lastmod>2020-06-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/project4/</loc>
+    <lastmod>2020-06-12T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/panel/</loc>
+    <lastmod>2020-03-23T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/sensor-self-report-alignment-ssra/</loc>
+    <lastmod>2020-03-23T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/the-3rd-wristsense-panel/</loc>
+    <lastmod>2020-03-23T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/automatic-wearable-based-in-field-eating-detection/</loc>
+    <lastmod>2020-03-13T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/wristsense-2020/</loc>
+    <lastmod>2020-03-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/assessing-recall-of-personal-sun-exposure/</loc>
+    <lastmod>2019-12-04T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/counting-bites-with-bits/</loc>
+    <lastmod>2019-12-04T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/toward-a-precision-behavioral-medicine/</loc>
+    <lastmod>2019-12-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/young-african-american-womens-participation/</loc>
+    <lastmod>2019-10-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/micro-stress-ema/</loc>
+    <lastmod>2019-09-09T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/to-mask-or-not-to-mask/</loc>
+    <lastmod>2019-09-09T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news8/</loc>
+    <lastmod>2019-09-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news1/</loc>
+    <lastmod>2019-09-03T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news2/</loc>
+    <lastmod>2019-06-03T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/variation-in-daily-ultraviolet-light-exposure/</loc>
+    <lastmod>2019-02-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/is-more-always-better/</loc>
+    <lastmod>2018-12-27T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/predictors-of-cardiovascular-health-trends/</loc>
+    <lastmod>2018-11-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/habits-necklace/</loc>
+    <lastmod>2018-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/predicting-perceived-stress/</loc>
+    <lastmod>2018-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/estimating-caloric-intake-in-bedridden-hospital/</loc>
+    <lastmod>2018-09-26T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/i-cant-be-myself/</loc>
+    <lastmod>2018-09-18T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news6/</loc>
+    <lastmod>2018-09-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</loc>
+    <lastmod>2018-09-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news7/</loc>
+    <lastmod>2018-07-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/i-sense-overeating/</loc>
+    <lastmod>2018-05-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/grants/sensewhy/</loc>
+    <lastmod>2017-12-05T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/wearable-food-intake-monitoring-technologies/</loc>
+    <lastmod>2017-03-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/a-robust-remote-health-monitoring/</loc>
+    <lastmod>2016-12-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/monitoring-eating-habits/</loc>
+    <lastmod>2015-03-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/a-framework-for-predicting-adherence/</loc>
+    <lastmod>2014-10-29T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/non-invasive-monitoring-of-eating/</loc>
+    <lastmod>2014-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/spectrogram-based-audio/</loc>
+    <lastmod>2014-10-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/breathsens/</loc>
+    <lastmod>2014-07-31T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/determining-the-single-best-axis-for-exercise/</loc>
+    <lastmod>2014-06-16T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/designing-a-robust-activity-recognition-framework/</loc>
+    <lastmod>2013-10-25T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/robust-human-intensity-varying/</loc>
+    <lastmod>2013-05-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/opportunistic-hierarchical-classification/</loc>
+    <lastmod>2012-06-20T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/grants/nsf-eager-/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

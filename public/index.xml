@@ -2,289 +2,830 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on HabitsLab</title>
-    <link>https://HAbitsLab.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Homepage on HabitsLab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2024 15:09:31 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news6-copy/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news6-copy/</guid>
+      <title>NIR-sighted: A Programmable Streaming Architecture for Low-Energy Human-Centric Vision Applications</title>
+      <link>http://localhost:1313/publications/nirsighted/</link>
+      <pubDate>Wed, 11 Sep 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/nirsighted/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Human studies often rely on wearable lifelogging cameras that capture videos of individuals and their surroundings to aid in visual confirmation or recollection of daily activities like eating, drinking, and smoking. However, this may include private or sensitive information that may cause some users to refrain from using such monitoring devices. Also, short battery lifetime and large form factors reduce applicability for long-term capture of human activity. Solving this triad of interconnected problems is challenging due to wearable embedded systems’ energy, memory, and computing constraints. Inspired by this critical use case and the unique design problem, we developed NIR-sighted, an architecture for wearable video cameras that navigates this design space via three key ideas: (i) reduce storage and enhance privacy by discarding masked pixels and frames, (ii) enable programmers to generate effective masks with low computational overhead, and (iii) enable the use of small MCUs by moving masking and compression off-chip. Combined together in an end-to-end system, NIR-sighted’s masking capabilities and off-chip compression hardware shrinks systems, stores less data, and enables programmer-defined obfuscation to yield privacy enhancement. The user’s privacy is enhanced significantly as nowhere in the pipeline is any part of the image stored before it is obfuscated. We design a wearable camera called NIR-sightedCam based on this architecture; it is compact and can record IR and grayscale video at 16 and 20+ fps, respectively, for 26 hours nonstop (59 hours with IR disabled) at a fraction of comparable platforms power draw. NIR-sightedCam includes a low-power Field Programmable Gate Array that implements our mJPEG compress/obfuscate hardware, Blindspot. We additionally show the potential for privacy-enhancing function and clinical utility via an in-lab eating study, validated by a nutritionist.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform for mHealth Applications</title>
+      <link>http://localhost:1313/publications/habitsense/</link>
+      <pubDate>Mon, 09 Sep 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/habitsense/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras provide an objective method to visually confirm and automate the detection of health-risk behaviors such as smoking and overeating, which is critical for developing and testing adaptive treatment interventions. Despite the potential of wearable camera systems, adoption is hindered by inadequate clinician input in the design, user privacy concerns, and user burden. To address these barriers, we introduced HabitSense, an open-source1, multi-modal neck-worn platform developed with input from focus groups with clinicians (N=36) and user feedback from in-wild studies involving 105 participants over 35 days. Optimized for monitoring health-risk behaviors, the platform utilizes RGB, thermal, and inertial measurement unit sensors to detect eating and smoking events in real time. In a 7-day study involving 15 participants, HabitSense recorded 768 hours of footage, capturing 420.91 minutes of hand-to-mouth gestures associated with eating and smoking data crucial for training machine learning models, achieving a 92% F1-score in gesture recognition. To address privacy concerns, the platform records only during likely health-risk behavior events using SECURE, a smart activation algorithm. Additionally, HabitSense employs on-device obfuscation algorithms that selectively obfuscate the background during recording, maintaining individual privacy while leaving gestures related to health-risk behaviors unobfuscated. Our implementation of SECURE has resulted in a 48% reduction in storage needs and a 30% increase in battery life. This paper highlights the critical roles of clinician feedback, extensive field testing, and privacy-enhancing algorithms in developing an unobtrusive, lightweight, and reproducible wearable system that is both feasible and acceptable for monitoring health-risk behaviors in real-world settings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HABits Lab Alum Shibo Zhang wins MDPI Sensors Best Paper Award</title>
+      <link>http://localhost:1313/news/shibosensors/</link>
+      <pubDate>Tue, 04 Jun 2024 12:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/shibosensors/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news6/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news6/</guid>
+      <title>Dr. Alshurafa presents on SmokeMon at UbiComp/ISWC 2023</title>
+      <link>http://localhost:1313/news/ubicomp23/</link>
+      <pubDate>Tue, 10 Oct 2023 06:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/ubicomp23/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news7-copy/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news7-copy/</guid>
+      <title>Drs. Alshurafa &amp; Jacobs&#39; Prenatal Stress Work Profiled by CASMI</title>
+      <link>http://localhost:1313/news/casmi/</link>
+      <pubDate>Fri, 22 Sep 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/casmi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news7/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news7/</guid>
+      <title>HABits Lab Student Glenn Fernandes Passes Qualifying Exam</title>
+      <link>http://localhost:1313/news/glenn-qual/</link>
+      <pubDate>Fri, 22 Sep 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/glenn-qual/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news8-copy/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news8-copy/</guid>
+      <title>Bonnie Nolan</title>
+      <link>http://localhost:1313/profiles/bonnie/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/bonnie/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;B.A. in Biology, Hendrix College&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;Animal/human behavior, mobile technology&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Explainable Artificial Intelligence Software Tool for Weight Management Experts (PRIMO): Mixed Methods Study</title>
+      <link>http://localhost:1313/publications/primo/</link>
+      <pubDate>Wed, 06 Sep 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/primo/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;h4 id=&#34;background&#34;&gt;Background:&lt;/h4&gt;&#xA;&lt;p&gt;Predicting the likelihood of success of weight loss interventions using machine learning (ML) models may enhance intervention effectiveness by enabling timely and dynamic modification of intervention components for nonresponders to treatment. However, a lack of understanding and trust in these ML models impacts adoption among weight management experts. Recent advances in the field of explainable artificial intelligence enable the interpretation of ML models, yet it is unknown whether they enhance model understanding, trust, and adoption among weight management experts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HABits Lab postdoc Mahdi Pedram accepts faculty position at Depaul University</title>
+      <link>http://localhost:1313/news/mahdidu/</link>
+      <pubDate>Tue, 15 Aug 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/mahdidu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news8/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news8/</guid>
+      <title>Detecting Eating and Social Presence with All Day Wearable RGB-T</title>
+      <link>http://localhost:1313/publications/detecteatingsocialpresence/</link>
+      <pubDate>Fri, 21 Jul 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/detecteatingsocialpresence/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Social presence has been known to impact eating behavior among people with obesity; however, the dual study of eating behavior and social presence in real-world settings is challenging due to the inability to reliably confirm the co-occurrence of these important factors. High-resolution video cameras can detect timing while providing visual confirmation of behavior; however, their potential to capture all-day behavior is limited by short battery lifetime and lack of autonomy in detection. Low-resolution infrared (IR) sensors have shown promise in automating human behavior detection; however, it is unknown if IR sensors contribute to behavior detection when combined with RGB cameras. To address these challenges, we designed and deployed a low-power, and low-resolution RGB video camera, in conjunction with a low-resolution IR sensor, to test a learned model&amp;rsquo;s ability to detect eating and social presence. We evaluated our system in the wild with 10 participants with obesity; our models displayed slight improvement when detecting eating (5%) and significant improvement when detecting social presence (44%) compared with using a video-only approach. We analyzed device failure scenarios and their implications for future wearable camera design and machine learning pipelines. Lastly, we provide guidance for future studies using low-cost RGB and IR sensors to validate human behavior with context.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glenn Fernandes&#39; paper on explainable AI accepted by JMIR</title>
+      <link>http://localhost:1313/news/glennjmir/</link>
+      <pubDate>Fri, 09 Jun 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/glennjmir/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news4/</link>
-      <pubDate>Fri, 07 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news4/</guid>
+      <title>An End-to-End Energy-Efficient Approach for Intake Detection With Low Inference Time Using Wrist-Worn Sensor</title>
+      <link>http://localhost:1313/publications/endtoendintake/</link>
+      <pubDate>Tue, 16 May 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/endtoendintake/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Automated detection of intake gestures with wearable sensors has been a critical area of research for advancing our understanding and ability to intervene in people’s eating behavior. Numerous algorithms have been developed and evaluated in terms of accuracy. However, ensuring the system is not only accurate in making predictions but also efficient in doing so is critical for real world deployment. Despite the growing research on accurate detection of intake gestures using wearables, many of these algorithms are often energy inefficient, impeding on-device deployment for continuous and real-time monitoring of diet. This article presents a template-based optimized multicenter classifier that enables accurate intake gesture detection while maintaining low-inference time and energy consumption using a wrist-worn accelerometer and gyroscope. We designed an Intake Gesture Counter smartphone application (CountING) and validated the practicality of our algorithm against seven state-of-the-art approaches on three public datasets (In-lab FIC, Clemson, and OREBA). Compared with other methods, we achieved optimal accuracy (81.60% F1 score) and very low inference time (15.97 msec per 2.20-sec data sample) on the Clemson dataset, and among the top performing algorithms, we achieve comparable accuracy (83.0% F1 score compared with 85.6% in the top performing algorithm) but superior inference time (13.8x faster, 33.14 msec per 2.20-sec data sample) on the In-lab FIC dataset and comparable accuracy (83.40% F1 score compared with 88.10% in the top-performing algorithm) but superior inference time (33.9x faster, 16.71 msec inference time per 2.20-sec data sample) on the OREBA dataset. On average, our approach achieved a 25-hour battery lifetime (44% to 52% improvement over state-of-theart approaches) when tested on a commercial smartwatch for continuous real-time detection. Our approach demonstrates an effective and efficient method, enabling real-time intake gesture detection using wrist-worn devices in longitudinal studies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HABits Lab partners with Palbud Inc. on autism wearable project</title>
+      <link>http://localhost:1313/news/palbud/</link>
+      <pubDate>Mon, 01 May 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/palbud/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news5/</link>
-      <pubDate>Thu, 06 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news5/</guid>
+      <title>Experience: Barriers and Opportunities of Wearables for Eating Research</title>
+      <link>http://localhost:1313/publications/experience/</link>
+      <pubDate>Fri, 28 Apr 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/experience/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Wearable devices have long held the potential to provide real-time objective measures of behavior. However, due to challenges in real-world deployment, these systems are rarely tested rigorously in free-living settings. To reduce this challenge for future researchers, in this paper, we describe our experience developing several generations of a multi-sensor, neck-worn eating-detection system that has been tested with 130 participants across multiple studies in both laboratory and free-living settings. We describe the challenges faced in the development and deployment of the system by (1) presenting example deployment details captured either by the sensing system or the ground truth collector and (2) using structured interviews and surveys with developers and stakeholders of the system, collecting qualitative data on their experience. We performed thematic analysis and provided detailed lessons learned explaining factors that impact the experience of building and deploying such a wearable in a free-living setting, reducing challenges for future researchers. We believe that our experience will help future researchers develop successful mobile health (mHealth) systems that translate into reliable free-living deployments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is cartoonized life-vlogging the key to increasing adoption of activity-oriented wearable camera systems? </title>
+      <link>http://localhost:1313/publications/iscartoonization/</link>
+      <pubDate>Fri, 28 Apr 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/iscartoonization/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Health science researchers studying human behavior rely on wearable cameras to visually confirm behaviors in real-world settings. However, privacy concerns significantly impede their adoption. Lens orientation and activity-oriented cameras have potential in balancing the need to visually validate the wearers’ activities while reducing privacy concerns. To increase adoption and further alleviate privacy concerns while maintaining utility, generative stylizing approaches, like cartooning using generative adversarial networks (GANs), have recently shown promise. We investigate different cartoon-based obfuscation of activity-oriented footage through two studies. The first deploys crowdsourcing methods (n=60), while the second is experiential, where participants (n=49) don the device for an entire day and report concerns on their footage. Our findings support that cartoonization of activity-oriented data significantly reduces privacy concerns, particularly among bystanders in high privacy-concerning scenarios, while maintaining context verification (90% of participants). Through thematic analysis, we provide further insight for the community on best practices for cartoonization of activity-oriented videos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rationale and design of the SenseWhy project: A passive sensing and ecological momentary assessment study on characteristics of overeating episodes</title>
+      <link>http://localhost:1313/publications/sensewhydesign/</link>
+      <pubDate>Thu, 27 Apr 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/sensewhydesign/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;h4 id=&#34;objectives&#34;&gt;Objectives&lt;/h4&gt;&#xA;&lt;p&gt;Overeating interventions and research often focus on single determinants and use subjective or nonpersonalized measures. We aim to (1) identify automatically detectable features that predict overeating and (2) build clusters of eating episodes that identify theoretically meaningful and clinically known problematic overeating behaviors (e.g., stress eating), as well as new phenotypes based on social and psychological features.&lt;/p&gt;&#xA;&lt;h4 id=&#34;method&#34;&gt;Method&lt;/h4&gt;&#xA;&lt;p&gt;Up to 60 adults with obesity in the Chicagoland area will be recruited for a 14-day free-living observational study. Participants will complete ecological momentary assessments and wear 3 sensors designed to capture features of overeating episodes (e.g., chews) that can be visually confirmed. Participants will also complete daily dietitian-administered 24-hour recalls of all food and beverages consumed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glenn Fernandes&#39; paper on cartoonized life-vlogging accepted by ACM SIGCHI</title>
+      <link>http://localhost:1313/news/cartoonchi/</link>
+      <pubDate>Sun, 09 Apr 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/cartoonchi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news3/</link>
-      <pubDate>Wed, 05 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news3/</guid>
+      <title>Dr. Alshurafa interviewed by FOX 32 Chicago on SmokeMon</title>
+      <link>http://localhost:1313/news/fox32smokemon/</link>
+      <pubDate>Tue, 21 Feb 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/fox32smokemon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Dr. Alshurafa receives NSF EAGER Award</title>
-      <link>https://HAbitsLab.github.io/news/news2/</link>
-      <pubDate>Mon, 03 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news2/</guid>
+      <title>Digital Trends publishes article discussing SmokeMon technology</title>
+      <link>http://localhost:1313/news/digitaltrendssmokemon/</link>
+      <pubDate>Tue, 14 Feb 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/digitaltrendssmokemon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-2/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-2/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Dr. Alshurafa interviewed by WGN9 Chicago on SmokeMon</title>
+      <link>http://localhost:1313/news/wgn9smokemon/</link>
+      <pubDate>Tue, 14 Feb 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/wgn9smokemon/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-3/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-3/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal</title>
+      <link>http://localhost:1313/publications/smokemon/</link>
+      <pubDate>Fri, 13 Jan 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/smokemon/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Smoking is the leading cause of preventable death worldwide. Cigarette smoke includes thousands of chemicals that are harmful and cause tobacco-related diseases. To date, the causality between human exposure to specific compounds and the harmful effects is unknown. A first step in closing the gap in knowledge has been measuring smoking topography, or how the smoker smokes the cigarette (puffs, puff volume, and duration). However, current gold-standard approaches to smoking topography involve expensive, bulky, and obtrusive sensor devices, creating unnatural smoking behavior and preventing their potential for real-time interventions in the wild. Although motion-based wearable sensors and their corresponding machine-learned models have shown promise in unobtrusively tracking smoking gestures, they are notorious for confounding smoking with other similar hand-to-mouth gestures such as eating and drinking. In this paper, we present SmokeMon, a chest-worn thermal-sensing wearable system that can capture spatial, temporal, and thermal information around the wearer and cigarette all day to unobtrusively and passively detect smoking events. We also developed a deep learning&amp;ndash;based framework to extract puffs and smoking topography. We evaluate SmokeMon in both controlled and free-living experiments with a total of 19 participants, more than 110 hours of data, and 115 smoking sessions achieving an F1-score of 0.9 for puff detection in the laboratory and 0.8 in the wild. By providing SmokeMon as an open platform, we provide measurement of smoking topography in free-living settings to enable testing of smoking topography in the real world, with potential to facilitate timely smoking cessation interventions.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-4/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-4/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Experience paper accepted at Case Studies of HCI in Practice (CHI23)</title>
+      <link>http://localhost:1313/news/experience/</link>
+      <pubDate>Sun, 01 Jan 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/experience/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-5/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-5/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>HABits Lab student Rawan Alharbi accepts position at Apple Inc.</title>
+      <link>http://localhost:1313/news/rawanapple/</link>
+      <pubDate>Tue, 15 Nov 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/rawanapple/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-6/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-6/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Soroush and Rawan&#39;s paper got accepted at ACM IMWUT 2022</title>
+      <link>http://localhost:1313/news/smokemon/</link>
+      <pubDate>Tue, 01 Nov 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/smokemon/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-7/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-7/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>HABits Lab student Shibo Zhang accepts position at Hewlett Packard</title>
+      <link>http://localhost:1313/news/shibohp/</link>
+      <pubDate>Sat, 15 Oct 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/shibohp/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-8/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-8/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Detecting Screen Presence with Activity-Oriented RGB Camera in Egocentric Videos</title>
+      <link>http://localhost:1313/publications/screen-detection/</link>
+      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/screen-detection/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Screen time is associated with several health risk behaviors including mindless eating, sedentary behavior, and decreased academic performance. Screen time behavior is traditionally assessed with self-report measures, which are known to be burdensome, inaccurate, and imprecise. Recent methods to automatically detect screen time are geared more towards detecting television screens from wearable cameras that record high-resolution video. Activity-oriented wearable cameras (i.e., cameras oriented towards the wearer with a fisheye lens) have recently been designed and shown to reduce privacy concerns, yet pose a greater challenge in capturing screens due to their orientation and fewer pixels on target. Methods that detect screens from low-power, low-resolution wearable camera video are needed given the increased adoption of such devices in longitudinal studies. We propose a method that leverages deep learning algorithms and lower-resolution images from an activity-oriented camera to detect screen presence from multiple types of screens with high variability of pixel on target (e.g., near and far TV, smartphones, laptops, and tablets). We test our system in a real-world study comprising 10 individuals, 80 hours of data, and 1.2 million low-resolution RGB frames. Our results outperform existing state-of-the-art video screen detection methods yielding an F1-score of 81%. This paper demonstrates the potential for detecting screen-watching behavior in longitudinal studies using activity-oriented cameras, paving the way for a nuanced understanding of screen time’s relationship with health risk behaviors.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy-9/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy-9/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Impacts of Image Obfuscation on Fine-grained Activity Recognition in Egocentric Video</title>
+      <link>http://localhost:1313/publications/impact-of-image-obfuscation/</link>
+      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/impact-of-image-obfuscation/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Automated detection and validation of fine-grained human activities from egocentric vision has gained increased attention in recent years due to the rich information afforded by RGB images. However, it is not easy to discern how much rich information is necessary to detect the activity of interest reliably. Localization of hands and objects in the image has proven helpful to distinguishing between hand-related fine-grained activities. This paper describes the design of a hand-object-based mask obfuscation method (HOBM) and assesses its effect on automated recognition of fine-grained human activities. HOBM masks all pixels other than the hand and object in-hand, improving the protection of personal user information (PUI). We test a deep learning model trained with and without obfuscation using a public egocentric activity dataset with 86 class labels and achieve almost similar classification accuracies (2% decrease with obfuscation). Our findings show that it is possible to protect PUI at smaller image utility costs (loss of accuracy).&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1-copy/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1-copy/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>SmartAct: Energy Efficient and Real-Time Hand-to-Mouth Gesture Detection Using Wearable RGB-T</title>
+      <link>http://localhost:1313/publications/smartact/</link>
+      <pubDate>Thu, 29 Sep 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/smartact/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Researchers have been leveraging wearable cameras to both visually confirm and automatically detect individuals&amp;rsquo; eating habits. However, energy-intensive tasks such as continuously collecting and storing RGB images in memory, or running algorithms in real-time to automate detection of eating, greatly impacts battery life. Since eating moments are spread sparsely throughout the day, battery life can be mitigated by recording and processing data only when there is a high likelihood of eating. We present a framework comprising a golf-ball sized wearable device using a low-powered thermal sensor array and real-time activation algorithm that activates high-energy tasks when a hand-to-mouth gesture is confirmed by the thermal sensor array. The high-energy tasks tested are turning on the RGB camera (Trigger RGB mode) and running inference on an on-device machine learning model (Trigger ML mode). Our experimental setup involved the design of a wearable camera, 6 participants collecting 18 hours of data with and without eating, the implementation of a feeding gesture detection algorithm on-device, and measures of power saving using our activation method. Our activation algorithm demonstrates an average of at-least 31.5% increase in battery life time, with minimal drop of recall (5%) and without impacting the accuracy of detecting eating (a slight 4.1% increase in F1-Score).&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Balancing Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/publications/publication1/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/publications/publication1/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Soroush&#39;s paper got accepted at IEEE BHI-BSN 2022</title>
+      <link>http://localhost:1313/news/news10/</link>
+      <pubDate>Wed, 28 Sep 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news10/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>Lability of prenatal stress during the COVID19 pandemic links to negative affect in infancy</title>
+      <link>http://localhost:1313/publications/prenatal-stress/</link>
+      <pubDate>Wed, 07 Sep 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/prenatal-stress/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Boyang&#39;s paper got accepted at JMIR Mhealth Uhealth 2022</title>
+      <link>http://localhost:1313/news/explainability/</link>
+      <pubDate>Tue, 02 Aug 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/explainability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predicting the Next-Day Perceived and Physiological Stress of Pregnant Women by Using Machine Learning and Explainability: Algorithm Development and Validation</title>
+      <link>http://localhost:1313/publications/predicting-the-next-day/</link>
+      <pubDate>Tue, 02 Aug 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/predicting-the-next-day/</guid>
+      <description>&lt;h3 id=&#34;1-background&#34;&gt;1. Background&lt;/h3&gt;&#xA;&lt;p&gt;Cognitive behavioral therapy–based interventions are effective in reducing prenatal stress, which can have severe adverse health effects on mothers and newborns if unaddressed. Predicting next-day physiological or perceived stress can help to inform and enable pre-emptive interventions for a likely physiologically and perceptibly stressful day. Machine learning models are useful tools that can be developed to predict next-day physiological and perceived stress by using data collected from the previous day. Such models can improve our understanding of the specific factors that predict physiological and perceived stress and allow researchers to develop systems that collect selected features for assessment in clinical trials to minimize the burden of data collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ActiveSense: A Novel Active Learning Framework for Human Activity Recognition</title>
+      <link>http://localhost:1313/publications/activesense/</link>
+      <pubDate>Fri, 06 May 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/activesense/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;One of the persistent challenges in building machine-learned models for mobile health applications of fine-grained activity is the generation of accurate annotations with well-defined start/end time labels. Large amounts of unlabeled data exist, and annotation is often labor-intensive and costly. Moreover, it is not clear whether labeling all the data is even necessary to building the most effective machine-learned model. Active learning approaches harness model uncertainty by selecting the most informative samples, reducing the time and effort in labeling unnecessary segments of the data. Model uncertainty, however, is strongly linked to classifier performance, introducing bias in sample selection and impacting model generalizability. In this paper, we propose and study the effects of a new active learning framework on the Necksense dataset which harnesses intrinsic uncertainty as well as model uncertainty by utilizing the Area Under the Margin (AUM) statistic, leading to a significant reduction in the number of samples needed to annotate. We also show that we are able to design a more generalizable model training on 0.15% (n=192 samples) of the data compared to the original model trained on 85% (n=104,681 samples) of the data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable</title>
+      <link>http://localhost:1313/publications/actisight/</link>
+      <pubDate>Mon, 21 Mar 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/actisight/</guid>
+      <description>&lt;p&gt;Wearable cameras provide an informative view of wearer activities, context, and interactions. Video obtained from wearable cameras is useful for life-logging, human activity recognition, visual confirmation, and other tasks widely utilized in mobile computing today. Extracting foreground information related to the wearer and separating irrelevant background pixels is the fundamental operation underlying these tasks. However, current wearer foreground extraction methods that depend on image data alone are slow, energy-inefficient, and even inaccurate in some cases, making many tasks–like activity recognition–challenging to implement in the absence of significant computational resources. To fill this gap, we built ActiSight, a wearable RGB-Thermal video camera that uses thermal information to make wearer segmentation practical for body-worn video. Using ActiSight, we collected a total of 59 hours of video from 6 participants, capturing a wide variety of activities in a natural setting. We show that wearer foreground extracted with ActiSight achieves a high dice similarity score while significantly lowering execution time and energy cost when compared with an RGB-only approach.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Learning in Human Activity Recognition with Wearable Sensors: A Review on Advances</title>
+      <link>http://localhost:1313/publications/deep-learning-in-human-activity-recognition/</link>
+      <pubDate>Mon, 14 Feb 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/deep-learning-in-human-activity-recognition/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Mobile and wearable devices have enabled numerous applications, including activity tracking, wellness monitoring, and human–computer interaction, that measure and improve our daily lives. Many of these applications are made possible by leveraging the rich collection of low-power sensors found in many mobile and wearable devices to perform human activity recognition (HAR). Recently, deep learning has greatly pushed the boundaries of HAR on mobile and wearable devices. This paper systematically categorizes and summarizes existing work that introduces deep learning methods for wearables-based HAR and provides a comprehensive analysis of the current advancements, developing trends, and major challenges. We also present cutting-edge frontiers and future directions for deep learning-based HAR.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Boyang Wei</title>
+      <link>http://localhost:1313/profiles/boyang/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/boyang/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;M.S. Analytics, Georgetown University&lt;/p&gt;&#xA;&lt;p&gt;B.S. Biochemistry, University of Washington&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chris Romano</title>
+      <link>http://localhost:1313/profiles/chris/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/chris/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;B.S. in Psychology, Loyola University Chicago&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;experimental psychology, social cognition, human computer interaction, language, learning &amp;amp; behavior&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dwayne Morgan</title>
+      <link>http://localhost:1313/profiles/dwayne/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/dwayne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edward Chen</title>
+      <link>http://localhost:1313/profiles/edward/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/edward/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FaceBit: Smart Face Masks Platform</title>
+      <link>http://localhost:1313/publications/facebit/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/facebit/</guid>
+      <description>&lt;h3 id=&#34;1-abstract&#34;&gt;1. Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The COVID-19 pandemic has dramatically increased the use of face masks across the world. Aside from physical distancing, they are among the most effective protection for healthcare workers and the general population. Face masks are passive devices, however, and cannot alert the user in case of improper fit or mask degradation. Additionally, face masks are optimally positioned to give unique insight into some personal health metrics. Recognizing this limitation and opportunity, we present FaceBit: an open-source research platform for smart face mask applications. FaceBit&amp;rsquo;s design was informed by needfinding studies with a cohort of health professionals. Small and easily secured into any face mask, FaceBit is accompanied by a mobile application that provides a user interface and facilitates research. It monitors heart rate without skin contact via ballistocardiography, respiration rate via temperature changes, and mask-fit and wear time from pressure signals, all on-device with an energy-efficient runtime system. FaceBit can harvest energy from breathing, motion, or sunlight to supplement its tiny primary cell battery that alone delivers a battery lifetime of 11 days or more. FaceBit empowers the mobile computing community to jumpstart research in smart face mask sensing and inference, and provides a sustainable, convenient form factor for health management, applicable to COVID-19 frontline workers and beyond.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farzad Shahabi</title>
+      <link>http://localhost:1313/profiles/farzad/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/farzad/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently a fourth-year PhD student specializing in the development of interpretable machine learning algorithms. My research focuses on predicting weight loss or maintenance and involves crafting discernible and discriminative features as well as using ML algorithms to enhance our understanding of problematic overeating behaviors.&lt;/p&gt;&#xA;&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;M.S. Electrical Engineering, University of South Florida&lt;/p&gt;&#xA;&lt;p&gt;M.S. Data Analytics and Security, University of South Florida&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;machine learning, wearable sensing, human activity recognition&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glenn Fernandes</title>
+      <link>http://localhost:1313/profiles/glenn/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/glenn/</guid>
+      <description>&lt;p&gt;I’m a fourth-year PhD candidate at Northwestern University, working with HABits Lab at the intersection of Computer Science and Preventive Medicine. My research primarily focuses on:&#xA;(i) user centric design and development of wearable camera systems for tracking human behaviors and providing interventions&#xA;(ii) development of explainable machine learning tools to enhance human+ai interaction and decision-making&lt;/p&gt;&#xA;&lt;p&gt;I love interdisciplinary research, especially research at the intersection of tech, healthcare and data science. I’m motivated and interested to work on projects that integrate software and hardware for developing tools and platforms that can make a widespread impact on people.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gracelyn Shi</title>
+      <link>http://localhost:1313/profiles/gracelyn/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/gracelyn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Helen Zhu</title>
+      <link>http://localhost:1313/profiles/helen/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/helen/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;B.S. Computer Science &amp;amp; Biological Sciences, expected 2025, Northwestern University&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jiayi (Joey) Zheng</title>
+      <link>http://localhost:1313/profiles/jiayi/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/jiayi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mahdi Pedram</title>
+      <link>http://localhost:1313/profiles/mahdi/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/mahdi/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;Ph.D. in Computer Engineering, &lt;a href=&#34;https://wsu.edu/&#34;&gt;Washington State University&lt;/a&gt;, WA, USA&lt;/p&gt;&#xA;&lt;p&gt;B.Sc. in Computer Engineering, Amirkabir University of Technology, Iran&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;Embedded Systems, Health Monitoring Systems, On-Device Processing, Sensor System Development, Power Optimization, Machine Learning&lt;/p&gt;&#xA;&lt;h3 id=&#34;teaching&#34;&gt;Teaching&lt;/h3&gt;&#xA;&lt;p&gt;Wireless and Mobile Health (mHealth), Embedded Systems, Computer Architecture, Machine Learning&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.stack.imgur.com/gVE0j.png&#34; alt=&#34;Linkedin&#34;&gt;&lt;a href=&#34;https://www.linkedin.com/in/mahdi-pedram-b29bb7107/&#34;&gt;LinkedIn&lt;/a&gt;&#xA;&lt;img src=&#34;https://i.stack.imgur.com/tskMh.png&#34; alt=&#34;GitHub&#34;&gt;&lt;a href=&#34;https://github.com/mahdipedro/&#34;&gt;GitHub&lt;/a&gt;&#xA;&lt;a href=&#34;https://mahdipedro.github.io/&#34;&gt;Homepage&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mahdi Pedram</title>
+      <link>http://localhost:1313/profiles/new/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/new/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;Ph.D. in Computer Engineering, Washington State University, WA, USA&lt;/p&gt;&#xA;&lt;p&gt;B.Sc. in Computer Engineering, Amirkabir University of Technology, Iran&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;Embedded Systems, Health Monitoring Systems, On-Device Processing, Sensor System Development, Power Optimization, Machine Learning&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nabil Alshurafa</title>
+      <link>http://localhost:1313/profiles/nabil/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/nabil/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;Ph.D. in Computer Science, University of California Los Angeles&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;Passive Sensing Data Analytics, Ubiquitous Computing, Mobile Health, Wearable Sensors&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saki Amagai</title>
+      <link>http://localhost:1313/profiles/saki/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/saki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soroush Shahi</title>
+      <link>http://localhost:1313/profiles/soroush/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/soroush/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;B.Sc. in Computer Engineering, University of Tehran&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;Embedded Systems, Health Monitoring Systems, On-Device Processing, Sensor System Development, Power Optimization, Machine Learning&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tanmeet Butani</title>
+      <link>http://localhost:1313/profiles/tanmeet/</link>
+      <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/profiles/tanmeet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Association of number of bites and eating speed with energy intake: Wearable technology results under free-living conditions</title>
+      <link>http://localhost:1313/publications/association-of-number-of-bites/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/association-of-number-of-bites/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Personalized weight management strategies are gaining interest. However, knowledge is limited regarding eating&#xA;habits and association with energy intake, and current technologies limit assessment in free-living situations. We&#xA;assessed associations between eating behavior and time of day with energy intake using a wearable camera under&#xA;free-living conditions and explored if obesity modifies the associations&lt;/p&gt;&#xA;&lt;h3 id=&#34;rq1-what-associations-are-there-between-eating-behaviors-and-energy-intake-among-individuals-with-and-without-obesity&#34;&gt;RQ1: What associations are there between eating behaviors and energy intake among individuals with and without obesity?&lt;/h3&gt;&#xA;&lt;p&gt;Sixteen participants (50% with obesity)&#xA;recorded free-living eating behaviors using a wearable fish-eye camera for 14 days. Videos were viewed by&#xA;trained annotators who confirmed number of bites, eating speed, and time of day for each eating episode. Energy&#xA;intake was determined by a trained dietitian performing 24-h diet recalls.&#xA;&lt;img src=&#34;http://localhost:1313/img/anbeswei_fig.png&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HeatSight: Wearable Low-power Omni Thermal Sensing</title>
+      <link>http://localhost:1313/publications/heatsight/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/heatsight/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Thermal information surrounding a person is a rich source for understanding and identifying personal activities. Different daily activities naturally emit distinct thermal signatures from both the human body and surrounding objects; these signatures exhibit both spatial and temporal components as objects move and thermal energy dissipates, for example, when drinking a cold beverage or smoking a cigarette. We present HeatSight, a wearable system that captures the thermal environment of the wearer and uses machine learning to infer human activity from thermal, spatial, and temporal information in that environment. We achieve this by embedding five low-power thermal sensors in a pentahedron configuration which captures a wide view of the wearer’s body and the objects they interact with. We also design a battery life-saving mechanism that selectively powers only those sensors necessary for detection. With HeatSight, we unlock thermal as an egocentric modality for future interaction research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VibroScale: turning your smartphone into a weighing scale</title>
+      <link>http://localhost:1313/publications/vibroscale/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/vibroscale/</guid>
+      <description>&lt;h3 id=&#34;1-abstract&#34;&gt;1. Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Smartphones, with their ubiquity and plethora of embedded sensors enable on-the-go measurement. Here, we describe one novel measurement potential, weight measurement, by turning an everyday smartphone into a weighing scale. We describe VibroScale, our vibration-based approach to measuring the weight of objects that are small in size. Being able to objectively measure the weight of objects in free-living settings, without the burden of carrying a scale, has several possible uses, particularly in weighing small food items. We designed a smartphone app and regression algorithm, which we termed VibroScale, that estimates the relative induced intensity of an object placed on the smartphone. We tested our proposed method using more than 50 fruits and other everyday objects of different sizes and weights. Our smartphone-based method can measure the weight of fruit without relying on an actual scale. Overall, we observed that VibroScale can measure one type of object with a mean absolute error of 12.4 grams and a mean absolute percentage error of 7.7%. We believe that in future this approach can be generalized to estimate calories and measure the weight of various types of objects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WristSense 2021: Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices</title>
+      <link>http://localhost:1313/publications/wristsense-2021/</link>
+      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/wristsense-2021/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digitally characterizing the dynamics of multiple health behavior change.</title>
+      <link>http://localhost:1313/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</link>
+      <pubDate>Wed, 01 Dec 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/digitally-characterizing-the-dynamics-of-multiple-health-behavior-change/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CoughTrigger: Earbuds IMU Based Cough Detection Activator Using An Energy-efficient Sensitivity-prioritized Time Series Classifier</title>
+      <link>http://localhost:1313/publications/coughtrigger/</link>
+      <pubDate>Sun, 07 Nov 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/coughtrigger/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Persistent coughs are a major symptom of respiratory-related diseases. Increasing research attention has been paid to detecting coughs using wearables, especially during the COVID-19 pandemic. Microphone is most widely used sensor to detect coughs. However, the intense power consumption needed to process audio hinders continuous audio-based cough detection on battery-limited commercial wearables, such as earbuds. We present CoughTrigger, which utilizes a lower-power sensor, inertial measurement unit (IMU), in earbuds as a cough detection activator to trigger a higher-power sensor for audio processing and classification. It runs all-the-time as a standby service with minimal battery consumption and triggers the audio-based cough detection when a candidate cough is detected from IMU. Besides, the use of IMU brings the benefit of improved specificity of cough detection. Experiments are conducted on 45 subjects and CoughTrigger achieved 0.77 AUC score. We also validated its effectiveness on free-living data and through on-device implementation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comparative Validity of Mostly Unprocessed and Minimally Processed Food Items Differs Among Popular Commercial Nutrition Apps Compared with a Research Food Database</title>
+      <link>http://localhost:1313/publications/comparative-validity-of-mostly-unprocessed/</link>
+      <pubDate>Fri, 15 Oct 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/comparative-validity-of-mostly-unprocessed/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr. Alshurafa receives NIH R01 Award from NIDDK</title>
+      <link>http://localhost:1313/news/news9/</link>
+      <pubDate>Sun, 01 Aug 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EAT: A Reliable Eating Assessment Technology for Free-living Individuals</title>
+      <link>http://localhost:1313/grants/eat/</link>
+      <pubDate>Tue, 27 Jul 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/eat/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moving the dial on prenatal stress mechanisms of neurodevelopmental vulnerability to mental health problems: A personalized prevention proof of concept</title>
+      <link>http://localhost:1313/publications/moving-the-dial-on-prenatal-stress-mechanisms/</link>
+      <pubDate>Sat, 01 May 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/moving-the-dial-on-prenatal-stress-mechanisms/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr. Alshurafa receives NIH R03 Award from NIDDK</title>
+      <link>http://localhost:1313/news/news11/</link>
+      <pubDate>Thu, 01 Apr 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UNPROTECTED SUN EXPOSURE AND PHYSICAL ACTIVITY AMONG MELANOMA SURVIVORS AND FIRST-DEGREE RELATIVES</title>
+      <link>http://localhost:1313/publications/unprotected-sun-exposure/</link>
+      <pubDate>Thu, 01 Apr 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/unprotected-sun-exposure/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foodtrk: Track meals and snacks with pictures of food and questionnaire for research</title>
+      <link>http://localhost:1313/projects/project5/</link>
+      <pubDate>Wed, 03 Mar 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/projects/project5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development and feasibility of a Configurable Assessment Messaging Platform for Interventions (CAMPI)</title>
+      <link>http://localhost:1313/publications/development-and-feasibility-of-a-configurable-assessment-messaging/</link>
+      <pubDate>Mon, 01 Mar 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/development-and-feasibility-of-a-configurable-assessment-messaging/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild</title>
+      <link>http://localhost:1313/grants/wildcam/</link>
+      <pubDate>Fri, 29 Jan 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/wildcam/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;p&gt;The research, assessment, and treatment of unhealthy eating habits all rely on self reporting. That is, the patient or client must record their own dietary intake by using a food journal. This method of diet tracking has &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/&#34;&gt;proven problematic&lt;/a&gt;, as much dietary information is lost due forgetting, non-adherence, dishonesty, and so forth. Because diet information is critical to the work of behavioral clinicians and researchers, a better method for diet monitoring is needed. In our project, &amp;ldquo;WildCam&amp;rdquo;, we aim to develop such a method via a wearable camera system, accounting for known user-experience issues associated with wearable cameras, including comfort, privacy concerns, and social stigma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>eHealth practices in cancer survivors with BMI in overweight or obese categories: Latent class analysis study</title>
+      <link>http://localhost:1313/publications/ehealth-practices-in-cancer-survivors/</link>
+      <pubDate>Thu, 03 Dec 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/ehealth-practices-in-cancer-survivors/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Towards Battery-Free Body Sensor Networks</title>
+      <link>http://localhost:1313/publications/towards-battery-free-body-sensor-networks/</link>
+      <pubDate>Thu, 03 Dec 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/towards-battery-free-body-sensor-networks/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubicomp Best Poster Award (Won By Landslide) for our paper VibroScale</title>
+      <link>http://localhost:1313/news/news4/</link>
+      <pubDate>Wed, 07 Oct 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Alshurafa receives NIH R21 Award from NIBIB</title>
+      <link>http://localhost:1313/news/news5/</link>
+      <pubDate>Tue, 06 Oct 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubicomp Best Presentation Award (Runner-Up) for our paper NeckSense</title>
+      <link>http://localhost:1313/news/news3/</link>
+      <pubDate>Mon, 05 Oct 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep generative cross-modal on-body accelerometer data synthesis from videos</title>
+      <link>http://localhost:1313/publications/deep-generative-cross-modal-on-body-accelerometer/</link>
+      <pubDate>Sat, 19 Sep 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/deep-generative-cross-modal-on-body-accelerometer/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions</title>
+      <link>http://localhost:1313/projects/project3/</link>
+      <pubDate>Sat, 12 Sep 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/projects/project3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BehaviorSight: Privacy Enhancing Wearable System to Detect Health Risk Behaviors in Real-time</title>
+      <link>http://localhost:1313/grants/behaviorsight/</link>
+      <pubDate>Mon, 07 Sep 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/behaviorsight/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Many health-risk behaviors—such as overeating, smoking, drinking, substance abuse, and medication non-adherence—correlate with increased morbidity and mortality. Eliminating these behaviors can help prevent several diseases. However, this requires understanding, knowing, and altering what people put into their mouth. Current efforts to understand behaviors associated with detecting what people put in their mouth are limited and rely on inaccurate and biased self-reports. Detecting these behaviors objectively and in real time, learning to automatically predict them, and adaptively intervening to problematic behaviors will pave the way for novel behavioral interventions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SyncWISE: Window induced shift estimation for synchronization of video and Accelerometry from wearable sensors</title>
+      <link>http://localhost:1313/publications/syncwise/</link>
+      <pubDate>Fri, 04 Sep 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/syncwise/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SyncWISE: Window Induced Shift Estimation for Synchronization of Video and Accelerometry from Wearable Sensors</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Thu, 03 Sep 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Necksense: A multi-sensor necklace for detecting eating activities in free-living conditions</title>
+      <link>http://localhost:1313/publications/necksense/</link>
+      <pubDate>Mon, 15 Jun 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/necksense/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VibroScale: turning your smartphone into a weighing scale</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Mon, 15 Jun 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/projects/project2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FaceBit: Smart Face Mask Platform</title>
+      <link>http://localhost:1313/projects/project4/</link>
+      <pubDate>Fri, 12 Jun 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/projects/project4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Panel: Evolving IoT Tech Enables Aging in Place</title>
+      <link>http://localhost:1313/publications/panel/</link>
+      <pubDate>Mon, 23 Mar 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/panel/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sensor Self-Report Alignment (SSRA): Reducing Sun Exposure Assessment Error</title>
+      <link>http://localhost:1313/publications/sensor-self-report-alignment-ssra/</link>
+      <pubDate>Mon, 23 Mar 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/sensor-self-report-alignment-ssra/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 3rd WristSense Panel for Discussion Regarding How to Establish Objective Gold Standard Measurements for Health Constructs</title>
+      <link>http://localhost:1313/publications/the-3rd-wristsense-panel/</link>
+      <pubDate>Mon, 23 Mar 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/the-3rd-wristsense-panel/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automatic, wearable-based, in-field eating detection approaches for public health research: a scoping review</title>
+      <link>http://localhost:1313/publications/automatic-wearable-based-in-field-eating-detection/</link>
+      <pubDate>Fri, 13 Mar 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/automatic-wearable-based-in-field-eating-detection/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WristSense 2020: 6th Workshop on Sensing Systems and Applications using Wrist Worn Smart Devices-Welcome and Committees</title>
+      <link>http://localhost:1313/publications/wristsense-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/wristsense-2020/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assessing recall of personal sun exposure by integrating UV dosimeter and self-reported data with a network flow framework</title>
+      <link>http://localhost:1313/publications/assessing-recall-of-personal-sun-exposure/</link>
+      <pubDate>Wed, 04 Dec 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/assessing-recall-of-personal-sun-exposure/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Counting bites with bits: expert workshop addressing calorie and macronutrient intake monitoring</title>
+      <link>http://localhost:1313/publications/counting-bites-with-bits/</link>
+      <pubDate>Wed, 04 Dec 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/counting-bites-with-bits/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toward a precision behavioral medicine approach to addressing high-risk sun exposure: a qualitative analysis</title>
+      <link>http://localhost:1313/publications/toward-a-precision-behavioral-medicine/</link>
+      <pubDate>Sun, 01 Dec 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/toward-a-precision-behavioral-medicine/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Young African American women’s participation in an m-Health study in cardiovascular risk reduction: Feasibility, benefits, and barriers</title>
+      <link>http://localhost:1313/publications/young-african-american-womens-participation/</link>
+      <pubDate>Tue, 01 Oct 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/young-african-american-womens-participation/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Micro-stress EMA: A passive sensing framework for detecting in-the-wild stress in pregnant mothers</title>
+      <link>http://localhost:1313/publications/micro-stress-ema/</link>
+      <pubDate>Mon, 09 Sep 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/micro-stress-ema/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>To mask or not to mask? balancing privacy with visual confirmation utility in activity-oriented wearable cameras</title>
+      <link>http://localhost:1313/publications/to-mask-or-not-to-mask/</link>
+      <pubDate>Mon, 09 Sep 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/to-mask-or-not-to-mask/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Activity-oriented cameras are increasingly being used to provide visual confirmation of specific hand-related activities in real-world settings. However, recent studies have shown that bystander privacy concerns limit participant willingness to wear a camera. Researchers have investigated different image obfuscation methods as an approach to enhance bystander privacy; however, these methods may have varying effects on the visual confirmation utility of the image, which we define as the ability of a human viewer to interpret the activity of the wearer in the image. Visual confirmation utility is needed to annotate and validate hand-related activities for several behavioral-based applications, particularly in cases where a human in the loop method is needed to label (e.g., annotating gestures that cannot be automatically detected yet). We propose a new type of obfuscation, activity-oriented partial obfuscation, as a methodological contribution to researchers interested in obtaining visual confirmation of hand-related activities in the wild. We tested the effects of this approach by collecting ten diverse and realistic video scenarios that involved the wearer performing hand-related activities while bystanders performed activities that could be of concern if recorded. Then we conducted an online experiment with 367 participants to evaluate the effect of varying degrees of obfuscation on bystander privacy and visual confirmation utility. Our results show that activity-oriented partial obfuscation (1) maintains visual confirmation of the wearer&amp;rsquo;s hand-related activity, especially when an object is present in the hand, and even when extreme filters are applied, while (2) significantly reducing bystander concerns and enhancing bystander privacy. Informed by our analysis, we further discuss the impact of the filter method used in activity-oriented partial obfuscation on bystander privacy and concerns.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
-      <link>https://HAbitsLab.github.io/news/news1/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news1/</guid>
+      <link>http://localhost:1313/news/news8/</link>
+      <pubDate>Sun, 08 Sep 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news8/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Privary with Visual Confirmation Utility in Activity-Oriented Wearable Cameras</title>
-      <link>https://HAbitsLab.github.io/projects/project1/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/projects/project1/</guid>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
+      <link>http://localhost:1313/news/news1/</link>
+      <pubDate>Tue, 03 Sep 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news1/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Dr. Alshurafa receives NSF EAGER Award</title>
+      <link>http://localhost:1313/news/news2/</link>
+      <pubDate>Mon, 03 Jun 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Variation in daily ultraviolet light exposure and sun protection behaviours of melanoma survivors: an observational single-arm pilot study with a wearable sensor</title>
+      <link>http://localhost:1313/publications/variation-in-daily-ultraviolet-light-exposure/</link>
+      <pubDate>Fri, 01 Feb 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/variation-in-daily-ultraviolet-light-exposure/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is more always better? Discovering incentivized mHealth intervention engagement related to health behavior trends</title>
+      <link>http://localhost:1313/publications/is-more-always-better/</link>
+      <pubDate>Thu, 27 Dec 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/is-more-always-better/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predictors of Cardiovascular Health Trends in College Students</title>
+      <link>http://localhost:1313/publications/predictors-of-cardiovascular-health-trends/</link>
+      <pubDate>Tue, 06 Nov 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/predictors-of-cardiovascular-health-trends/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Habits necklace: A neck-worn sensor that captures eating related behavior and more</title>
+      <link>http://localhost:1313/publications/habits-necklace/</link>
+      <pubDate>Mon, 08 Oct 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/habits-necklace/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting Perceived Stress Through Mirco-EMAs and a Flexible Wearable ECG Device</title>
+      <link>http://localhost:1313/publications/predicting-perceived-stress/</link>
+      <pubDate>Mon, 08 Oct 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/predicting-perceived-stress/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Estimating caloric intake in bedridden hospital patients with audio and neck-worn sensors</title>
+      <link>http://localhost:1313/publications/estimating-caloric-intake-in-bedridden-hospital/</link>
+      <pubDate>Wed, 26 Sep 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/estimating-caloric-intake-in-bedridden-hospital/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I can&#39;t be myself: effects of wearable cameras on the capture of authentic behavior in the wild</title>
+      <link>http://localhost:1313/publications/i-cant-be-myself/</link>
+      <pubDate>Tue, 18 Sep 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/i-cant-be-myself/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2018</title>
+      <link>http://localhost:1313/news/news6/</link>
+      <pubDate>Sat, 08 Sep 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daily Minutes of Unprotected Sun Exposure (MUSE) inventory: measure description and comparisons to UVR sensor and sun protection survey data</title>
+      <link>http://localhost:1313/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</link>
+      <pubDate>Sat, 01 Sep 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/daily-minutes-of-unprotected-sun-exposure-muse-inventory/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2018</title>
+      <link>http://localhost:1313/news/news7/</link>
+      <pubDate>Sun, 08 Jul 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>I sense overeating: Motif-based machine learning framework to detect overeating using wrist-worn sensing</title>
+      <link>http://localhost:1313/publications/i-sense-overeating/</link>
+      <pubDate>Tue, 01 May 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/i-sense-overeating/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-2/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-2/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <link>http://localhost:1313/grants/sensewhy/</link>
+      <pubDate>Tue, 05 Dec 2017 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/sensewhy/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Obesity, caused primarily by overeating relative to need, is a preventable chronic disease that affects 42.4% of US adults, increasing their risk of cardiovascular disease. Obesity also exacts staggering costs on the US healthcare system.&lt;/p&gt;&#xA;&lt;p&gt;A challenge in treating obesity is that, unlike substance abuse, the treatment goal cannot be simply to extinguish the ingestive behavior, as eating is necessary to sustain life. Obesity treatment would benefit greatly from an ability to discriminate between and intervene upon the specific problematic eating behavioral phenotypes that foster obesity.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-3/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-3/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Wearable food intake monitoring technologies: A comprehensive review</title>
+      <link>http://localhost:1313/publications/wearable-food-intake-monitoring-technologies/</link>
+      <pubDate>Wed, 01 Mar 2017 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/wearable-food-intake-monitoring-technologies/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-4/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-4/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>A robust remote health monitoring and data processing system for rural area with limited internet access</title>
+      <link>http://localhost:1313/publications/a-robust-remote-health-monitoring/</link>
+      <pubDate>Thu, 15 Dec 2016 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/a-robust-remote-health-monitoring/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-5/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-5/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Monitoring eating habits using a piezoelectric sensor-based necklace</title>
+      <link>http://localhost:1313/publications/monitoring-eating-habits/</link>
+      <pubDate>Sun, 01 Mar 2015 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/monitoring-eating-habits/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-6/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-6/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>A framework for predicting adherence in remote health monitoring systems</title>
+      <link>http://localhost:1313/publications/a-framework-for-predicting-adherence/</link>
+      <pubDate>Wed, 29 Oct 2014 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/a-framework-for-predicting-adherence/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-7/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-7/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Non-invasive monitoring of eating behavior using spectrogram analysis in a wearable necklace</title>
+      <link>http://localhost:1313/publications/non-invasive-monitoring-of-eating/</link>
+      <pubDate>Wed, 08 Oct 2014 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/non-invasive-monitoring-of-eating/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy-8/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy-8/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Spectrogram-based audio classification of nutrition intake</title>
+      <link>http://localhost:1313/publications/spectrogram-based-audio/</link>
+      <pubDate>Wed, 08 Oct 2014 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/spectrogram-based-audio/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1-copy/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1-copy/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Breathsens: A continuous on-bed respiratory monitoring system with torso localization using an unobtrusive pressure sensing array</title>
+      <link>http://localhost:1313/publications/breathsens/</link>
+      <pubDate>Thu, 31 Jul 2014 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/breathsens/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SenseWhy: Overeating in Obesity Through the Lens of Passive Sensing</title>
-      <link>https://HAbitsLab.github.io/grants/grant1/</link>
-      <pubDate>Tue, 05 Oct 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/grants/grant1/</guid>
-      <description>1. Introduction Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.</description>
+      <title>Determining the single best axis for exercise repetition recognition and counting on smartwatches</title>
+      <link>http://localhost:1313/publications/determining-the-single-best-axis-for-exercise/</link>
+      <pubDate>Mon, 16 Jun 2014 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/determining-the-single-best-axis-for-exercise/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Designing a robust activity recognition framework for health and exergaming using wearable sensors</title>
+      <link>http://localhost:1313/publications/designing-a-robust-activity-recognition-framework/</link>
+      <pubDate>Fri, 25 Oct 2013 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/designing-a-robust-activity-recognition-framework/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robust human intensity-varying activity recognition using stochastic approximation in wearable sensors</title>
+      <link>http://localhost:1313/publications/robust-human-intensity-varying/</link>
+      <pubDate>Mon, 06 May 2013 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/robust-human-intensity-varying/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opportunistic hierarchical classification for power optimization in wearable movement monitoring systems</title>
+      <link>http://localhost:1313/publications/opportunistic-hierarchical-classification/</link>
+      <pubDate>Wed, 20 Jun 2012 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/opportunistic-hierarchical-classification/</guid>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models</title>
+      <link>http://localhost:1313/grants/nsf-eager-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/grants/nsf-eager-/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Studying human behavior has traditionally been theory-based, deriving a set of constructs or complex concepts (e.g., self-efficacy or attitude towards behavior) and relationships between variables to explain or predict behavior and then subjecting components of the theory to empirical testing. Ecological momentary assessments (EMAs) allow participants to report behavior when events occur using their smartphones. However, they are still prone to bias and prevent contextual understanding of behavior in free-living settings. Wearable mobile sensors enable quantitative representation of coarse (e.g., a person eating alone or with friends) and fine-grained behaviors (e.g., number of feeding gestures), facilitating the development of new behavioral models that explain and predict problematic behavior such as overeating. This will allow the behaviorist to construct models that more closely represent reality and enable the improved design of interventions that change behavior. However, building models of these behaviors requires a reliable, consistent, and constant source of ground truth for development and verification. Researchers can automatically uncover contextual information about human behavior in their natural habitat using wearable cameras combined with IR-sensor arrays and advanced computational methods. However, wearers&amp;rsquo; perception of the bystanders&amp;rsquo; privacy concerns is reported to be the leading reason people are not willing to wear cameras in daily life continuously.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

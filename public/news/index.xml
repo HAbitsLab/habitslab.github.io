@@ -2,109 +2,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on HabitsLab</title>
-    <link>https://HAbitsLab.github.io/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on HabitsLab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 15:09:31 -0600</lastBuildDate><atom:link href="https://HAbitsLab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jun 2024 12:09:31 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news6-copy/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news6-copy/</guid>
+      <title>HABits Lab Alum Shibo Zhang wins MDPI Sensors Best Paper Award</title>
+      <link>http://localhost:1313/news/shibosensors/</link>
+      <pubDate>Tue, 04 Jun 2024 12:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/shibosensors/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news6/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news6/</guid>
+      <title>Dr. Alshurafa presents on SmokeMon at UbiComp/ISWC 2023</title>
+      <link>http://localhost:1313/news/ubicomp23/</link>
+      <pubDate>Tue, 10 Oct 2023 06:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/ubicomp23/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news7-copy/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news7-copy/</guid>
+      <title>Drs. Alshurafa &amp; Jacobs&#39; Prenatal Stress Work Profiled by CASMI</title>
+      <link>http://localhost:1313/news/casmi/</link>
+      <pubDate>Fri, 22 Sep 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/casmi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news7/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news7/</guid>
+      <title>HABits Lab Student Glenn Fernandes Passes Qualifying Exam</title>
+      <link>http://localhost:1313/news/glenn-qual/</link>
+      <pubDate>Fri, 22 Sep 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/glenn-qual/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news8-copy/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news8-copy/</guid>
+      <title>HABits Lab postdoc Mahdi Pedram accepts faculty position at Depaul University</title>
+      <link>http://localhost:1313/news/mahdidu/</link>
+      <pubDate>Tue, 15 Aug 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/mahdidu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news8/</link>
-      <pubDate>Sat, 08 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news8/</guid>
+      <title>Glenn Fernandes&#39; paper on explainable AI accepted by JMIR</title>
+      <link>http://localhost:1313/news/glennjmir/</link>
+      <pubDate>Fri, 09 Jun 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/glennjmir/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news4/</link>
-      <pubDate>Fri, 07 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news4/</guid>
+      <title>HABits Lab partners with Palbud Inc. on autism wearable project</title>
+      <link>http://localhost:1313/news/palbud/</link>
+      <pubDate>Mon, 01 May 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/palbud/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news5/</link>
-      <pubDate>Thu, 06 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news5/</guid>
+      <title>Glenn Fernandes&#39; paper on cartoonized life-vlogging accepted by ACM SIGCHI</title>
+      <link>http://localhost:1313/news/cartoonchi/</link>
+      <pubDate>Sun, 09 Apr 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/cartoonchi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TITLE</title>
-      <link>https://HAbitsLab.github.io/news/news3/</link>
-      <pubDate>Wed, 05 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news3/</guid>
+      <title>Dr. Alshurafa interviewed by FOX 32 Chicago on SmokeMon</title>
+      <link>http://localhost:1313/news/fox32smokemon/</link>
+      <pubDate>Tue, 21 Feb 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/fox32smokemon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Dr. Alshurafa receives NSF EAGER Award</title>
-      <link>https://HAbitsLab.github.io/news/news2/</link>
-      <pubDate>Mon, 03 Jan 2022 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news2/</guid>
+      <title>Digital Trends publishes article discussing SmokeMon technology</title>
+      <link>http://localhost:1313/news/digitaltrendssmokemon/</link>
+      <pubDate>Tue, 14 Feb 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/digitaltrendssmokemon/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Dr. Alshurafa interviewed by WGN9 Chicago on SmokeMon</title>
+      <link>http://localhost:1313/news/wgn9smokemon/</link>
+      <pubDate>Tue, 14 Feb 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/wgn9smokemon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experience paper accepted at Case Studies of HCI in Practice (CHI23)</title>
+      <link>http://localhost:1313/news/experience/</link>
+      <pubDate>Sun, 01 Jan 2023 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/experience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HABits Lab student Rawan Alharbi accepts position at Apple Inc.</title>
+      <link>http://localhost:1313/news/rawanapple/</link>
+      <pubDate>Tue, 15 Nov 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/rawanapple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soroush and Rawan&#39;s paper got accepted at ACM IMWUT 2022</title>
+      <link>http://localhost:1313/news/smokemon/</link>
+      <pubDate>Tue, 01 Nov 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/smokemon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HABits Lab student Shibo Zhang accepts position at Hewlett Packard</title>
+      <link>http://localhost:1313/news/shibohp/</link>
+      <pubDate>Sat, 15 Oct 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/shibohp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soroush&#39;s paper got accepted at IEEE BHI-BSN 2022</title>
+      <link>http://localhost:1313/news/news10/</link>
+      <pubDate>Wed, 28 Sep 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Boyang&#39;s paper got accepted at JMIR Mhealth Uhealth 2022</title>
+      <link>http://localhost:1313/news/explainability/</link>
+      <pubDate>Tue, 02 Aug 2022 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/explainability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Alshurafa receives NIH R01 Award from NIDDK</title>
+      <link>http://localhost:1313/news/news9/</link>
+      <pubDate>Sun, 01 Aug 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Alshurafa receives NIH R03 Award from NIDDK</title>
+      <link>http://localhost:1313/news/news11/</link>
+      <pubDate>Thu, 01 Apr 2021 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubicomp Best Poster Award (Won By Landslide) for our paper VibroScale</title>
+      <link>http://localhost:1313/news/news4/</link>
+      <pubDate>Wed, 07 Oct 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Alshurafa receives NIH R21 Award from NIBIB</title>
+      <link>http://localhost:1313/news/news5/</link>
+      <pubDate>Tue, 06 Oct 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubicomp Best Presentation Award (Runner-Up) for our paper NeckSense</title>
+      <link>http://localhost:1313/news/news3/</link>
+      <pubDate>Mon, 05 Oct 2020 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news3/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
-      <link>https://HAbitsLab.github.io/news/news1/</link>
-      <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
-      
-      <guid>https://HAbitsLab.github.io/news/news1/</guid>
+      <link>http://localhost:1313/news/news8/</link>
+      <pubDate>Sun, 08 Sep 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news8/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2019</title>
+      <link>http://localhost:1313/news/news1/</link>
+      <pubDate>Tue, 03 Sep 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Alshurafa receives NSF EAGER Award</title>
+      <link>http://localhost:1313/news/news2/</link>
+      <pubDate>Mon, 03 Jun 2019 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2018</title>
+      <link>http://localhost:1313/news/news6/</link>
+      <pubDate>Sat, 08 Sep 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper Accepted at ACM IMWUT (Ubicomp) 2018</title>
+      <link>http://localhost:1313/news/news7/</link>
+      <pubDate>Sun, 08 Jul 2018 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/news7/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
