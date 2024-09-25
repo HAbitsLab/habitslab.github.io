@@ -3,8 +3,8 @@ title: "An End-to-End Energy-Efficient Approach for Intake Detection With Low In
 date: 2023-05-16T15:09:31-06:00
 draft: false
 authors: [{name: "Boyang Wei", profile: "/profiles/boyang"},{name: "Shibo Zhang", profile: ""}, {name: "Xingjian Diao", profile: ""},  {name: "Qiuyang Zhu", profile: ""}, {name: "Yang Gao", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com"
+has_github_link: true
+github_link: "https://ieeexplore.ieee.org/abstract/document/10124956/"
 
 ---
 

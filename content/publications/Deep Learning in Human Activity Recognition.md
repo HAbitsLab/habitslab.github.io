@@ -3,8 +3,8 @@ title: "Deep Learning in Human Activity Recognition with Wearable Sensors: A Rev
 date: 2022-02-14T15:09:31-06:00
 draft: false
 authors: [{name: "Shibo Zhang", profile: ""}, {name: "Yaxuan Li", profile: ""}, {name: "Shen Zhang", profile: ""}, {name: "Farzad Shahabi", profile: "/profiles/farzad"}, {name: "Stephen Xia", profile: ""}, {name: "Yu Deng", profile: ""}, {name: "Nabil Alshurafa", profile: ""}]
-has_github_link: false
-github_link: "https://github.com/"
+has_github_link: true
+github_link: "https://www.mdpi.com/1424-8220/22/4/1476"
 
 ---
 

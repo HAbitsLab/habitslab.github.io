@@ -3,8 +3,8 @@ title: "An Explainable Artificial Intelligence Software Tool for Weight Manageme
 date: 2023-09-06T15:09:31-06:00
 draft: false
 authors: [{name: "Glenn Fernandes", profile: "/profiles/glenn"}, {name: "Arthur Choi", profile: ""}, {name: "Jacob Schauer", profile: ""}, {name: "Angela F Pfammatter", profile: ""}, {name: "Bonnie Spring", profile: ""},{name: "Adnan Darwiche", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com"
+has_github_link: true
+github_link: "https://www.jmir.org/2023/1/e42047/"
 
 ---
 ### Abstract

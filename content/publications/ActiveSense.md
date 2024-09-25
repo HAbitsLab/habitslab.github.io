@@ -3,8 +3,8 @@ title: "ActiveSense: A Novel Active Learning Framework for Human Activity Recogn
 date: 2022-05-06T15:09:31-06:00
 draft: false
 authors: [{name: "Farzad Shahabi", profile: "/profiles/farzad"}, {name: "Yang Gao", profile: ""}, {name: "Nabil Alshurafa", profile: ""}]
-has_github_link: false
-github_link: "https://github.com/"
+has_github_link: true
+github_link: "https://ieeexplore.ieee.org/abstract/document/9767388/"
 
 ---
 

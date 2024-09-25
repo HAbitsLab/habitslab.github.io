@@ -3,8 +3,8 @@ title: "NIR-sighted: A Programmable Streaming Architecture for Low-Energy Human-
 date: 2024-09-11T15:09:31-06:00
 draft: false
 authors: [{name: "John Mamish", profile: ""}, {name: "Rawan Alharbi", profile: ""}, {name: "Sougata Sen", profile: ""}, {name: "Shashank Holla", profile: ""}, {name: "Panchami Kamath", profile: ""}, {name: "Yaman Sangar", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}, {name: "Josiah Hester", profile: ""}]
-has_github_link: false
-github_link: "https://github.com/"
+has_github_link: true
+github_link: "https://dl.acm.org/doi/full/10.1145/3672076"
 
 ---
 

@@ -3,8 +3,8 @@ title: "HabitSense: A Privacy-Aware, AI-Enhanced Multimodal Wearable Platform fo
 date: 2024-09-09T15:09:31-06:00
 draft: false
 authors: [{name: "Glenn Fernandes", profile: "/profiles/glenn"}, {name: "Jiayi Zheng", profile: "/profiles/jiayi"}, {name: "Mahdi Pedram", profile: "/profiles/mahdi"}, {name: "Christopher Romano", profile: "/profiles/chris"}, {name: "Farzad Shahabi", profile: "/profiles/farzad"}, {name: "Blaine Rothrock", profile: ""}, {name: "Thomas Cohen", profile: ""}, {name: "Helen Zhu", profile: ""}, {name: "Tanmeet Butani", profile: "/profiles/tanmeet"}, {name: "Josiah Hester", profile: ""}, {name: "Aggelos Katsaggelos", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com/"
+has_github_link: true
+github_link: "https://dl.acm.org/doi/abs/10.1145/3678591"
 
 ---
 

@@ -3,8 +3,8 @@ title: "SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable En
 date: 2023-01-13T15:09:31-06:00
 draft: false
 authors: [{name: "Rawan Alharbi", profile: ""},{name: "Soroush Shahi", profile: "/profiles/soroush"}, {name: "Stefany Cruz", profile: ""}, {name: "Lingfeng Li", profile: ""}, {name: "Sougata Sen", profile: ""}, {name: "Mahdi Pedram", profile: "/profiles/mahdi"}, {name: "Christopher Romano", profile: ""}, {name: "Josiah Hester", profile: ""}, {name: "Aggelos K. Katsaggelos", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com/habitslab/smokemon"
+has_github_link: true
+github_link: "https://dl.acm.org/doi/abs/10.1145/3569460"
 
 ---
 

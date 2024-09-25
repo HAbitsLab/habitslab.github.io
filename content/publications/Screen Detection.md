@@ -3,8 +3,8 @@ title: "Detecting Screen Presence with Activity-Oriented RGB Camera in Egocentri
 date: 2022-09-29T15:09:31-06:00
 draft: false
 authors: [{name: "Amit Adate", profile: ""}, {name: "Soroush Shahi", profile: "/profiles/soroush"}, {name: "Rawan Alharbi", profile: ""}, {name: "Sougata Sen", profile: ""}, {name: "Yang Gao", profile: ""}, {name: "Aggelos K Katsaggelos", profile: ""}, {name: "Nabil Alshurafa", profile: ""}]
-has_github_link: false
-github_link: "https://github.com"
+has_github_link: true
+github_link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9704366/"
 
 ---
 

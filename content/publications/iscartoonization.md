@@ -4,8 +4,8 @@ title: "Is cartoonized life-vlogging the key to increasing adoption of activity-
 date: 2023-04-28T15:09:31-06:00
 draft: false
 authors: [{name: "Glenn Fernandes", profile: "/profiles/glenn"},{name: "Helen Zhu", profile: "/profiles/helen"}, {name: "Mahdi Pedram", profile: "/profiles/mahdi"},  {name: "Jacob Schauer", profile: ""}, {name: "Soroush Shahi", profile: "/profiles/soroush"}, {name: "Christopher Romano", profile: "/profiles/chris"}, {name: "Darren Gergle", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com"
+has_github_link: true
+github_link: "https://dl.acm.org/doi/abs/10.1145/3544549.3585812"
 
 ---
 

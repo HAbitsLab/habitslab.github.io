@@ -4,7 +4,7 @@ date: 2022-09-29T15:09:31-06:00
 draft: false
 authors: [{name: "Soroush Shahi", profile: "/profiles/soroush"}, {name: "Rawan Alharbi", profile: ""}, {name: "Yang Gao", profile: ""}, {name: "Sougata Sen", profile: ""}, {name: "Aggelos K Katsaggelos", profile: ""}, {name: "Josiah Hester", profile: ""}, {name: "Nabil Alshurafa", profile: ""}]
 has_github_link: true
-github_link: "https://github.com/HAbitsLab/HOBM"
+github_link: "https://ieeexplore.ieee.org/abstract/document/9767447/"
 
 ---
 

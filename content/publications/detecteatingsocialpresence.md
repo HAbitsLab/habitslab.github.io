@@ -3,8 +3,8 @@ title: "Detecting Eating and Social Presence with All Day Wearable RGB-T"
 date: 2023-07-21T15:09:31-06:00
 draft: false
 authors: [{name: "Soroush Shahi", profile: "/profiles/soroush"}, {name: "Sougata Sen", profile: ""}, {name: "Mahdi Pedram", profile: "/profiles/mahdi"}, {name: "Rawan Alharbi", profile: ""}, {name: "Yang Gao", profile: ""},{name: "Aggelos Katsaggelos", profile: ""}, {name: "Josiah Hester", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com"
+has_github_link: true
+github_link: "https://dl.acm.org/doi/abs/10.1145/3580252.3586974"
 
 ---
 

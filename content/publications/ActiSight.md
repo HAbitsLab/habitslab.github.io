@@ -4,7 +4,7 @@ date: 2022-03-21T15:09:31-06:00
 draft: false
 authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
 has_github_link: true
-github_link: "https://github.com/"
+github_link: "https://ieeexplore.ieee.org/abstract/document/9762385/"
 
 ---
 

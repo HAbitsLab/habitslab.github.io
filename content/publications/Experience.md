@@ -3,8 +3,8 @@ title: "Experience: Barriers and Opportunities of Wearables for Eating Research"
 date: 2023-04-28T15:09:31-06:00
 draft: false
 authors: [{name: "Mahdi Pedram", profile: "/profiles/mahdi"}, {name: "Glenn Fernandes", profile: "/profiles/glenn"}, {name: "Christopher Romano", profile: "/profiles/chris"}, {name: "Boyang Wei", profile: "/profiles/boyang"}, {name: "Sougata Sen", profile: ""}, {name: "Josiah Hester", profile: ""}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
-has_github_link: false
-github_link: "https://github.com"
+has_github_link: true
+github_link: "https://dl.acm.org/doi/abs/10.1145/3544549.3573841"
 
 ---
 

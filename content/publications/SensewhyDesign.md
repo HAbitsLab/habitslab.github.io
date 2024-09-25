@@ -3,8 +3,8 @@ title: "Rationale and design of the SenseWhy project: A passive sensing and ecol
 date: 2023-04-27T15:09:31-06:00
 draft: false
 authors: [{name: "Nabil Alshurafa", profile: "/profiles/nabil"}, {name: "Tammy K Stump", profile: ""}, {name: "Christopher Romano", profile: "/profiles/chris"}, {name: "Angela F Pfammatter", profile: ""}, {name: "Annie W Lin", profile: ""}, {name: "Josiah Hester", profile: ""}, {name: "Donald Hedeker", profile: ""}, {name: "Evan Forman", profile: ""}, {name: "Bonnie Spring", profile: ""}]
-has_github_link: false
-github_link: "https://github.com"
+has_github_link: true
+github_link: "https://journals.sagepub.com/doi/abs/10.1177/20552076231158314"
 
 ---
 

@@ -3,7 +3,7 @@ title: "Designing a robust activity recognition framework for health and exergam
 date: 2013-10-25T15:09:31-06:00
 draft: false
 authors: [{name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}, {name: "Nabil Alshurafa", profile: "/profiles/firstname_lastname"}]
-has_github_link: true
+has_github_link: false
 github_link: "https://github.com/"
 
 ---
