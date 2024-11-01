@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on HabitsLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2024 15:09:31 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 15:09:31 -0600</lastBuildDate>
     <atom:link href="https://HAbitsLab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farzad&#39;s paper got accepted by Nature Digital Medicine 2024</title>
+      <link>https://HAbitsLab.github.io/news/farzad_nature/</link>
+      <pubDate>Mon, 14 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/farzad_nature/</guid>
+      <description></description>
+    </item>
     <item>
       <title>NIR-sighted: A Programmable Streaming Architecture for Low-Energy Human-Centric Vision Applications</title>
       <link>https://HAbitsLab.github.io/publications/nirsighted/</link>
@@ -27,6 +34,13 @@
       <link>https://HAbitsLab.github.io/news/shibosensors/</link>
       <pubDate>Tue, 04 Jun 2024 12:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/news/shibosensors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5 SBM abstracts got accepted from HABits Lab 2024</title>
+      <link>https://HAbitsLab.github.io/news/sbm2024/</link>
+      <pubDate>Wed, 01 Nov 2023 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/sbm2024/</guid>
       <description></description>
     </item>
     <item>
@@ -149,6 +163,13 @@
       <description></description>
     </item>
     <item>
+      <title>Boyang Wei&#39;s paper accepted by IEEE Journal of Biomedical and Health Informatics 2023</title>
+      <link>https://HAbitsLab.github.io/news/jbhi_boyang/</link>
+      <pubDate>Sat, 04 Feb 2023 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/jbhi_boyang/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal</title>
       <link>https://HAbitsLab.github.io/publications/smokemon/</link>
       <pubDate>Fri, 13 Jan 2023 15:09:31 -0600</pubDate>
@@ -258,7 +279,7 @@
       <link>https://HAbitsLab.github.io/profiles/boyang/</link>
       <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/profiles/boyang/</guid>
-      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;M.S. Analytics, Georgetown University&lt;/p&gt;&#xA;&lt;p&gt;B.S. Biochemistry, University of Washington&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;M.S. Analytics, Georgetown University&lt;/p&gt;&#xA;&lt;p&gt;B.S. Biochemistry, University of Washington&lt;/p&gt;&#xA;&lt;h3 id=&#34;research&#34;&gt;Research&lt;/h3&gt;&#xA;&lt;p&gt;My line of research focuses on building resource-constrained ML models for behavioral and physical activities recognition from wearables.&lt;/p&gt;&#xA;&lt;p&gt;I have a mixed background of Biochemistry, Computer Science and Analytics. My research interests range from machine learning, data analytics to mHealth and passive sensing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;website&#34;&gt;Website&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://boyangw.com/&#34;&gt;https://boyangw.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chris Romano</title>
@@ -426,7 +447,7 @@
       <link>https://HAbitsLab.github.io/grants/eat/</link>
       <pubDate>Tue, 27 Jul 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/grants/eat/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans or machines. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;&#xA;&lt;p&gt;Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity. However, the stream of images obtained from these wearable cameras embeds more details than needed&lt;/p&gt;</description>
     </item>
     <item>
       <title>Moving the dial on prenatal stress mechanisms of neurodevelopmental vulnerability to mental health problems: A personalized prevention proof of concept</title>
@@ -653,6 +674,13 @@
       <description></description>
     </item>
     <item>
+      <title>EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models</title>
+      <link>https://HAbitsLab.github.io/grants/nsf-eager-/</link>
+      <pubDate>Wed, 05 Jun 2019 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/grants/nsf-eager-/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Studying human behavior has traditionally been theory-based, deriving a set of constructs or complex concepts (e.g., self-efficacy or attitude towards behavior) and relationships between variables to explain or predict behavior and then subjecting components of the theory to empirical testing. Ecological momentary assessments (EMAs) allow participants to report behavior when events occur using their smartphones. However, they are still prone to bias and prevent contextual understanding of behavior in free-living settings. Wearable mobile sensors enable quantitative representation of coarse (e.g., a person eating alone or with friends) and fine-grained behaviors (e.g., number of feeding gestures), facilitating the development of new behavioral models that explain and predict problematic behavior such as overeating. This will allow the behaviorist to construct models that more closely represent reality and enable the improved design of interventions that change behavior. However, building models of these behaviors requires a reliable, consistent, and constant source of ground truth for development and verification. Researchers can automatically uncover contextual information about human behavior in their natural habitat using wearable cameras combined with IR-sensor arrays and advanced computational methods. However, wearers&amp;rsquo; perception of the bystanders&amp;rsquo; privacy concerns is reported to be the leading reason people are not willing to wear cameras in daily life continuously.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Dr. Alshurafa receives NSF EAGER Award</title>
       <link>https://HAbitsLab.github.io/news/news2/</link>
       <pubDate>Mon, 03 Jun 2019 15:09:31 -0600</pubDate>
@@ -819,13 +847,6 @@
       <pubDate>Wed, 20 Jun 2012 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/publications/opportunistic-hierarchical-classification/</guid>
       <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models</title>
-      <link>https://HAbitsLab.github.io/grants/nsf-eager-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://HAbitsLab.github.io/grants/nsf-eager-/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Studying human behavior has traditionally been theory-based, deriving a set of constructs or complex concepts (e.g., self-efficacy or attitude towards behavior) and relationships between variables to explain or predict behavior and then subjecting components of the theory to empirical testing. Ecological momentary assessments (EMAs) allow participants to report behavior when events occur using their smartphones. However, they are still prone to bias and prevent contextual understanding of behavior in free-living settings. Wearable mobile sensors enable quantitative representation of coarse (e.g., a person eating alone or with friends) and fine-grained behaviors (e.g., number of feeding gestures), facilitating the development of new behavioral models that explain and predict problematic behavior such as overeating. This will allow the behaviorist to construct models that more closely represent reality and enable the improved design of interventions that change behavior. However, building models of these behaviors requires a reliable, consistent, and constant source of ground truth for development and verification. Researchers can automatically uncover contextual information about human behavior in their natural habitat using wearable cameras combined with IR-sensor arrays and advanced computational methods. However, wearers&amp;rsquo; perception of the bystanders&amp;rsquo; privacy concerns is reported to be the leading reason people are not willing to wear cameras in daily life continuously.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

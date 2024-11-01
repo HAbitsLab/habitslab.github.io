@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://HAbitsLab.github.io/news/farzad_nature/</loc>
+    <lastmod>2024-10-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/</loc>
+    <lastmod>2024-10-14T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/publications/nirsighted/</loc>
     <lastmod>2024-09-11T15:09:31-06:00</lastmod>
   </url><url>
@@ -14,8 +20,8 @@
     <loc>https://HAbitsLab.github.io/news/shibosensors/</loc>
     <lastmod>2024-06-04T12:09:31-06:00</lastmod>
   </url><url>
-    <loc>https://HAbitsLab.github.io/news/</loc>
-    <lastmod>2024-06-04T12:09:31-06:00</lastmod>
+    <loc>https://HAbitsLab.github.io/news/sbm2024/</loc>
+    <lastmod>2023-11-01T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/news/ubicomp23/</loc>
     <lastmod>2023-10-10T06:09:31-06:00</lastmod>
@@ -70,6 +76,9 @@
   </url><url>
     <loc>https://HAbitsLab.github.io/news/wgn9smokemon/</loc>
     <lastmod>2023-02-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>https://HAbitsLab.github.io/news/jbhi_boyang/</loc>
+    <lastmod>2023-02-04T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/publications/smokemon/</loc>
     <lastmod>2023-01-13T15:09:31-06:00</lastmod>
@@ -296,6 +305,9 @@
     <loc>https://HAbitsLab.github.io/news/news1/</loc>
     <lastmod>2019-09-03T15:09:31-06:00</lastmod>
   </url><url>
+    <loc>https://HAbitsLab.github.io/grants/nsf-eager-/</loc>
+    <lastmod>2019-06-05T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>https://HAbitsLab.github.io/news/news2/</loc>
     <lastmod>2019-06-03T15:09:31-06:00</lastmod>
   </url><url>
@@ -369,8 +381,6 @@
     <lastmod>2012-06-20T15:09:31-06:00</lastmod>
   </url><url>
     <loc>https://HAbitsLab.github.io/categories/</loc>
-  </url><url>
-    <loc>https://HAbitsLab.github.io/grants/nsf-eager-/</loc>
   </url><url>
     <loc>https://HAbitsLab.github.io/tags/</loc>
   </url>
