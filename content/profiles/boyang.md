@@ -14,4 +14,11 @@ M.S. Analytics, Georgetown University
 
 B.S. Biochemistry, University of Washington
 
-[comment]: <> (### Selected Publications)
+### Research
+My line of research focuses on building resource-constrained ML models for behavioral and physical activities recognition from wearables.
+
+I have a mixed background of Biochemistry, Computer Science and Analytics. My research interests range from machine learning, data analytics to mHealth and passive sensing.
+
+### Website
+
+https://boyangw.com/

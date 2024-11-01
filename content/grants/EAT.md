@@ -11,15 +11,21 @@ primary_investigator: {name: "Nabil Alshurafa",
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png" ,
                        profile: "https://www.github.com"}
-coinvestigators: [{name: "Name1", title: "Researcher", description: "description description description", img: "/img/im-8.png", profile: "https://www.github.com"}, 
-                {name: "Name2", title: "Researcher", description: "desction description description", img: "/img/im-7.png", profile: "https://www.github.com"}]
+coinvestigators: [
+            {name: "Angela Fidler Pfammatter", 
+            title: "Adjunct Associate Professor of Preventive Medicine (Behavioral Medicine)", description: "", img: "/img/Angela.jpg", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34056"},
+            {name: "Annie W. Lin", title: "Assistant Professor of Nutrition Informatics, Hormel Institute, University of Minnesota", description: "desction description description", img: "/img/Annie.jpg", profile: "https://hi.umn.edu/research/faculty/annie-w-lin-phd"},
+            {name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science College of Computing, Georgia Institute of Technology", description: "desction description description", img: "/img/josiah.png", profile: "https://josiahhester.com/cv/"},
+            {name: "Lucia C Petito", title: "Assistant Professor of Preventive Medicine (Biostatistics and Informatics)", description: "desction description description", img: "/img/Lucia.png", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=45330"},
+            {name: "Blaine Rothrock", title: "Researcher", description: "description description description", img: "/img/im-8.png", profile: "https://blainerothrock.com/"}, 
+            {name: "Soroush Shahi", title: "Researcher", description: "desction description description", img: "/img/im-7.png", profile: "https://www.thehabitslab.com/profiles/soroush/"}]
 ---
 
 ### 1. Introduction
 
-Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
+Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans or machines. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
 
-Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity [4, 8, 9, 61, 80]. However, the stream of images obtained from these wearable cameras embeds more details than needed
+Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity. However, the stream of images obtained from these wearable cameras embeds more details than needed
 
 ### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
 

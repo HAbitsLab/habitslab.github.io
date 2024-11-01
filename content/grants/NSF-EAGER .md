@@ -1,6 +1,6 @@
 ---
 title: "EAGER: SaTC: Early-Stage Interdisciplinary Collaboration: Privacy Enhancing Framework to Advance Behavior Models"
-date: 2019-06-05 T15:09:31-06:00
+date: 2019-06-05T15:09:31-06:00
 draft: false
 logo_image: "/img/NSF.png"
 start_year: 2019

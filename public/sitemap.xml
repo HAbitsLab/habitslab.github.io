@@ -296,6 +296,9 @@
     <loc>http://localhost:1313/news/news1/</loc>
     <lastmod>2019-09-03T15:09:31-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/grants/nsf-eager-/</loc>
+    <lastmod>2019-06-05T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/news2/</loc>
     <lastmod>2019-06-03T15:09:31-06:00</lastmod>
   </url><url>
@@ -369,8 +372,6 @@
     <lastmod>2012-06-20T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/grants/nsf-eager-/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
