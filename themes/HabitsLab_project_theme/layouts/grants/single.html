@@ -106,11 +106,23 @@
                             {{partial "investigator" .Params.primary_investigator}}
 
                             {{ if not (eq (len .Params.coinvestigators) 0)}} 
-                                <h4>Co-investigator</h4>
+                                <h4>Co-investigators</h4>
                                 {{ range .Params.coinvestigators }}
                                     {{partial "coinvestigator" .}}
                                 {{ end }}
                             {{ end }}
+                            {{ if not (eq (len .Params.studentinvestigators) 0)}} 
+                                <h4>Student Investigators</h4>
+                                {{ range .Params.studentinvestigators }}
+                                    {{partial "coinvestigator" .}}
+                                {{ end }}
+                            {{ end }}
+                            {{ if not (eq (len .Params.mentors) 0)}} 
+                            <h4>Mentors</h4>
+                            {{ range .Params.mentors }}
+                                {{partial "coinvestigator" .}}
+                            {{ end }}
+                        {{ end }}
                             <!-- <h4>Related Publications</h4> -->
                             <!-- <div class="pulication__links">
                                 <a href="">Chicago Tribune</a>

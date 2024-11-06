@@ -6,13 +6,49 @@ logo_image: "/img/nh.png"
 start_year: 2018
 end_year: 2023
 funding_amount: "$850,000"
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science, Northwestern University", 
-                       img: "/img/pro-big.png" ,
-                       }
-coinvestigators: [{name: "Bonnie Spring", title: "Director, Institute for Public Health and Medicine (IPHAM)", description: "Professor of Preventive Medicine (Behavioral Medicine), Northwestern University", img: "/img/bonnie_spring.png"}, 
-                {name: "Tammy Stump", title: "Research Associate, Huntsman Cancer Institute, University of Utah", description: "desction description description", img: "/img/p-2.png"}]
+primary_investigator: 
+    {name: "Nabil Alshurafa", 
+    title: "Director of HABits Lab", 
+    description: "Associate Professor of Preventive Medicine and Computer Science, Northwestern University", 
+    img: "/img/pro-big.png" ,
+    profile: "/profiles/nabil"}
+
+coinvestigators: {}
+studentinvestigators: [
+    {name: "Farzad Shahabi", img: "/img/im-2.png", profile: "/profiles/farzad"},
+    {name: "Jiayi (Joey) Zheng", img: "/img/jiayi.jpg", profile: "/profiles/jiayi"}
+    ]
+
+mentors: [
+    {name: "Bonnie Spring",
+    title: "Professor of Preventive Medicine, Northwestern University",
+    img: "/img/bonnie_spring.png"},
+
+    {name: "Donald Hedeker",
+    title: "Professor of Biostatistics, University of Chicago",
+    img: "/img/hedeker.png",
+    profile: "https://health.uchicago.edu/faculty/donald-hedeker-phd"},
+
+    {name: "Santosh Kumar",
+    title: "Professor of Computer Science, University of Memphis",
+    img: "/img/kumar.jpg",
+    profile: "https://www.memphis.edu/cs/people/faculty_pages/santosh-kumar.php"},
+
+    {name: "Robert Kushner",
+    title: "Professor of Medicine, Northwestern University",
+    description: "desction description description",
+    img: "/img/kushner.jpg",
+    profile: "https://drrobertkushner.com/"},
+
+    {name: "Evan Forman",
+    title: "Professor of Psychological and Brain Sciences, Drexel University",
+    img: "/img/forman_evan.jpg",
+    profile: "https://drexel.edu/coas/faculty-research/faculty-directory/psychology-well/faculty-core/Evan-Forman/"},
+
+    {name: "Tammy Stump",
+    title: "Research Associate, Huntsman Cancer Institute, University of Utah",
+    img: "/img/p-2.png",
+    profile: "https://medicine.utah.edu/faculty/tammy-k-stump"}]
 ---
 
 ### 1. Introduction

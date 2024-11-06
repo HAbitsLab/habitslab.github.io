@@ -6,14 +6,21 @@
     <description>Recent content in Grants on HabitsLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 15:09:31 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 15:09:31 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/grants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SESAME: Sun Exposure and Activities after Skin CAncer: Optimization of Mhealth IntErventions</title>
+      <link>http://localhost:1313/grants/sesame/</link>
+      <pubDate>Mon, 01 Jan 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/grants/sesame/</guid>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;There are currently 1.36 million melanoma survivors in the US, and this number is expected to increase to 1.92 million by 2030. Most melanoma patients (92%) survive 5 or more years but face an increased risk of new primary melanoma. Although survivors are recommended to practice sun protection, sunburns remain common among this population. The few sun protection interventions that target at-risk adults have had weak or mixed effects on sun protection, despite often comprising multiple components.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>EAT: A Reliable Eating Assessment Technology for Free-living Individuals</title>
       <link>http://localhost:1313/grants/eat/</link>
       <pubDate>Tue, 27 Jul 2021 15:09:31 -0600</pubDate>
       <guid>http://localhost:1313/grants/eat/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans or machines. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;&#xA;&lt;p&gt;Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity. However, the stream of images obtained from these wearable cameras embeds more details than needed&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Monitoring an individual’s eating behavior will provide detailed understanding of the causal relationship between the eating activity and conditions such as problematic eating and obesity. Manual self-reports are often erroneous and biased. The availability of wearable video cameras makes it possible to objectively capture the eating activity. However, manually observing video frames to obtain the objective measure of eating is burdensome. Additionally, wearable video cameras pose privacy concerns in real-world settings. To overcome these challenges, we are developing an automated eating detection system to monitor real-time eating behavior via a privacy-conscious wearable device that individuals will wear. We will confirm eating activities in real time. Such automatic and privacy-conscious real-time eating detection will allow us to advance our understanding of the eating activity, laying the foundation for future interventions to change problematic eating behaviors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild</title>

@@ -6,13 +6,48 @@
     <description>Recent content in News on HabitsLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 15:09:31 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 15:09:31 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Farzad&#39;s paper got accepted by Nature Digital Medicine 2024</title>
+      <title>Boyang receives Live Research Spotlight award at SBM 2025</title>
+      <link>http://localhost:1313/news/sbmawardboyang25/</link>
+      <pubDate>Wed, 06 Nov 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/sbmawardboyang25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5 HABits Lab abstracts accepted at SBM 2025</title>
+      <link>http://localhost:1313/news/sbm25/</link>
+      <pubDate>Tue, 05 Nov 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/sbm25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IEEE BSN 2024 a huge success, thanks in part to HABits Lab organizers</title>
+      <link>http://localhost:1313/news/bsn24/</link>
+      <pubDate>Thu, 17 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/bsn24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Farzad&#39;s paper accepted by Nature Digital Medicine</title>
       <link>http://localhost:1313/news/farzad_nature/</link>
       <pubDate>Mon, 14 Oct 2024 15:09:31 -0600</pubDate>
       <guid>http://localhost:1313/news/farzad_nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HABits Lab student Glenn Fernandes starts internship at Apple</title>
+      <link>http://localhost:1313/news/glennapple/</link>
+      <pubDate>Tue, 01 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/glennapple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glenn&#39;s HabitSense paper accepted by ACM IMWUT</title>
+      <link>http://localhost:1313/news/habitsenseimwut/</link>
+      <pubDate>Fri, 09 Aug 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/habitsenseimwut/</guid>
       <description></description>
     </item>
     <item>
@@ -23,7 +58,21 @@
       <description></description>
     </item>
     <item>
-      <title>5 SBM abstracts got accepted from HABits Lab 2024</title>
+      <title>Farzad receives Meritorious Abstract and Citation Awards at SBM 2024</title>
+      <link>http://localhost:1313/news/sbmawardfarzad24/</link>
+      <pubDate>Fri, 15 Mar 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/sbmawardfarzad24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chris receives Live Research Spotlight award at SBM 2024</title>
+      <link>http://localhost:1313/news/sbmawardchris24/</link>
+      <pubDate>Thu, 14 Mar 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/news/sbmawardchris24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>6 HABits Lab abstracts accepted at SBM 2024</title>
       <link>http://localhost:1313/news/sbm2024/</link>
       <pubDate>Wed, 01 Nov 2023 15:09:31 -0600</pubDate>
       <guid>http://localhost:1313/news/sbm2024/</guid>

@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/news/sbmawardboyang25/</loc>
+    <lastmod>2024-11-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-11-06T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/sbm25/</loc>
+    <lastmod>2024-11-05T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/bsn24/</loc>
+    <lastmod>2024-10-17T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/farzad_nature/</loc>
     <lastmod>2024-10-14T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
-    <lastmod>2024-10-14T15:09:31-06:00</lastmod>
+    <loc>http://localhost:1313/news/glennapple/</loc>
+    <lastmod>2024-10-01T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/nirsighted/</loc>
     <lastmod>2024-09-11T15:09:31-06:00</lastmod>
@@ -17,8 +29,23 @@
     <loc>http://localhost:1313/publications/habitsense/</loc>
     <lastmod>2024-09-09T15:09:31-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/news/habitsenseimwut/</loc>
+    <lastmod>2024-08-09T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/shibosensors/</loc>
     <lastmod>2024-06-04T12:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/sbmawardfarzad24/</loc>
+    <lastmod>2024-03-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/sbmawardchris24/</loc>
+    <lastmod>2024-03-14T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/grants/</loc>
+    <lastmod>2024-01-01T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/grants/sesame/</loc>
+    <lastmod>2024-01-01T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/sbm2024/</loc>
     <lastmod>2023-11-01T15:09:31-06:00</lastmod>
@@ -201,9 +228,6 @@
     <lastmod>2021-08-01T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/grants/eat/</loc>
-    <lastmod>2021-07-27T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/grants/</loc>
     <lastmod>2021-07-27T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/moving-the-dial-on-prenatal-stress-mechanisms/</loc>

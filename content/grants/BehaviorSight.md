@@ -6,13 +6,40 @@ logo_image: "/img/nh.png"
 start_year: 2020
 end_year: 2023
 funding_amount: "$606,713"
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png",
-                       profile: "https://www.github.com"}
-coinvestigators: [{name: "Bonnie Spring", title: "Professor of Preventive Medicine", description: "description description description", img: "/img/bonnie_spring.png"}, {name: "Aggelos Katsaggelos", title: "Professor of Electrical and Computer Engineering", description: "description description description", img: "/img/aggelos.png"},{name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science", description: "description description description", img: "/img/josiah.png"}
-                ]
+primary_investigator: 
+    {name: "Nabil Alshurafa", 
+    title: "Director of HABits Lab", 
+    description: "Assocate Professor of Preventive Medicine and Computer Science, Northwestern University", 
+    img: "/img/pro-big.png",
+    profile: "/profiles/nabil"}
+
+coinvestigators: [
+    {name: "Bonnie Spring",
+    title: "Professor of Preventive Medicine", 
+    img: "/img/bonnie_spring.png"},
+
+    {name: "Aggelos Katsaggelos",
+    title: "Professor of Electrical and Computer Engineering",
+    img: "/img/aggelos.png"},
+
+    {name: "Josiah Hester",
+    title: "Associate Professor of Interactive Computing and Computer Science",
+    img: "/img/josiah.png"}
+    ]
+
+studentinvestigators: [
+    {name: "Glenn Fernandes",
+    img: "/img/im-6.png",
+    profile: "/profiles/glenn"},
+    {name: "Soroush Shahi",
+    img: "/img/im-7.png",
+    profile: "/profiles/soroush"},
+    {name: "Saki Amagai",
+    img: "/img/saki.jpg",
+    profile: "/profiles/saki"},
+    ]
+
+mentors: {}
 ---
 
 ### Introduction

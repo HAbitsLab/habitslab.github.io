@@ -6,36 +6,68 @@ logo_image: "/img/nh.png"
 start_year: 2021
 end_year: 2026
 funding_amount: "$3,868,150"
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png" ,
-                       profile: "https://www.github.com"}
+primary_investigator: 
+    {name: "Nabil Alshurafa", 
+     title: "Director of HABits Lab", 
+     description: "Associate Professor of Preventive Medicine and of Computer Science, Northwestern University", 
+     img: "/img/pro-big.png" ,
+    profile: "/profiles/nabil"}
 coinvestigators: [
-            {name: "Angela Fidler Pfammatter", 
-            title: "Adjunct Associate Professor of Preventive Medicine (Behavioral Medicine)", description: "", img: "/img/Angela.jpg", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34056"},
-            {name: "Annie W. Lin", title: "Assistant Professor of Nutrition Informatics, Hormel Institute, University of Minnesota", description: "desction description description", img: "/img/Annie.jpg", profile: "https://hi.umn.edu/research/faculty/annie-w-lin-phd"},
-            {name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science College of Computing, Georgia Institute of Technology", description: "desction description description", img: "/img/josiah.png", profile: "https://josiahhester.com/cv/"},
-            {name: "Lucia C Petito", title: "Assistant Professor of Preventive Medicine (Biostatistics and Informatics)", description: "desction description description", img: "/img/Lucia.png", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=45330"},
-            {name: "Blaine Rothrock", title: "Researcher", description: "description description description", img: "/img/im-8.png", profile: "https://blainerothrock.com/"}, 
-            {name: "Soroush Shahi", title: "Researcher", description: "desction description description", img: "/img/im-7.png", profile: "https://www.thehabitslab.com/profiles/soroush/"}]
+     {name: "Angela Fidler Pfammatter", 
+      title: "Associate Professor of Public Health, University of Tennessee Knoxville",
+      img: "/img/Angela.jpg",
+     profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34056"},
+
+     {name: "Annie W. Lin",
+     title: "Assistant Professor of Nutrition Informatics, Hormel Institute, University of Minnesota",
+     img: "/img/Annie.jpg",
+     profile: "https://hi.umn.edu/research/faculty/annie-w-lin-phd"},
+
+    {name: "Josiah Hester",
+    title: "Associate Professor of Interactive Computing and Computer Science College of Computing, Georgia Institute of Technology",
+    img: "/img/josiah.png",
+    profile: "https://josiahhester.com/cv/"},
+
+    {name: "Lucia C Petito",
+    title: "Assistant Professor of Preventive Medicine, Northwestern University",
+    img: "/img/Lucia.png",
+    profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=45330"}
+    ]
+studentinvestigators: [
+    {name: "Blaine Rothrock",
+    img: "/img/im-8.png",
+    profile: "https://blainerothrock.com/"}, 
+
+    {name: "Soroush Shahi",
+    img: "/img/im-7.png",
+    profile: "/profiles/soroush"},
+    
+    {name: "Boyang Wei",
+    img: "/img/im-1.png",
+    profile: "/profiles/boyang"}
+    ]
+mentors: {}
 ---
 
-### 1. Introduction
+### Project Overview
 
-Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans or machines. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.
+Monitoring an individual’s eating behavior will provide detailed understanding of the causal relationship between the eating activity and conditions such as problematic eating and obesity. Manual self-reports are often erroneous and biased. The availability of wearable video cameras makes it possible to objectively capture the eating activity. However, manually observing video frames to obtain the objective measure of eating is burdensome. Additionally, wearable video cameras pose privacy concerns in real-world settings. To overcome these challenges, we are developing an automated eating detection system to monitor real-time eating behavior via a privacy-conscious wearable device that individuals will wear. We will confirm eating activities in real time. Such automatic and privacy-conscious real-time eating detection will allow us to advance our understanding of the eating activity, laying the foundation for future interventions to change problematic eating behaviors.
 
-Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity. However, the stream of images obtained from these wearable cameras embeds more details than needed
+To this end, first we will develop an activity detection algorithm that will allow detecting the eating activity using data from an IR sensor array and RGB images. Next, we will test various obfuscation methods in a cross-over trial and select the best obfuscation method based on the greatest participant acceptability. We will then deploy the eating detection algorithm with the best obfuscation approach on a novel wearable camera that has an infrared sensor array. We will use this camera to test the possibility of detecting eating in a real-world setting. To validate our algorithm, we will ask people to confirm or refute predicted eating and non-eating moments. We will compare the performance of this algorithm against both real-time user response and 24-hour dietary recall to objectively evaluate the algorithm’s performance. Our proposed system will improve current research practices of evaluating dietary intake and pave the way for personalized interventions for behavioral medicine.
 
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
+### Aims
 
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
+##### Aim 1: Compare accuracy of the eating detection algorithm that incorporates each obfuscation method in controlled environments 
+Participants performed eating and non-eating activities in a controlled environment for an entire day. We developed an automated eating detection algorithm using data from each obfuscation method to determine accuracy of eating detection across methods.
 
-![Example image](/img/ht.png)
+###### The study team after setting up for one of the Aim 1 study sessions!
+![Photo of study team during Aim 1 study](/img/eatstudypic.jpeg "The study team during an Aim 1 study session!")
 
-### RQ1: How do different activity-oriented partial obfuscation filters affect the visual confirmation utility of identifying hand-related activities that involve hand-to-head gestures by a human viewer?
+##### Aim 2: Measure acceptability/feasibility of the EAT real-time obfuscation methods
+A cohort of 72 participants will wear the camera using three obfuscation and one non-obfuscation methods (7 consecutive days for each method) during the entire wake period, separated by a 7-day washout. We will assess subjective acceptability and conduct a fully powered experiment by objectively measuring total wear time of each version.
 
-In particular, we want to compare the accuracy of human labels obtained from viewing non-obfuscated videos with the accuracy of the labels derived from viewing the obfuscated videos with different filters. Hand-to-head gestures can be confounding to each other if fine-grained and some contextual information is lost. Therefore, this comparison can help us to determine if the visual confirmation utility is preserved, or not, after applying activity-oriented partial obfuscation to it with different filters. It will also help us to understand the limitations of activity-oriented partial obfuscation and the filters applied.
+##### Aim 3: Test and validate algorithm to assess accuracy of detecting eating in free-living people
+New participants (n=60, 50% with obesity, 50% female) will wear EAT with the best obfuscation method identified by considering results from Aim 1 and 2 for 7-days while self-reporting eating moments and context using a quick tap app implemented on a smartwatch. We will determine how many eating episodes are detected by an EAT informed algorithm and the number of gestures required to capture an eating moment in a real-world setting. 
 
 
 
