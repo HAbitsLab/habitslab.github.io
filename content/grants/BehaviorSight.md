@@ -11,7 +11,7 @@ primary_investigator: {name: "Nabil Alshurafa",
                        description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
                        img: "/img/pro-big.png",
                        profile: "https://www.github.com"}
-coinvestigators: [{name: "Aggelos Katsaggelos", title: "Assistant Professor of Computer Science", description: "description description description", img: "/img/aggelos.png"}
+coinvestigators: [{name: "Bonnie Spring", title: "Professor of Preventive Medicine", description: "description description description", img: "/img/bonnie_spring.png"}, {name: "Aggelos Katsaggelos", title: "Professor of Electrical and Computer Engineering", description: "description description description", img: "/img/aggelos.png"},{name: "Josiah Hester", title: "Associate Professor of Interactive Computing and Computer Science", description: "description description description", img: "/img/josiah.png"}
                 ]
 ---
 

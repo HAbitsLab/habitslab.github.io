@@ -13,7 +13,7 @@
       <link>http://localhost:1313/grants/eat/</link>
       <pubDate>Tue, 27 Jul 2021 15:09:31 -0600</pubDate>
       <guid>http://localhost:1313/grants/eat/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans or machines. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;&#xA;&lt;p&gt;Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity. However, the stream of images obtained from these wearable cameras embeds more details than needed&lt;/p&gt;</description>
     </item>
     <item>
       <title>WildCam: A Privacy Conscious Wearable Eating Detection Camera People will Actually Wear in the Wild</title>
