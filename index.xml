@@ -6,13 +6,41 @@
     <description>Recent content in Homepage on HabitsLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 15:09:31 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 15:09:31 -0600</lastBuildDate>
     <atom:link href="https://HAbitsLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Farzad&#39;s paper got accepted by Nature Digital Medicine 2024</title>
+      <title>Boyang receives Live Research Spotlight award at SBM 2025</title>
+      <link>https://HAbitsLab.github.io/news/sbmawardboyang25/</link>
+      <pubDate>Wed, 06 Nov 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/sbmawardboyang25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5 HABits Lab abstracts accepted at SBM 2025</title>
+      <link>https://HAbitsLab.github.io/news/sbm25/</link>
+      <pubDate>Tue, 05 Nov 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/sbm25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IEEE BSN 2024 a huge success, thanks in part to HABits Lab organizers</title>
+      <link>https://HAbitsLab.github.io/news/bsn24/</link>
+      <pubDate>Thu, 17 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/bsn24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Farzad&#39;s paper accepted by Nature Digital Medicine</title>
       <link>https://HAbitsLab.github.io/news/farzad_nature/</link>
       <pubDate>Mon, 14 Oct 2024 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/news/farzad_nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HABits Lab student Glenn Fernandes starts internship at Apple</title>
+      <link>https://HAbitsLab.github.io/news/glennapple/</link>
+      <pubDate>Tue, 01 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/glennapple/</guid>
       <description></description>
     </item>
     <item>
@@ -30,6 +58,13 @@
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras provide an objective method to visually confirm and automate the detection of health-risk behaviors such as smoking and overeating, which is critical for developing and testing adaptive treatment interventions. Despite the potential of wearable camera systems, adoption is hindered by inadequate clinician input in the design, user privacy concerns, and user burden. To address these barriers, we introduced HabitSense, an open-source1, multi-modal neck-worn platform developed with input from focus groups with clinicians (N=36) and user feedback from in-wild studies involving 105 participants over 35 days. Optimized for monitoring health-risk behaviors, the platform utilizes RGB, thermal, and inertial measurement unit sensors to detect eating and smoking events in real time. In a 7-day study involving 15 participants, HabitSense recorded 768 hours of footage, capturing 420.91 minutes of hand-to-mouth gestures associated with eating and smoking data crucial for training machine learning models, achieving a 92% F1-score in gesture recognition. To address privacy concerns, the platform records only during likely health-risk behavior events using SECURE, a smart activation algorithm. Additionally, HabitSense employs on-device obfuscation algorithms that selectively obfuscate the background during recording, maintaining individual privacy while leaving gestures related to health-risk behaviors unobfuscated. Our implementation of SECURE has resulted in a 48% reduction in storage needs and a 30% increase in battery life. This paper highlights the critical roles of clinician feedback, extensive field testing, and privacy-enhancing algorithms in developing an unobtrusive, lightweight, and reproducible wearable system that is both feasible and acceptable for monitoring health-risk behaviors in real-world settings.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Glenn&#39;s HabitSense paper accepted by ACM IMWUT</title>
+      <link>https://HAbitsLab.github.io/news/habitsenseimwut/</link>
+      <pubDate>Fri, 09 Aug 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/habitsenseimwut/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>HABits Lab Alum Shibo Zhang wins MDPI Sensors Best Paper Award</title>
       <link>https://HAbitsLab.github.io/news/shibosensors/</link>
       <pubDate>Tue, 04 Jun 2024 12:09:31 -0600</pubDate>
@@ -37,7 +72,28 @@
       <description></description>
     </item>
     <item>
-      <title>5 SBM abstracts got accepted from HABits Lab 2024</title>
+      <title>Farzad receives Meritorious Abstract and Citation Awards at SBM 2024</title>
+      <link>https://HAbitsLab.github.io/news/sbmawardfarzad24/</link>
+      <pubDate>Fri, 15 Mar 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/sbmawardfarzad24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chris receives Live Research Spotlight award at SBM 2024</title>
+      <link>https://HAbitsLab.github.io/news/sbmawardchris24/</link>
+      <pubDate>Thu, 14 Mar 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/news/sbmawardchris24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SESAME: Sun Exposure and Activities after Skin CAncer: Optimization of Mhealth IntErventions</title>
+      <link>https://HAbitsLab.github.io/grants/sesame/</link>
+      <pubDate>Mon, 01 Jan 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/grants/sesame/</guid>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;There are currently 1.36 million melanoma survivors in the US, and this number is expected to increase to 1.92 million by 2030. Most melanoma patients (92%) survive 5 or more years but face an increased risk of new primary melanoma. Although survivors are recommended to practice sun protection, sunburns remain common among this population. The few sun protection interventions that target at-risk adults have had weak or mixed effects on sun protection, despite often comprising multiple components.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>6 HABits Lab abstracts accepted at SBM 2024</title>
       <link>https://HAbitsLab.github.io/news/sbm2024/</link>
       <pubDate>Wed, 01 Nov 2023 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/news/sbm2024/</guid>
@@ -286,7 +342,7 @@
       <link>https://HAbitsLab.github.io/profiles/chris/</link>
       <pubDate>Thu, 30 Dec 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/profiles/chris/</guid>
-      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;B.S. in Psychology, Loyola University Chicago&lt;/p&gt;&#xA;&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;&#xA;&lt;p&gt;experimental psychology, social cognition, human computer interaction, language, learning &amp;amp; behavior&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;p&gt;Chris received a BS in Psychology in 2019 from Loyola University Chicago, where he studied how social context affects the way groups perceive and process information. In high school, he completed student nursing rotations in the Pediatric Oncology, Pediatric Intensive Care, and Outpatient Phlebotomy units at Bronson Methodist Hospital in Kalamazoo, Michigan.&lt;/p&gt;&#xA;&lt;h4 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h4&gt;&#xA;&lt;p&gt;Chris is interested in the psychological, human factors, and human-computer interaction elements of mHealth research. He conducts studies of user experiences with sensing devices and runs focus group sessions with clinical providers to glean insights from clinical communities of practice that are relevant to the design and function of proposed mHealth systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dwayne Morgan</title>
@@ -447,7 +503,7 @@
       <link>https://HAbitsLab.github.io/grants/eat/</link>
       <pubDate>Tue, 27 Jul 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/grants/eat/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans or machines. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;&#xA;&lt;p&gt;Behavior at a fine-grained level, and build and validate non-visual wearable devices and their corresponding supervised machine learning algorithms to automate the detection of human activity. However, the stream of images obtained from these wearable cameras embeds more details than needed&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Monitoring an individual’s eating behavior will provide detailed understanding of the causal relationship between the eating activity and conditions such as problematic eating and obesity. Manual self-reports are often erroneous and biased. The availability of wearable video cameras makes it possible to objectively capture the eating activity. However, manually observing video frames to obtain the objective measure of eating is burdensome. Additionally, wearable video cameras pose privacy concerns in real-world settings. To overcome these challenges, we are developing an automated eating detection system to monitor real-time eating behavior via a privacy-conscious wearable device that individuals will wear. We will confirm eating activities in real time. Such automatic and privacy-conscious real-time eating detection will allow us to advance our understanding of the eating activity, laying the foundation for future interventions to change problematic eating behaviors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Moving the dial on prenatal stress mechanisms of neurodevelopmental vulnerability to mental health problems: A personalized prevention proof of concept</title>
