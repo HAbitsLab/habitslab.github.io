@@ -14,8 +14,3 @@ Smoking is the leading cause of preventable death worldwide. Cigarette smoke inc
 
 
 ![Example image](/img/smokemon-showoff.gif)
-
-
-
-
-

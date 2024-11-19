@@ -9,16 +9,20 @@ funding_amount: "$331,781"
 primary_investigator: 
     {name: "Nabil Alshurafa", 
     title: "Director of HABits Lab", 
-    description: "Assocate Professor of Preventive Medicine and Computer Science, Northwestern University", 
     img: "/img/pro-big.png",
     profile: "/profiles/nabil"}
 
-coinvestigators: [
+mpis: [
+    {name: "Nabil Alshurafa", 
+    title: "Director of HABits Lab", 
+    img: "/img/pro-big.png",
+    profile: "/profiles/nabil"},
     {name: "Tammy Stump",
     title: "Research Associate, Huntsman Cancer Institute, University of Utah",
     img: "/img/p-2.png",
-    profile: "https://medicine.utah.edu/faculty/tammy-k-stump"}
-    ]
+    profile: "https://medicine.utah.edu/faculty/tammy-k-stump"}]
+
+coinvestigators: {}
 
 studentinvestigators: [
     {name: "Blaine Rothrock",

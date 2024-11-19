@@ -18,10 +18,3 @@ We trained an ML model using the random forest (RF) algorithm and data from a 6-
 Our RF model had 81% accuracy in the early prediction of weight loss success. Weight management experts were significantly more likely to agree with the model when using PRIMO (χ2=7.9; P=.02) compared with the other 2 methods with odds ratios of 2.52 (95% CI 0.91-7.69) and 3.95 (95% CI 1.50-11.76). From our study, we inferred that our software not only influenced experts’ understanding and trust but also impacted decision-making. Several themes were identified through interviews: preference for multiple explanation types, need to visualize uncertainty in explanations provided by PRIMO, and need for model performance metrics on similar participant test instances.
 #### Conclusions:
 Our results show the potential for weight management experts to agree with the ML-based early prediction of success in weight loss treatment programs, enabling timely and dynamic modification of intervention components to enhance intervention effectiveness. Our findings provide methods for advancing the understandability and trust of ML models among weight management experts.
-
-<!-- ![Example image](/img/screen_detection_framework.png) -->
-
-
-
-
-

@@ -9,9 +9,11 @@ funding_amount: "$3,868,150"
 primary_investigator: 
     {name: "Nabil Alshurafa", 
      title: "Director of HABits Lab", 
-     description: "Associate Professor of Preventive Medicine and of Computer Science, Northwestern University", 
      img: "/img/pro-big.png" ,
     profile: "/profiles/nabil"}
+
+mpis: {}
+
 coinvestigators: [
      {name: "Angela Fidler Pfammatter", 
       title: "Associate Professor of Public Health, University of Tennessee Knoxville",
@@ -28,10 +30,10 @@ coinvestigators: [
     img: "/img/josiah.png",
     profile: "https://josiahhester.com/cv/"},
 
-    {name: "Lucia C Petito",
+    {name: "Jacob M. Schauer",
     title: "Assistant Professor of Preventive Medicine, Northwestern University",
-    img: "/img/Lucia.png",
-    profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=45330"}
+    img: "/img/jake.jpg",
+    profile: "https://www.jmschauer.com/"}
     ]
 studentinvestigators: [
     {name: "Blaine Rothrock",

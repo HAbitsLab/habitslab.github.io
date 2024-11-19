@@ -6,12 +6,12 @@ logo_image: "/img/nh.png"
 start_year: 2020
 end_year: 2023
 funding_amount: "$606,713"
-primary_investigator: 
-    {name: "Nabil Alshurafa", 
+primary_investigator: {name: "Nabil Alshurafa", 
     title: "Director of HABits Lab", 
-    description: "Assocate Professor of Preventive Medicine and Computer Science, Northwestern University", 
     img: "/img/pro-big.png",
     profile: "/profiles/nabil"}
+
+mpis: {}
 
 coinvestigators: [
     {name: "Bonnie Spring",

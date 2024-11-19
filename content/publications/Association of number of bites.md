@@ -33,6 +33,3 @@ intake in participants without obesity. Results show that under free-living cond
 eating speed predicted higher energy intake when examining consumption of foods with beverages. Obesity did
 not modify these associations. Findings highlight how eating behaviors can impact energy balance and can
 inform weight management interventions using wearable technology.
-
-
-

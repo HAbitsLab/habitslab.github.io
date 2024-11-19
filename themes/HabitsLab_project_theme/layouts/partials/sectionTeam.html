@@ -186,7 +186,9 @@
                         <div class="col-sm-6">
                             {{ range first (div (len .Params.team.collaborators) 2) .Params.team.collaborators }}
                                     <div class="single__collaborators__item">
-                                        <div class="collaborator__thumb has--bg-light-blue"></div>
+                                        {{/*  <div class="collaborator__thumb has--bg-light-blue">
+                                            <img src={{.image | relURL}} alt="">
+                                        </div>  */}}
                                         <div class="collaborator_content">
                                             {{if .profile}}
                                                 <a style="border-bottom: 0px dotted #B6ACD1;" 
@@ -202,7 +204,7 @@
                         <div class="col-sm-6">
                             {{ range after (div (len .Params.team.collaborators) 2) .Params.team.collaborators }}
                                 <div class="single__collaborators__item">
-                                    <div class="collaborator__thumb has--bg-light-blue"></div>
+                                    {{/*  <div class="collaborator__thumb has--bg-light-blue"></div>  */}}
                                     <div class="collaborator_content">
                                         {{if .profile}}
                                             <a style="border-bottom: 0px dotted #B6ACD1;" 

@@ -14,8 +14,3 @@ Screen time is associated with several health risk behaviors including mindless 
 
 
 ![Example image](/img/screen_detection_framework.png)
-
-
-
-
-

@@ -27,7 +27,3 @@ A total of 16 pregnant women enrolled in the study. Overall, 4157.18 hours of da
 ### 5. Conclusions
 
 In this study, we were able to build interpretable machine learning models to predict next-day physiological and perceived stress, and we identified unique features that were highly predictive of next-day stress that can help to reduce the burden of data collection.
-
-
-
-

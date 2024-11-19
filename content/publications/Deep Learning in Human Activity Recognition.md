@@ -12,5 +12,4 @@ github_link: "https://www.mdpi.com/1424-8220/22/4/1476"
 
 Mobile and wearable devices have enabled numerous applications, including activity tracking, wellness monitoring, and human–computer interaction, that measure and improve our daily lives. Many of these applications are made possible by leveraging the rich collection of low-power sensors found in many mobile and wearable devices to perform human activity recognition (HAR). Recently, deep learning has greatly pushed the boundaries of HAR on mobile and wearable devices. This paper systematically categorizes and summarizes existing work that introduces deep learning methods for wearables-based HAR and provides a comprehensive analysis of the current advancements, developing trends, and major challenges. We also present cutting-edge frontiers and future directions for deep learning-based HAR.
 
-
 ![Example image](/img/HARpaper.PNG)

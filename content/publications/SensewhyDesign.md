@@ -17,11 +17,3 @@ Up to 60 adults with obesity in the Chicagoland area will be recruited for a 14-
 Overeating is defined as caloric consumption exceeding 1 standard deviation of an individual's mean consumption per eating episode. To identify features that predict overeating, we will apply 2 complementary machine learning methods: correlation-based feature selection and wrapper-based feature selection. We will then generate clusters of overeating types and assess how they align with clinically meaningful overeating phenotypes.
 #### Conclusions
 This study will be the first to assess characteristics of eating episodes in situ over a multiweek period with visual confirmation of eating behaviors. An additional strength of this study is the assessment of predictors of problematic eating during periods when individuals are not on a structured diet and/or engaged in a weight loss intervention. Our assessment of overeating episodes in real-world settings is likely to yield new insights regarding determinants of overeating that may translate into novel interventions.
-
-
-<!-- ![Example image](/img/screen_detection_framework.png) -->
-
-
-
-
-

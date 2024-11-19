@@ -6,11 +6,13 @@ logo_image: "/img/nh.png"
 start_year: 2020
 end_year: 2022
 funding_amount: "$233,587"
-primary_investigator: {name: "Nabil Alshurafa", 
-                       title: "Ph.D., Director of HABits Lab", 
-                       description: "Assistant Professor of Preventive Medicine and of Computer Science at Northwestern University and heading The HAbits Lab.", 
-                       img: "/img/pro-big.png",
-                       profile: "https://www.github.com"}
+primary_investigator: 
+    {name: "Nabil Alshurafa", 
+    title: "Ph.D., Director of HABits Lab", 
+    description: "",
+    img: "/img/pro-big.png",
+    profile: "https://www.github.com"}
+mpis: {}
 coinvestigators: {}
 studentinvestigators: [
     {name: "Glenn Fernandes",
@@ -18,17 +20,9 @@ studentinvestigators: [
     profile: "/profiles/glenn"}
 ]
 mentors: {}
+
 ---
 
-<!-- #### Grant Information
-**Funding Agency:** National Institute of Health (NIH)  
-**Funding Institute:** National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)  
-**Type:** Small Research Grants (R03)  
-**Project #:** 1R03DK127128-01  
-**Project Start:** 1 Feb 2021  
-**Project End:** 31 Jan 2023 -->
-
-<!-- [Grantome page](https://grantome.com/grant/NIH/R03-DK127128-01) -->
 
 ### Background
 
@@ -40,7 +34,6 @@ We develop "WildCam", a wearable camera that sits on the chest and hosts an upwa
 
 ##### Internal design schematics:
 ![Schematics GIF](/img/wc-sch-crop.gif)
-<!-- ![Schematic image of WildCam Device](/img/wildcamschema.png) -->
 A master PCB (light green) houses the MCU, which controls the attached thermal (red), RGB (dark green), and night vision (purple) modules. Users power the device on and off via a switch (black and grey). When the device is on, input from the thermal and RGB sensors is written to the onboard SD card (red and gold) in an encrypted format. 
 
 ##### Enclosure design
@@ -68,7 +61,6 @@ In this project, we test 4 different obfuscation techniques in a randomized clin
 *Examples:*
 ![Gif of obfuscation techniques](/img/obf.gif)
 
-<!-- ![gif of CHI video](/img/chi-cartoon.gif) -->
 ### Research Approach
 
 

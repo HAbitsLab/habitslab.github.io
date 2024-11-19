@@ -14,8 +14,3 @@ Researchers have been leveraging wearable cameras to both visually confirm and a
 
 
 ![Example image](/img/SmartAct_Framework.png)
-
-
-
-
-

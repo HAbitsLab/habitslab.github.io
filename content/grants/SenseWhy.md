@@ -9,10 +9,10 @@ funding_amount: "$850,000"
 primary_investigator: 
     {name: "Nabil Alshurafa", 
     title: "Director of HABits Lab", 
-    description: "Associate Professor of Preventive Medicine and Computer Science, Northwestern University", 
     img: "/img/pro-big.png" ,
     profile: "/profiles/nabil"}
 
+mpis: {}
 coinvestigators: {}
 studentinvestigators: [
     {name: "Farzad Shahabi", img: "/img/im-2.png", profile: "/profiles/farzad"},
@@ -43,12 +43,9 @@ mentors: [
     {name: "Evan Forman",
     title: "Professor of Psychological and Brain Sciences, Drexel University",
     img: "/img/forman_evan.jpg",
-    profile: "https://drexel.edu/coas/faculty-research/faculty-directory/psychology-well/faculty-core/Evan-Forman/"},
-
-    {name: "Tammy Stump",
-    title: "Research Associate, Huntsman Cancer Institute, University of Utah",
-    img: "/img/p-2.png",
-    profile: "https://medicine.utah.edu/faculty/tammy-k-stump"}]
+    profile: "https://drexel.edu/coas/faculty-research/faculty-directory/psychology-well/faculty-core/Evan-Forman/"}
+    ]
+    
 ---
 
 ### 1. Introduction

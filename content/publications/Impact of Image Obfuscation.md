@@ -14,8 +14,3 @@ Automated detection and validation of fine-grained human activities from egocent
 
 
 ![Example image](/img/imapcts_of_image_obfuscation.png)
-
-
-
-
-
