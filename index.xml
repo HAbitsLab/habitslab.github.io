@@ -72,6 +72,13 @@
       <description></description>
     </item>
     <item>
+      <title>WILDCAM: EFFECTS OF VIDEO OBFUSCATION ON THE ACCEPTABILITY OF WEARABLE CAMERAS</title>
+      <link>https://HAbitsLab.github.io/publications/sbm24-wildcam/</link>
+      <pubDate>Sat, 16 Mar 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/publications/sbm24-wildcam/</guid>
+      <description>&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;&#xA;&lt;p&gt;Obesity treatment would benefit greatly from real-time monitoring&#xA;of problematic eating behaviors in real-world settings. Wearable cameras&#xA;provide significant utility in automatically detecting and understanding eating&#xA;behaviors, yet pose major privacy concerns in real-world settings, significantly&#xA;impacting longitudinal wear adherence. We objectively assess the wear time of&#xA;three different video obfuscation methods in a crossover clinical trial to determine&#xA;the greatest acceptability and feasibility, compared with no obfuscation.&#xA;Lessons learned from this study have the potential to inform the design of&#xA;privacy-conscious wearable devices that individuals with obesity will adhere&#xA;to and that can accurately detect eating, which will advance our understanding&#xA;of behavioral phenotypes surrounding obesity, laying the foundation for future&#xA;timely interventions to reduce problematic eating behaviors.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Farzad receives Meritorious Abstract and Citation Awards at SBM 2024</title>
       <link>https://HAbitsLab.github.io/news/sbmawardfarzad24/</link>
       <pubDate>Fri, 15 Mar 2024 15:09:31 -0600</pubDate>
@@ -468,7 +475,7 @@
       <link>https://HAbitsLab.github.io/publications/wristsense-2021/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/publications/wristsense-2021/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Digitally characterizing the dynamics of multiple health behavior change.</title>
@@ -545,7 +552,7 @@
       <link>https://HAbitsLab.github.io/grants/wildcam/</link>
       <pubDate>Fri, 29 Jan 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/grants/wildcam/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;p&gt;The research, assessment, and treatment of unhealthy eating habits all rely on self reporting. That is, the patient or client must record their own dietary intake by using a food journal. This method of diet tracking has &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/&#34;&gt;proven problematic&lt;/a&gt;, as much dietary information is lost due forgetting, non-adherence, dishonesty, and so forth. Because diet information is critical to the work of behavioral clinicians and researchers, a better method for diet monitoring is needed. In our project, &amp;ldquo;WildCam&amp;rdquo;, we aim to develop such a method via a wearable camera system, accounting for known user-experience issues associated with wearable cameras, including comfort, privacy concerns, and social stigma.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;p&gt;The research, assessment, and treatment of unhealthy eating habits all rely on self reporting. That is, the patient or client must record their own dietary intake by using a food journal. This method of diet tracking has &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/&#34;&gt;proven problematic&lt;/a&gt;, as much dietary information is lost due forgetting, non-adherence, dishonesty, and so forth. Because diet information is critical to the work of behavioral clinicians and researchers, a better method for diet monitoring is needed. In our project, &amp;ldquo;WildCam&amp;rdquo;, we aim to develop such a method via a wearable camera system, accounting for known user-experience issues associated with wearable cameras, including comfort, privacy concerns, and social stigma.&lt;/p&gt;</description>
     </item>
     <item>
       <title>eHealth practices in cancer survivors with BMI in overweight or obese categories: Latent class analysis study</title>
@@ -699,7 +706,7 @@
       <link>https://HAbitsLab.github.io/publications/young-african-american-womens-participation/</link>
       <pubDate>Tue, 01 Oct 2019 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/publications/young-african-american-womens-participation/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Micro-stress EMA: A passive sensing framework for detecting in-the-wild stress in pregnant mothers</title>

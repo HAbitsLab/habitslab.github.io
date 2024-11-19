@@ -23,6 +23,13 @@
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras provide an objective method to visually confirm and automate the detection of health-risk behaviors such as smoking and overeating, which is critical for developing and testing adaptive treatment interventions. Despite the potential of wearable camera systems, adoption is hindered by inadequate clinician input in the design, user privacy concerns, and user burden. To address these barriers, we introduced HabitSense, an open-source1, multi-modal neck-worn platform developed with input from focus groups with clinicians (N=36) and user feedback from in-wild studies involving 105 participants over 35 days. Optimized for monitoring health-risk behaviors, the platform utilizes RGB, thermal, and inertial measurement unit sensors to detect eating and smoking events in real time. In a 7-day study involving 15 participants, HabitSense recorded 768 hours of footage, capturing 420.91 minutes of hand-to-mouth gestures associated with eating and smoking data crucial for training machine learning models, achieving a 92% F1-score in gesture recognition. To address privacy concerns, the platform records only during likely health-risk behavior events using SECURE, a smart activation algorithm. Additionally, HabitSense employs on-device obfuscation algorithms that selectively obfuscate the background during recording, maintaining individual privacy while leaving gestures related to health-risk behaviors unobfuscated. Our implementation of SECURE has resulted in a 48% reduction in storage needs and a 30% increase in battery life. This paper highlights the critical roles of clinician feedback, extensive field testing, and privacy-enhancing algorithms in developing an unobtrusive, lightweight, and reproducible wearable system that is both feasible and acceptable for monitoring health-risk behaviors in real-world settings.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>WILDCAM: EFFECTS OF VIDEO OBFUSCATION ON THE ACCEPTABILITY OF WEARABLE CAMERAS</title>
+      <link>https://HAbitsLab.github.io/publications/sbm24-wildcam/</link>
+      <pubDate>Sat, 16 Mar 2024 15:09:31 -0600</pubDate>
+      <guid>https://HAbitsLab.github.io/publications/sbm24-wildcam/</guid>
+      <description>&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;&#xA;&lt;p&gt;Obesity treatment would benefit greatly from real-time monitoring&#xA;of problematic eating behaviors in real-world settings. Wearable cameras&#xA;provide significant utility in automatically detecting and understanding eating&#xA;behaviors, yet pose major privacy concerns in real-world settings, significantly&#xA;impacting longitudinal wear adherence. We objectively assess the wear time of&#xA;three different video obfuscation methods in a crossover clinical trial to determine&#xA;the greatest acceptability and feasibility, compared with no obfuscation.&#xA;Lessons learned from this study have the potential to inform the design of&#xA;privacy-conscious wearable devices that individuals with obesity will adhere&#xA;to and that can accurately detect eating, which will advance our understanding&#xA;of behavioral phenotypes surrounding obesity, laying the foundation for future&#xA;timely interventions to reduce problematic eating behaviors.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>An Explainable Artificial Intelligence Software Tool for Weight Management Experts (PRIMO): Mixed Methods Study</title>
       <link>https://HAbitsLab.github.io/publications/primo/</link>
       <pubDate>Wed, 06 Sep 2023 15:09:31 -0600</pubDate>
@@ -160,7 +167,7 @@
       <link>https://HAbitsLab.github.io/publications/wristsense-2021/</link>
       <pubDate>Fri, 03 Dec 2021 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/publications/wristsense-2021/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Digitally characterizing the dynamics of multiple health behavior change.</title>
@@ -300,7 +307,7 @@
       <link>https://HAbitsLab.github.io/publications/young-african-american-womens-participation/</link>
       <pubDate>Tue, 01 Oct 2019 15:09:31 -0600</pubDate>
       <guid>https://HAbitsLab.github.io/publications/young-african-american-womens-participation/</guid>
-      <description>&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Wearable cameras are used as a tool to understand fine-grained human activities in the wild because of their ability to provide visual information that can be interpreted by humans [15, 45, 55] or machines [6, 43, 48]. Particularly in the ubiquitous computing (UbiComp) community, wearable cameras are increasingly being used to obtain visually confirmed annotations of wearers’ activities in real-world settings, which is necessary to both understand human.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Micro-stress EMA: A passive sensing framework for detecting in-the-wild stress in pregnant mothers</title>
