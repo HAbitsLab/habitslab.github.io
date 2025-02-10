@@ -1,0 +1,12 @@
+---
+title: "HealthSense: Unobtrusive Continuous Stress Monitoring Using a Novel Dual ECG-PPG Patch"
+date: 2024-10-15T15:09:31-06:00
+draft: false
+authors: [{name: "Glenn Fernandes", profile: "/profiles/glenn"}, {name: "Boyang Wei", profile: "/profiles/boyang"}, {name: "Chris Romano", profile: "/profiles/chris"}, {name: "Deniz Ulusel"}, {name: "Henry K Dambanemuya"}, {name: "Yang Gao"}, {name: "Roozbeh Ghaffari"}, {name: "John Rogers"}, {name: "Nabil Alshurafa", profile: "/profiles/nabil"}]
+has_github_link: true
+github_link: "https://ieeexplore.ieee.org/abstract/document/10780566"
+
+---
+### Abstract
+
+Stress, a significant risk factor for chronic disease, manifests as changes in heart rate, respiration rate, and blood pressure. Non-invasive wearables like smartwatches can con-tinuously track these physiological indicators to predict stress, enabling clinicians to develop and test interventions. However, most current devices are rigid and lack skin conformity, resulting in suboptimal signal quality and adherence during extended use. Furthermore, existing flexible sensors employ either elec-trocardiogram (ECG) or photoplethysmography (PPG), but not both, which is useful for calculating pulse arrival time (PAT) - known to correlate with stress. Addressing these challenges, we introduce HealthSense, a novel, flexible, and skin-conformable device that integrates ECG, PPG, and Inertial Measurement Unit (IMU) sensors into a single wearable. We assessed the comfort of wearing HealthSense and the feasibility of stress prediction by conducting a stress-induction study with 11 participants. Participants rated the comfort level of wearing the device on a Likert scale of 1–5, with 80 % rating it as a 5 (most comfortable). Using statistical features, heart rate variability (HRV) related features, and PAT from our sensor data, we trained machine learning (ML) models to predict minute-level perceived and physiological stress with F1-scores of 85.5 % and 87.7 %, respectively. Additionally, using SHAP values, we identified PAT, systolic time, and pulse as the most significant contributors to the predictions. These findings enhance the understanding of physiological manifestations of stress and lays the groundwork for future stress-reduction interventions.

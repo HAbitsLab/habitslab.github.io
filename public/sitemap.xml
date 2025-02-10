@@ -14,6 +14,12 @@
     <loc>http://localhost:1313/news/bsn24/</loc>
     <lastmod>2024-10-17T15:09:31-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/publications/</loc>
+    <lastmod>2024-10-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/when2trigger/</loc>
+    <lastmod>2024-10-15T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/farzad_nature/</loc>
     <lastmod>2024-10-14T15:09:31-06:00</lastmod>
   </url><url>
@@ -21,9 +27,6 @@
     <lastmod>2024-10-01T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/nirsighted/</loc>
-    <lastmod>2024-09-11T15:09:31-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2024-09-11T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/habitsense/</loc>

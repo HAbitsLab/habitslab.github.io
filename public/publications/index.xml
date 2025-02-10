@@ -6,8 +6,36 @@
     <description>Recent content in Publications on HabitsLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2024 15:09:31 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 15:09:31 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A machine-learned model for predicting weight loss success using weight change features early in treatment</title>
+      <link>http://localhost:1313/publications/weightlosssuccessml/</link>
+      <pubDate>Fri, 29 Nov 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/weightlosssuccessml/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Stepped-care obesity treatments aim to improve efficiency by early identification of non-responders and adjusting interventions but lack validated models. We trained a random forest classifier to improve the predictive utility of a clinical decision rule (&amp;gt;0.5 lb weight loss/week) that identifies non-responders in the first 2 weeks of a stepped-care weight loss trial (SMART). From 2009 to 2021, 1058 individuals with obesity participated in three studies: SMART, Opt-IN, and ENGAGED. The model was trained on 80% of the SMART data (224 participants), and its in-distribution generalizability was tested on the remaining 20% (remaining 57 participants). The out-of-distribution generalizability was tested on the ENGAGED and Opt-IN studies (472 participants). The model predicted weight loss at month 6 with an 84.5% AUROC and an 86.3% AUPRC. SHAP identified predictive features: weight loss at week 2, ranges/means and ranges of weight loss, slope, and age. The SMART-trained model showed generalizable performance with no substantial difference across studies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HealthSense: Unobtrusive Continuous Stress Monitoring Using a Novel Dual ECG-PPG Patch</title>
+      <link>http://localhost:1313/publications/healthsense/</link>
+      <pubDate>Tue, 15 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/healthsense/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Stress, a significant risk factor for chronic disease, manifests as changes in heart rate, respiration rate, and blood pressure. Non-invasive wearables like smartwatches can con-tinuously track these physiological indicators to predict stress, enabling clinicians to develop and test interventions. However, most current devices are rigid and lack skin conformity, resulting in suboptimal signal quality and adherence during extended use. Furthermore, existing flexible sensors employ either elec-trocardiogram (ECG) or photoplethysmography (PPG), but not both, which is useful for calculating pulse arrival time (PAT) - known to correlate with stress. Addressing these challenges, we introduce HealthSense, a novel, flexible, and skin-conformable device that integrates ECG, PPG, and Inertial Measurement Unit (IMU) sensors into a single wearable. We assessed the comfort of wearing HealthSense and the feasibility of stress prediction by conducting a stress-induction study with 11 participants. Participants rated the comfort level of wearing the device on a Likert scale of 1–5, with 80 % rating it as a 5 (most comfortable). Using statistical features, heart rate variability (HRV) related features, and PAT from our sensor data, we trained machine learning (ML) models to predict minute-level perceived and physiological stress with F1-scores of 85.5 % and 87.7 %, respectively. Additionally, using SHAP values, we identified PAT, systolic time, and pulse as the most significant contributors to the predictions. These findings enhance the understanding of physiological manifestations of stress and lays the groundwork for future stress-reduction interventions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Self-Sustaining Wearable UV Sensor for Passive and Continuous Sun Protection</title>
+      <link>http://localhost:1313/publications/selfsustaininguv/</link>
+      <pubDate>Tue, 15 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/selfsustaininguv/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Skin cancer, particularly melanoma, is a major health concern due to rising incidence rates, largely driven by ultraviolet (UV) radiation overexposure, making it essential to monitor and manage sun exposure effectively. While existing wearable UV sensors track exposure, they often rely on external power sources, limiting their battery lifetime. This study presents a self-sustaining wearable UV sensor that integrates solar energy harvesting, enabling continuous monitoring without need for frequent recharging. The device uses low-power components to measure UVA and UVB radiation with high accuracy. It is pow-ered by a solar panel made from Ethylene Tetrafluoroethylene (ETFE), which provides continuous energy to recharge a LiPo battery. It transmits data via BLE for real-time feedback and can be used for personalized sun protection recommendations. A usability study with 10 participants demonstrated the sensor&amp;rsquo;s effectiveness in raising UV awareness and encouraging sun protection habits.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When2Trigger: Evaluation Trade-Offs in Vision-Based Real-Time Eating Detection Systems</title>
+      <link>http://localhost:1313/publications/when2trigger/</link>
+      <pubDate>Tue, 15 Oct 2024 15:09:31 -0600</pubDate>
+      <guid>http://localhost:1313/publications/when2trigger/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Wearable camera and thermal sensing systems are increasingly used for real-time eating detection and timely notifications to remind users to log their meals. However, confounding gestures such as irrelevant hand movements can cause false device confirmations of eating in real-time. Delaying the device confirmation of an eating episode, until the system is certain, can improve accuracy of eating detection, but prevents the capture of shorter bouts of eating. Balancing the trade-off between errors and detection delay is key to developing effective methods that provide immediate user feedback. This paper presents a real-time, hand-object-based method for automated detection of eating and drinking gestures and identifies the minimum number of gestures needed to reliably detect an eating episode. Unlike prior work, our method considers both hand motion and the object-in-hand and uses a low-power thermal sensor to reduce false positives. We evaluated our method on 36 participants, 28 of whom wore a wearable camera for up to 14 days in free-living environments. The results show that eating episodes can be accurately detected using 10 gestures or within the first 1.5 minutes of the eating episode, achieving an Fl-score of 89.0%. Our findings provide evaluation guidelines for designing real-time intervention systems to address problematic eating behaviors.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>NIR-sighted: A Programmable Streaming Architecture for Low-Energy Human-Centric Vision Applications</title>
       <link>http://localhost:1313/publications/nirsighted/</link>
