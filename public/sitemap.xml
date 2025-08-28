@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/publications/</loc>
+    <lastmod>2025-07-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/thor/</loc>
+    <lastmod>2025-07-08T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/developing-and-comparing-a-new-bmi/</loc>
+    <lastmod>2025-06-19T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/the-role-of-eating/</loc>
+    <lastmod>2025-05-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/multimodal-hand-to-mouth/</loc>
+    <lastmod>2025-04-11T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/co-designing-prediction-data-visuals/</loc>
+    <lastmod>2025-03-26T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/weightlosssuccessml/</loc>
+    <lastmod>2024-11-29T15:09:31-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/sbmawardboyang25/</loc>
     <lastmod>2024-11-06T15:09:31-06:00</lastmod>
   </url><url>
@@ -14,7 +35,10 @@
     <loc>http://localhost:1313/news/bsn24/</loc>
     <lastmod>2024-10-17T15:09:31-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>http://localhost:1313/publications/healthsense/</loc>
+    <lastmod>2024-10-15T15:09:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/selfsustaininguv/</loc>
     <lastmod>2024-10-15T15:09:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/when2trigger/</loc>
