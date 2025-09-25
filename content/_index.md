@@ -61,7 +61,6 @@ team: {
 	{name: "Helen Zhu", degree: "Undergrad", image: "/img/Helen.jpg", profile: "/profiles/helen"},
 	{name: "Dwayne Morgan", degree: "Undergrad", image: "/img/Dwayne.jpg", profile: "/profiles/dwayne"},
  	{name: "Tanmeet Butani", degree: "Masters", image: "/img/tanmeet.jpeg", profile: "/profiles/tanmeet"},
-  	{name: "Gracelyn Shi", degree: "Undergrad", image: "/img/grace.jpg", profile: "/profiles/gracelyn"},
   	{name: "Jiayi (Joey) Zheng", degree: "Masters", image: "/img/jiayi.jpg", profile: "/profiles/jiayi"}
         ],
     collaborators: [
@@ -74,7 +73,8 @@ team: {
         {name: "Lauren Wakschlag", degree: "Vice Chair for Scientific & Faculty Development, Department of Medical Social Sciences Director, Institute for Innovations in Developmental Sciences Professor of Medical Social Sciences,", profile: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=18810"},                    
          ],
     former_students: [
-    		{name: "Rawan Alharbi", degree: "Ph.D", profile: ""},
+        {name: "Gracelyn Shi", degree: "MS", profile: ""},
+    	{name: "Rawan Alharbi", degree: "Ph.D", profile: ""},
 		{name: "Yang Gao", degree: "Postdoc", profile: ""},
 		{name: "Shibo Zhang", degree: "Ph.D", profile: ""},
 		{name: "Dzung Nguyen", degree: "Ph.D/Postdoc", profile: ""},
